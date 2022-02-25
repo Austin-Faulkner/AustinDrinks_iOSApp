@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>city</key>
+		<string>Austin</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Cedar Park</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Dripping Springs</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Fredericksburg</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Georgetown</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Marble Falls</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>New Braunfels</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Round Rock</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>San Antonio</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>San Marcos</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Wimberley</string>
+		<key>state</key>
+		<string>TX</string>
+	</dict>
+</array>
+</plist>

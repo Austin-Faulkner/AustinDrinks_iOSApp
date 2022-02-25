@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "DrinkinWisdomAD (175 x 175 px).png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "DrinkinWisdomAD (350 x 350 px).png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "DrinkinWisdomAD (700 x 700 px).png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
