@@ -2,7 +2,7 @@
 //  MapViewController.swift
 //  AustinDrinks
 //
-//  Created by Austin Faulkner on 1/13/22.
+//  Created by Austin Faulkner on 2/15/22.
 //
 
 import UIKit
@@ -39,18 +39,18 @@ private extension MapViewController {
     func setupMap(_ annotations: [EstablishmentItem]) {
 <<<<<<< HEAD
 <<<<<<< HEAD
-        mapView.setRegion(manager.currentRegion(latDelta: 0.5, longDelta: 0.5), animated: true) // Issue in the book?: .currentRegion()
+        mapView.setRegion(manager.currentRegion(latDelta: 0.5, longDelta: 0.5), animated: true) // .currentRegion()
 
-//        mapView.setRegion(manager.initialRegion(latDelta: 0.5, longDelta: 0.5), animated: true) // Issue in the book?: .currentRegion()
+//        mapView.setRegion(manager.initialRegion(latDelta: 0.5, longDelta: 0.5), animated: true) //  .currentRegion()
 =======
-//        mapView.setRegion(manager.currentRegion(latDelta: 0.5, longDelta: 0.5), animated: true) // Issue in the book?: .currentRegion()
+//        mapView.setRegion(manager.currentRegion(latDelta: 0.5, longDelta: 0.5), animated: true) //  .currentRegion()
 
-        mapView.setRegion(manager.initialRegion(latDelta: 0.5, longDelta: 0.5), animated: true) // Issue in the book?: .currentRegion()
+        mapView.setRegion(manager.initialRegion(latDelta: 0.5, longDelta: 0.5), animated: true) //  .currentRegion()
 >>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
 =======
-//        mapView.setRegion(manager.currentRegion(latDelta: 0.5, longDelta: 0.5), animated: true) // Issue in the book?: .currentRegion()
+//        mapView.setRegion(manager.currentRegion(latDelta: 0.5, longDelta: 0.5), animated: true) //  .currentRegion()
 
-        mapView.setRegion(manager.initialRegion(latDelta: 0.5, longDelta: 0.5), animated: true) // Issue in the book?: .currentRegion()
+        mapView.setRegion(manager.initialRegion(latDelta: 0.5, longDelta: 0.5), animated: true) //  .currentRegion()
 >>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
         mapView.addAnnotations(manager.annotations)
     }
