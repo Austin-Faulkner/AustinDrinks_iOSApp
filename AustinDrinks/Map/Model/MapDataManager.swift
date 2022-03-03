@@ -2,7 +2,7 @@
 //  MapDataManager.swift
 //  AustinDrinks
 //
-//  Created by Austin Faulkner on 1/13/22.
+//  Created by Austin Faulkner on 2/22/22.
 //
 
 import Foundation
@@ -19,7 +19,7 @@ class MapDataManager: DataManager {
 <<<<<<< HEAD
 <<<<<<< HEAD
         manager.fetch(location: "austin_TX", completionHandler: {
-//        manager.fetch(location: "Boston", completionHandler: {   // Is there something wrong here?  "Boston" hardcode works!
+//        manager.fetch(location: "Austin", completionHandler: {   // Is there something wrong here?
 =======
         manager.fetch(location: "austin_TX", completionHandler: {   // Is there something wrong here?
 >>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
