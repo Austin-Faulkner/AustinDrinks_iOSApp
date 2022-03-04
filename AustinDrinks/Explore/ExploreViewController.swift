@@ -2,7 +2,7 @@
 //  ExploreViewController.swift
 //  AustinDrinks
 //
-//  Created by Austin Faulkner on 01/31/22.
+//  Created by Austin Faulkner on 01/29/22.
 //
 
 import UIKit
@@ -10,7 +10,7 @@ import MapKit
 
 class ExploreViewController: UIViewController, UICollectionViewDelegate {
 
-    @IBOutlet weak var collectionView: UICollectionView!  // weak need?
+    @IBOutlet weak var collectionView: UICollectionView!
     let manager = ExploreDataManager()
     var selectedCity: LocationItem?
     var headerView: ExploreHeaderView!
@@ -55,19 +55,12 @@ private extension ExploreViewController {
         viewController.selectedCity = selectedCity
     }
     
+    
     func showEstablishmentList(segue: UIStoryboardSegue) {
         if let viewController = segue.destination as? DrinkingEstablishmentsListViewController,
            let city = selectedCity,
            let index = collectionView.indexPathsForSelectedItems?.first?.row {
             viewController.selectedTags = manager.exploreItem(at: index).name
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-//            viewController.selectedTags = manager.exploreItem(at: index).name
-=======
->>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
-=======
->>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
             viewController.selectedCity = city
         }
     }
@@ -107,7 +100,6 @@ extension ExploreViewController: UICollectionViewDataSource {
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "exploreCell", for: indexPath) as! ExploreCell
         let exploreItem = manager.exploreItem(at: indexPath.row)
-//        cell.exploreNameLabel.text = exploreItem.name
         cell.exploreImageView.image = UIImage(named: exploreItem.image!)
         return cell
     }

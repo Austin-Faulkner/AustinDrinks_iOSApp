@@ -2,7 +2,7 @@
 //  LocationItem.swift
 //  AustinDrinks
 //
-//  Created by Austin Faulkner on 2/5/22.
+//  Created by Austin Faulkner on 1/20/22.
 //
 
 import Foundation

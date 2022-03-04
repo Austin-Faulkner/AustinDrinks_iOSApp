@@ -8,10 +8,25 @@
 
 /* Begin PBXBuildFile section */
 		810EEE1A26B366A000483CAF /* ExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 810EEE1926B366A000483CAF /* ExploreViewController.swift */; };
+		AC13D67C27AACEB00057F413 /* RatingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13D67B27AACEB00057F413 /* RatingsView.swift */; };
+		AC13D67E27AAE7B10057F413 /* ReviewFormViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13D67D27AAE7B10057F413 /* ReviewFormViewController.swift */; };
+		AC13D68127AAF19E0057F413 /* FilterData.plist in Resources */ = {isa = PBXBuildFile; fileRef = AC13D68027AAF19E0057F413 /* FilterData.plist */; };
+		AC13D68327AAF1F30057F413 /* FilterItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13D68227AAF1F30057F413 /* FilterItem.swift */; };
+		AC13D68527AAF2D00057F413 /* FilterDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13D68427AAF2D00057F413 /* FilterDataManager.swift */; };
+		AC13D68727AAF3F10057F413 /* ImageFiltering.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13D68627AAF3F10057F413 /* ImageFiltering.swift */; };
+		AC13D68927AB2DBB0057F413 /* FilterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13D68827AB2DBB0057F413 /* FilterCell.swift */; };
+		AC13D68B27AB306C0057F413 /* PhotoFilterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC13D68A27AB306C0057F413 /* PhotoFilterViewController.swift */; };
+		AC13D68F27AB46720057F413 /* AustinDrinksModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AC13D68D27AB46720057F413 /* AustinDrinksModel.xcdatamodeld */; };
+		AC18DEF227AC7B7E006640E0 /* ReviewItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC18DEF127AC7B7E006640E0 /* ReviewItem.swift */; };
+		AC18DEF427AC7ECE006640E0 /* EstablishmentPhotoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC18DEF327AC7ECE006640E0 /* EstablishmentPhotoItem.swift */; };
+		AC18DEF627AC80FE006640E0 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC18DEF527AC80FE006640E0 /* CoreDataManager.swift */; };
+		AC18DEF927AC9EBD006640E0 /* ReviewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC18DEF827AC9EBD006640E0 /* ReviewCell.swift */; };
+		AC18DEFB27AC9FAE006640E0 /* ReviewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC18DEFA27AC9FAE006640E0 /* ReviewsViewController.swift */; };
+		AC18DEFE27ACBA78006640E0 /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC18DEFD27ACBA78006640E0 /* PhotoCell.swift */; };
+		AC18DF0027ACBB60006640E0 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC18DEFF27ACBB60006640E0 /* PhotosViewController.swift */; };
 		AC4738B72790B88800B9D57B /* LocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4738B62790B88800B9D57B /* LocationViewController.swift */; };
 		AC4738BB2790C09C00B9D57B /* Locations.plist in Resources */ = {isa = PBXBuildFile; fileRef = AC4738BA2790C09C00B9D57B /* Locations.plist */; };
 		AC4738BD2790C29000B9D57B /* LocationDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4738BC2790C29000B9D57B /* LocationDataManager.swift */; };
-		AC4738C12790CAB400B9D57B /* MapLocations.plist in Resources */ = {isa = PBXBuildFile; fileRef = AC4738C02790CAB400B9D57B /* MapLocations.plist */; };
 		AC4738C32790CC5300B9D57B /* EstablishmentItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4738C22790CC5200B9D57B /* EstablishmentItem.swift */; };
 		AC4738C52790D20400B9D57B /* MapDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4738C42790D20400B9D57B /* MapDataManager.swift */; };
 		AC4738C82790D50E00B9D57B /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC4738C72790D50E00B9D57B /* DataManager.swift */; };
@@ -52,10 +67,25 @@
 
 /* Begin PBXFileReference section */
 		810EEE1926B366A000483CAF /* ExploreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
+		AC13D67B27AACEB00057F413 /* RatingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsView.swift; sourceTree = "<group>"; };
+		AC13D67D27AAE7B10057F413 /* ReviewFormViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewFormViewController.swift; sourceTree = "<group>"; };
+		AC13D68027AAF19E0057F413 /* FilterData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = FilterData.plist; sourceTree = "<group>"; };
+		AC13D68227AAF1F30057F413 /* FilterItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterItem.swift; sourceTree = "<group>"; };
+		AC13D68427AAF2D00057F413 /* FilterDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterDataManager.swift; sourceTree = "<group>"; };
+		AC13D68627AAF3F10057F413 /* ImageFiltering.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageFiltering.swift; sourceTree = "<group>"; };
+		AC13D68827AB2DBB0057F413 /* FilterCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterCell.swift; sourceTree = "<group>"; };
+		AC13D68A27AB306C0057F413 /* PhotoFilterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFilterViewController.swift; sourceTree = "<group>"; };
+		AC13D68E27AB46720057F413 /* AustinDrinksModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AustinDrinksModel.xcdatamodel; sourceTree = "<group>"; };
+		AC18DEF127AC7B7E006640E0 /* ReviewItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewItem.swift; sourceTree = "<group>"; };
+		AC18DEF327AC7ECE006640E0 /* EstablishmentPhotoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EstablishmentPhotoItem.swift; sourceTree = "<group>"; };
+		AC18DEF527AC80FE006640E0 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
+		AC18DEF827AC9EBD006640E0 /* ReviewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewCell.swift; sourceTree = "<group>"; };
+		AC18DEFA27AC9FAE006640E0 /* ReviewsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewsViewController.swift; sourceTree = "<group>"; };
+		AC18DEFD27ACBA78006640E0 /* PhotoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
+		AC18DEFF27ACBB60006640E0 /* PhotosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
 		AC4738B62790B88800B9D57B /* LocationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationViewController.swift; sourceTree = "<group>"; };
 		AC4738BA2790C09C00B9D57B /* Locations.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Locations.plist; sourceTree = "<group>"; };
 		AC4738BC2790C29000B9D57B /* LocationDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDataManager.swift; sourceTree = "<group>"; };
-		AC4738C02790CAB400B9D57B /* MapLocations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = MapLocations.plist; path = ../MapLocations.plist; sourceTree = "<group>"; };
 		AC4738C22790CC5200B9D57B /* EstablishmentItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EstablishmentItem.swift; sourceTree = "<group>"; };
 		AC4738C42790D20400B9D57B /* MapDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapDataManager.swift; sourceTree = "<group>"; };
 		AC4738C72790D50E00B9D57B /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
@@ -117,6 +147,52 @@
 			path = Explore;
 			sourceTree = "<group>";
 		};
+		AC13D67F27AAF17E0057F413 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AC13D68027AAF19E0057F413 /* FilterData.plist */,
+				AC13D68227AAF1F30057F413 /* FilterItem.swift */,
+				AC13D68427AAF2D00057F413 /* FilterDataManager.swift */,
+				AC18DEF327AC7ECE006640E0 /* EstablishmentPhotoItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AC13D68C27AB461A0057F413 /* Core Data */ = {
+			isa = PBXGroup;
+			children = (
+				AC13D68D27AB46720057F413 /* AustinDrinksModel.xcdatamodeld */,
+				AC18DEF527AC80FE006640E0 /* CoreDataManager.swift */,
+			);
+			path = "Core Data";
+			sourceTree = "<group>";
+		};
+		AC13D69027AB4A5C0057F413 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AC18DEF127AC7B7E006640E0 /* ReviewItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		AC18DEF727AC9E5B006640E0 /* Reviews */ = {
+			isa = PBXGroup;
+			children = (
+				AC18DEF827AC9EBD006640E0 /* ReviewCell.swift */,
+				AC18DEFA27AC9FAE006640E0 /* ReviewsViewController.swift */,
+			);
+			path = Reviews;
+			sourceTree = "<group>";
+		};
+		AC18DEFC27ACB9EA006640E0 /* EstablishmentReviewPhotos */ = {
+			isa = PBXGroup;
+			children = (
+				AC18DEFD27ACBA78006640E0 /* PhotoCell.swift */,
+				AC18DEFF27ACBB60006640E0 /* PhotosViewController.swift */,
+			);
+			path = EstablishmentReviewPhotos;
+			sourceTree = "<group>";
+		};
 		AC4738B52790B82D00B9D57B /* Location */ = {
 			isa = PBXGroup;
 			children = (
@@ -156,7 +232,6 @@
 		AC4738BF2790C76E00B9D57B /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				AC4738C02790CAB400B9D57B /* MapLocations.plist */,
 				AC4738C22790CC5200B9D57B /* EstablishmentItem.swift */,
 				AC4738C42790D20400B9D57B /* MapDataManager.swift */,
 			);
@@ -166,6 +241,7 @@
 		AC4738C62790D4F000B9D57B /* Misc */ = {
 			isa = PBXGroup;
 			children = (
+				AC13D68C27AB461A0057F413 /* Core Data */,
 				AC51155727A45FFB00E62060 /* No Data */,
 				AC59B6D127920EE7005A8D7C /* JSON */,
 				AC4738C72790D50E00B9D57B /* DataManager.swift */,
@@ -186,7 +262,10 @@
 		AC4738CE2790E15900B9D57B /* ReviewForm */ = {
 			isa = PBXGroup;
 			children = (
+				AC13D69027AB4A5C0057F413 /* Model */,
 				AC4738CF2790E16F00B9D57B /* ReviewForm.storyboard */,
+				AC13D67B27AACEB00057F413 /* RatingsView.swift */,
+				AC13D67D27AAE7B10057F413 /* ReviewFormViewController.swift */,
 			);
 			path = ReviewForm;
 			sourceTree = "<group>";
@@ -194,7 +273,11 @@
 		AC4738D12790E18F00B9D57B /* PhotoFilter */ = {
 			isa = PBXGroup;
 			children = (
+				AC13D67F27AAF17E0057F413 /* Model */,
 				AC4738D22790E1A500B9D57B /* PhotoFilter.storyboard */,
+				AC13D68627AAF3F10057F413 /* ImageFiltering.swift */,
+				AC13D68827AB2DBB0057F413 /* FilterCell.swift */,
+				AC13D68A27AB306C0057F413 /* PhotoFilterViewController.swift */,
 			);
 			path = PhotoFilter;
 			sourceTree = "<group>";
@@ -290,6 +373,8 @@
 		C9C93C832697B44D0034E1CD /* AustinDrinks */ = {
 			isa = PBXGroup;
 			children = (
+				AC18DEFC27ACB9EA006640E0 /* EstablishmentReviewPhotos */,
+				AC18DEF727AC9E5B006640E0 /* Reviews */,
 				AC4738D12790E18F00B9D57B /* PhotoFilter */,
 				AC4738CE2790E15900B9D57B /* ReviewForm */,
 				AC4738CB2790E0C300B9D57B /* EstablishmentDetail */,
@@ -369,6 +454,7 @@
 				C9C93C912697B4540034E1CD /* LaunchScreen.storyboard in Resources */,
 				ACE1062C27A86E05001BCD1B /* Round Rock.json in Resources */,
 				AC809C0C27A8981D00186426 /* Marble Falls.json in Resources */,
+				AC13D68127AAF19E0057F413 /* FilterData.plist in Resources */,
 				ACE1062827A86E05001BCD1B /* Dripping Springs.json in Resources */,
 				ACE1062A27A86E05001BCD1B /* Austin.json in Resources */,
 				ACE1062927A86E05001BCD1B /* Fredericksburg.json in Resources */,
@@ -384,7 +470,6 @@
 				AC51155F27A481D100E62060 /* NoDataView.xib in Resources */,
 				AC4738BB2790C09C00B9D57B /* Locations.plist in Resources */,
 				AC4738CD2790E0F300B9D57B /* EstablishmentDetail.storyboard in Resources */,
-				AC4738C12790CAB400B9D57B /* MapLocations.plist in Resources */,
 				C9C93C8C2697B44D0034E1CD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -397,23 +482,38 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACA755E62799CE5B008BF13F /* LocationItem.swift in Sources */,
+				AC13D67C27AACEB00057F413 /* RatingsView.swift in Sources */,
 				ACA755E82799D42D008BF13F /* ExploreHeaderView.swift in Sources */,
 				AC5007FE278F60C100381821 /* ExploreItem.swift in Sources */,
+				AC18DF0027ACBB60006640E0 /* PhotosViewController.swift in Sources */,
 				AC9C3D19279902D500DB1FAB /* EstablishmentDataManager.swift in Sources */,
+				AC13D68B27AB306C0057F413 /* PhotoFilterViewController.swift in Sources */,
+				AC13D68F27AB46720057F413 /* AustinDrinksModel.xcdatamodeld in Sources */,
+				AC18DEFB27AC9FAE006640E0 /* ReviewsViewController.swift in Sources */,
+				AC13D68727AAF3F10057F413 /* ImageFiltering.swift in Sources */,
 				AC4738C82790D50E00B9D57B /* DataManager.swift in Sources */,
 				AC51155D27A4816B00E62060 /* NoDataView.swift in Sources */,
 				AC4738C52790D20400B9D57B /* MapDataManager.swift in Sources */,
+				AC18DEF627AC80FE006640E0 /* CoreDataManager.swift in Sources */,
+				AC18DEF427AC7ECE006640E0 /* EstablishmentPhotoItem.swift in Sources */,
 				ACCEE8D7278BA40700FF2C65 /* DrinkingEstablishmentsListViewController.swift in Sources */,
 				C9C93C852697B44D0034E1CD /* AppDelegate.swift in Sources */,
 				AC4738D62790E3DE00B9D57B /* Segue.swift in Sources */,
 				C9C93C872697B44D0034E1CD /* SceneDelegate.swift in Sources */,
 				AC4738CA2790D84D00B9D57B /* MapViewController.swift in Sources */,
+				AC18DEF227AC7B7E006640E0 /* ReviewItem.swift in Sources */,
+				AC13D68527AAF2D00057F413 /* FilterDataManager.swift in Sources */,
 				AC4738C32790CC5300B9D57B /* EstablishmentItem.swift in Sources */,
+				AC18DEFE27ACBA78006640E0 /* PhotoCell.swift in Sources */,
 				AC4738D82790EC6F00B9D57B /* EstablishmentDetailViewController.swift in Sources */,
+				AC13D68327AAF1F30057F413 /* FilterItem.swift in Sources */,
+				AC13D68927AB2DBB0057F413 /* FilterCell.swift in Sources */,
 				810EEE1A26B366A000483CAF /* ExploreViewController.swift in Sources */,
+				AC13D67E27AAE7B10057F413 /* ReviewFormViewController.swift in Sources */,
 				AC500800278F66B200381821 /* ExploreDataManager.swift in Sources */,
 				AC500803278F6EB500381821 /* ExploreCell.swift in Sources */,
 				AC4738BD2790C29000B9D57B /* LocationDataManager.swift in Sources */,
+				AC18DEF927AC9EBD006640E0 /* ReviewCell.swift in Sources */,
 				AC4738B72790B88800B9D57B /* LocationViewController.swift in Sources */,
 				ACA755ED2799E6BF008BF13F /* DrinkingEstablishmentCell.swift in Sources */,
 			);
@@ -615,6 +715,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		AC13D68D27AB46720057F413 /* AustinDrinksModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				AC13D68E27AB46720057F413 /* AustinDrinksModel.xcdatamodel */,
+			);
+			currentVersion = AC13D68E27AB46720057F413 /* AustinDrinksModel.xcdatamodel */;
+			path = AustinDrinksModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = C9C93C792697B44D0034E1CD /* Project object */;
 }

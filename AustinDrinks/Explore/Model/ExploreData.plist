@@ -4,19 +4,19 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>beer</string>
+		<string>Breweries</string>
 		<key>image</key>
 		<string>beer.png</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>spirits</string>
+		<string>Distilleries</string>
 		<key>image</key>
 		<string>spirits.png</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>wine</string>
+		<string>Wineries</string>
 		<key>image</key>
 		<string>wine.png</string>
 	</dict>

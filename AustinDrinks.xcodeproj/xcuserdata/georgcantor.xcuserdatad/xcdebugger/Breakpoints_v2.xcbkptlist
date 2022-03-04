@@ -88,7 +88,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "DEC789E7-DBCF-4C70-88BE-DE38110C421D"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
@@ -104,7 +104,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "7DEF1FCC-820B-4288-A4DE-DE21FACA1CED"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
@@ -152,7 +152,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "705D727B-374B-4865-977D-92227EE59DE2"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AustinDrinks/DrinkingEstablishments/Model/EstablishmentDataManager.swift"
@@ -168,7 +168,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "8108DB4B-8FBA-4B87-9296-03B83747D570"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
@@ -184,7 +184,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "65D7794C-0565-40C3-9B3A-CAB3212BBE6D"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
@@ -200,7 +200,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "651D902D-5FCE-446B-A996-A30C83567C26"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
@@ -216,7 +216,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "B6A253C9-18CB-47FF-B702-752F00395CB9"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AustinDrinks/DrinkingEstablishments/Model/EstablishmentDataManager.swift"
@@ -225,6 +225,286 @@
             startingLineNumber = "16"
             endingLineNumber = "16"
             landmarkName = "fetch(location:selectedEthanol:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABB48EA6-0C43-48E2-8058-69149B1266D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AustinDrinks/Reviews/ReviewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ReviewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "ABB48EA6-0C43-48E2-8058-69149B1266D0 - dc372ccf1f81031d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.collectionView.getter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "ABB48EA6-0C43-48E2-8058-69149B1266D0 - 80b567bc1b5f1309"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.collectionView.setter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "ABB48EA6-0C43-48E2-8058-69149B1266D0 - d19582c972f589eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.collectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "ABB48EA6-0C43-48E2-8058-69149B1266D0 - fd1170ea7cd0331c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.collectionView.modify : Swift.Optional&lt;__C.UICollectionView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "ABB48EA6-0C43-48E2-8058-69149B1266D0 - 7a8d38b7a4a8f279"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AustinDrinks.ReviewsViewController"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "ABB48EA6-0C43-48E2-8058-69149B1266D0 - 8d9ca33dbe5b62cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AustinDrinks.ReviewsViewController&gt;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E906B84C-EC7C-46D2-85BF-24E96BD7344E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AustinDrinks/Reviews/ReviewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ReviewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E906B84C-EC7C-46D2-85BF-24E96BD7344E - 83bb652cdb15be60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.selectedEstablishmentID.getter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E906B84C-EC7C-46D2-85BF-24E96BD7344E - 3f2d95ef805b0d9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.selectedEstablishmentID.setter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "E906B84C-EC7C-46D2-85BF-24E96BD7344E - be037700690073b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.selectedEstablishmentID.modify : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E906B84C-EC7C-46D2-85BF-24E96BD7344E - 4408021c56d74e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.selectedEstablishmentID.modify : Swift.Optional&lt;Swift.Int&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "E906B84C-EC7C-46D2-85BF-24E96BD7344E - 7a8d38b7a4a8f25a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AustinDrinks.ReviewsViewController"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "E906B84C-EC7C-46D2-85BF-24E96BD7344E - 8d9ca33dbe5b62ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AustinDrinks.ReviewsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AustinDrinks.ReviewsViewController&gt;"
+                  moduleName = "AustinDrinks"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/georgcantor/Desktop/SE%20Project/Austin%20Drinks%20App%20Development/AustinDrinks/AustinDrinks/Reviews/ReviewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10BD2493-B0B0-415A-95EC-71C3BEC162A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AustinDrinks/Reviews/ReviewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "ReviewsViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C35EF95-145D-47A2-A198-9BCAAE556D57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AustinDrinks/Reviews/ReviewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "initialize()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44D7A7C9-9C0E-4526-8D0A-20F0067ACFA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "createData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB99B7CF-6D36-4E5C-8E2E-BF353CF54F8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AustinDrinks/Map/Model/EstablishmentItem.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "hoursOfOperation()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

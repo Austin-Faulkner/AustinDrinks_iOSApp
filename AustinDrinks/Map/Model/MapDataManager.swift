@@ -2,11 +2,12 @@
 //  MapDataManager.swift
 //  AustinDrinks
 //
-//  Created by Austin Faulkner on 2/20/22.
+//  Created by Austin Faulkner on 3/3/22.
 //
 
 import Foundation
 import MapKit
+import AVFAudio
 
 class MapDataManager: DataManager {
     private var items: [EstablishmentItem] = []
@@ -14,32 +15,33 @@ class MapDataManager: DataManager {
         items
     }
     
+    // Trying this . . .
+//    var location = LocationViewController() // TODO: Forget this, it generalizes to the whole U.S.
+
+    
+    var selectedCity: LocationItem?
+    
     func fetch(completion: (_ annotations: [EstablishmentItem]) -> ()) {
         let manager = EstablishmentDataManager()
-<<<<<<< HEAD
-<<<<<<< HEAD
-        manager.fetch(location: "austin_TX", completionHandler: {
-//        manager.fetch(location: "Austin", completionHandler: {   // Is there something wrong here?
-=======
-        manager.fetch(location: "austin_TX", completionHandler: {   // Is there something wrong here?
->>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
-=======
-        manager.fetch(location: "austin_TX", completionHandler: {   // Is there something wrong here?
->>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
+        
+        
+//        let location = LocationViewController() // TODO: Forget this, it generalizes to the whole U.S.
+        //--------------------------------------------------
+//        guard let city = selectedCity?.city else { return }
+        
+//        guard let cityChoice = location.selectedCity?.city else { return }
+//        print(cityChoice)
+        //--------------------------------------------------
+        
+        
+        manager.fetch(location: "Austin", completionHandler: {
+//        manager.fetch(location: cityChoice, completionHandler: {
             (establishmentItems) in self.items = establishmentItems
             completion(items)   
         })
     }
     
-<<<<<<< HEAD
-<<<<<<< HEAD
-    func initialRegion(latDelta: CLLocationDegrees, longDelta: CLLocationDegrees) -> MKCoordinateRegion {  // uses initialRegion on page 396
-=======
     func initialRegion(latDelta: CLLocationDegrees, longDelta: CLLocationDegrees) -> MKCoordinateRegion {
->>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
-=======
-    func initialRegion(latDelta: CLLocationDegrees, longDelta: CLLocationDegrees) -> MKCoordinateRegion {
->>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
         guard let item = items.first else {
             return MKCoordinateRegion()
         }
@@ -48,9 +50,7 @@ class MapDataManager: DataManager {
         return MKCoordinateRegion(center: item.coordinate, span: span)
     }
     
-<<<<<<< HEAD
-<<<<<<< HEAD
-    func currentRegion(latDelta: CLLocationDegrees, longDelta: CLLocationDegrees) -> MKCoordinateRegion {  // Uses currentRegion on page 424
+    func currentRegion(latDelta: CLLocationDegrees, longDelta: CLLocationDegrees) -> MKCoordinateRegion {
         guard let item = items.first else {
             return MKCoordinateRegion()
         }
@@ -58,19 +58,4 @@ class MapDataManager: DataManager {
         let span = MKCoordinateSpan(latitudeDelta: latDelta, longitudeDelta: longDelta)
         return MKCoordinateRegion(center: item.coordinate, span: span)
     }
-=======
-=======
->>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
-//    func currentRegion(latDelta: CLLocationDegrees, longDelta: CLLocationDegrees) -> MKCoordinateRegion {
-//        guard let item = items.first else {
-//            return MKCoordinateRegion()
-//        }
-//
-//        let span = MKCoordinateSpan(latitudeDelta: latDelta, longitudeDelta: longDelta)
-//        return MKCoordinateRegion(center: item.coordinate, span: span)
-//    }
-<<<<<<< HEAD
->>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
-=======
->>>>>>> d5fa275c63f97a2a1678d183395d3c5da05b7d6e
 }
