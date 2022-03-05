@@ -15,7 +15,7 @@ class EstablishmentItem: NSObject, MKAnnotation, Decodable {
     let establishmentID: Int?
     let open_for_business: Int?
     let tags: [String]
-    let website: String?
+    let website: String  // unwrapped to fix Go button in DrinkingEstablishmentListViewController
     let longitude: Double?
     let latitude: Double?
     let address: String//?
@@ -24,7 +24,7 @@ class EstablishmentItem: NSObject, MKAnnotation, Decodable {
     let state: String//?
     let telephone: String?
     let price: String?
-    var hours: [String: String]  // TODO: Need to figure out how to navigate for the hours of operation info on the EstablishmentDetailViewController page
+    var hours: [String: String]
     let accommodations: [String]
     let unaccommodations: [String]
     let rating_value: String?
@@ -50,7 +50,6 @@ class EstablishmentItem: NSObject, MKAnnotation, Decodable {
         case unaccommodations = "unaccommodations"
         case rating_value = "rating_value"
         case rating_count = "review_count"
-//        case image = "image"  // Edit to test images 2/23/22 for Marble Falls JSON
         case reviews = "reviews"
     }
     
@@ -89,35 +88,24 @@ class EstablishmentItem: NSObject, MKAnnotation, Decodable {
         }
     }
     
-    //--------------------------------------------------------------
-    // organize the hours of operations table. // NEEDS TO BE FIXED!
-    //--------------------------------------------------------------
     func orderHoursOfOperations() -> [[String: String]] {
         let order = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
         var list_h: [[String: String]] = [[:]]
         for day in order {
-//            var dayFound = false;
             for (key, value) in hours {
                 if (key == day) {
-//                    dayFound = true;
                     var dict: [String:String] = [:]
                     dict[key] = value
                     list_h.append(dict)
                     break
                 }
             }
-//            if(dayFound){
-//                break
-//        }
         }
-        //hours = dict
         return list_h
     }
 
-
-    // NEEDS TO BE FIXED!
     func hoursOfOperation() -> String {
-        let h = orderHoursOfOperations()  // this orders the table.  might be ideal to call it in an init function instead of here.
+        let h = orderHoursOfOperations()
         var hoursOfOp = ""
         for obj in h {
             for (key, value) in obj{
@@ -126,7 +114,6 @@ class EstablishmentItem: NSObject, MKAnnotation, Decodable {
         }
         return hoursOfOp
     }
-    
     
     var unaccommodation_attributes: String? {
         if unaccommodations.isEmpty {
@@ -146,23 +133,7 @@ class EstablishmentItem: NSObject, MKAnnotation, Decodable {
         rating_count
     }
     
-    
-    //---------------------------------------------------------------------------------
-    // NEED TO FIGURE OUT HOW TO NAVIGATE A DICTIONARY OF STRINGS IN EstablishmentItems: reviews -> code here
-    //---------------------------------------------------------------------------------
-    
-    //func getReviews() -> [String] {
-//    func getReviews() -> String? {
-////        var reviewArray: [String] = []
-//        var reviewStr = ""
-//        for review in reviews {
-//    //        var reviewStr = ""
-//            reviewStr.append("Rating: \(review["reviewRating"] as String?)\t\tDate: \(review["datePublished"] as String?)\n\(review["description"] as String?)\n\n")
-//    //        reviewArray.append(reviewStr)
-//        }
-//        print(reviewStr) // see what first review looks like in console
-//    //    return reviewArray
-//        return reviewStr
-//    }
-    
+    var site: String {
+        website
+    }
 }

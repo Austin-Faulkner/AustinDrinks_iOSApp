@@ -14,8 +14,8 @@
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
             landmarkName = "createData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -30,8 +30,8 @@
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
             landmarkName = "createData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -46,8 +46,8 @@
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
             landmarkName = "createData()"
             landmarkType = "7">
             <Locations>
@@ -94,24 +94,8 @@
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "60"
-            endingLineNumber = "60"
-            landmarkName = "createData()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "7DEF1FCC-820B-4288-A4DE-DE21FACA1CED"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "63"
-            endingLineNumber = "63"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
             landmarkName = "createData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -174,8 +158,8 @@
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "57"
-            endingLineNumber = "57"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
             landmarkName = "createData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -190,8 +174,8 @@
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "95"
-            endingLineNumber = "95"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
             landmarkName = "collectionView(_:cellForItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -206,8 +190,8 @@
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "96"
-            endingLineNumber = "96"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
             landmarkName = "collectionView(_:cellForItemAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -486,8 +470,8 @@
             filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "61"
-            endingLineNumber = "61"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
             landmarkName = "createData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -495,16 +479,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "FB99B7CF-6D36-4E5C-8E2E-BF353CF54F8F"
+            uuid = "C5A62FE6-2666-473D-BBDA-2372F0E9F9D4"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "AustinDrinks/Map/Model/EstablishmentItem.swift"
+            filePath = "AustinDrinks/DrinkingEstablishments/DrinkingEstablishmentsListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "121"
-            endingLineNumber = "121"
-            landmarkName = "hoursOfOperation()"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "goButton(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

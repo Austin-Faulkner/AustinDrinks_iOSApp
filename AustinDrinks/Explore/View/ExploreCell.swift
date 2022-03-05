@@ -11,4 +11,10 @@ class ExploreCell: UICollectionViewCell {
    
     @IBOutlet var exploreImageView: UIImageView!
     
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        exploreImageView.layer.cornerRadius = 9
+        exploreImageView.layer.masksToBounds = true
+    }
+    
 }

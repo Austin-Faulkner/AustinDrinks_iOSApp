@@ -21,13 +21,9 @@ class EstablishmentDetailViewController: UITableViewController {
     @IBOutlet var addressLabel: UILabel!
     @IBOutlet var telephoneLabel: UILabel!
     @IBOutlet var locationMapImageView: UIImageView!
-    //----------------------------------------------------
-    // SOME Cells BELOW THE MAP: IMPLEMENT THESE!
-    //----------------------------------------------------
-     @IBOutlet var hoursOfOperationLabel: UILabel! // [String: String] TODO: Alphabetize!
-     @IBOutlet var unaccommodationsLabelDetail: UILabel!
-//     @IBOutlet var yelpReviewsTextView: UITextView!   // Not connected!!!
-    //----------------------------------------------------
+    
+    @IBOutlet var hoursOfOperationLabel: UILabel!
+    @IBOutlet var unaccommodationsLabelDetail: UILabel!
     
     var st: String!
     var cityStateZip: String!
@@ -113,13 +109,9 @@ private extension EstablishmentDetailViewController {
         telephoneLabel.text = establishment.telephone
         addressLabel.text = establishment.address
         priceLabel.text = establishment.price
-        //-------------------------------------------------------------------------------------------------------------------------------------------
-        // TODO:
-        //-------------------------------------------------------------------------------------------------------------------------------------------
-        hoursOfOperationLabel.text = establishment.hoursOfOperation()  // TODO: NEED TO ORDER THIS PROPERLY!!!
-//        yelpReviewsTextView.text = establishment.getReviews()  // TODO: NEED TO FIGURE OUT HOW TO NAVIGATE A DICTIONARY OF STRINGS IN EstablishmentItems
+       
+        hoursOfOperationLabel.text = establishment.hoursOfOperation()
         unaccommodationsLabelDetail.text = establishment.unaccommodation_attributes
-        //-------------------------------------------------------------------------------------------------------------------------------------------
     }
     
     func createMap() {
@@ -174,5 +166,16 @@ private extension EstablishmentDetailViewController {
         }
     }
 }
+
+//extension EstablishmentDetailViewController: UICollectionViewDelegateFlowLayout {
+//    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
+//        let viewWidth = collectionView.frame.size.width
+//        let inset = 9.0
+//        let contentWidth = viewWidth - inset
+//        let cellWidth = contentWidth
+//        let cellHeigth = 312.0
+//        return CGSize(width: cellWidth, height: cellHeigth)
+//    }
+//}
 
 

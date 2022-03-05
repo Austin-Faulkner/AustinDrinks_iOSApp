@@ -33,6 +33,8 @@ class LocationViewController: UIViewController {
 private extension LocationViewController {
     func initialize() {
         manager.fetch()
+        title = "Choose a destination"
+        navigationController?.navigationBar.prefersLargeTitles = true
     }
 }
 

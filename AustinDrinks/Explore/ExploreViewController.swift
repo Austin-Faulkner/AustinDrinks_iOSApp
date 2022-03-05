@@ -2,7 +2,7 @@
 //  ExploreViewController.swift
 //  AustinDrinks
 //
-//  Created by Austin Faulkner on 01/29/22.
+//  Created by Austin Faulkner on 01/29/22 - 3/4/22.
 //
 
 import UIKit
@@ -18,6 +18,11 @@ class ExploreViewController: UIViewController, UICollectionViewDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         initialize()
+    }
+    
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewWillAppear(animated)
+        navigationController?.setNavigationBarHidden(true, animated: false)
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
@@ -45,6 +50,15 @@ class ExploreViewController: UIViewController, UICollectionViewDelegate {
 private extension ExploreViewController {
     func initialize() {
         manager.fetch()
+        setupCollectionView()
+    }
+    
+    func setupCollectionView() {
+        let flow = UICollectionViewFlowLayout()
+        flow.sectionInset = UIEdgeInsets(top: 7, left: 7, bottom: 7, right: 7)
+        flow.minimumInteritemSpacing = 0
+        flow.minimumLineSpacing = 7
+        collectionView.collectionViewLayout = flow
     }
     
     func showLocationList(segue: UIStoryboardSegue) {
@@ -82,6 +96,28 @@ private extension ExploreViewController {
                 headerView.locationLabel.text = location.cityAndState
             }
         }
+    }
+}
+
+extension ExploreViewController: UICollectionViewDelegateFlowLayout {
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
+        var columns: CGFloat = 2
+        if Device.isPad || (traitCollection.horizontalSizeClass != .compact) {
+            columns = 2
+        }
+        if Device.isPhone || (traitCollection.horizontalSizeClass != .compact) {
+            columns = 1
+        }
+        let viewWidth = collectionView.frame.size.width
+        let inset = 7.0
+        let contentWidth = viewWidth - inset * (columns + 1)
+        let cellWidth = contentWidth / columns
+        let cellHeight = cellWidth
+        return CGSize(width: cellWidth, height: cellHeight)
+    }
+
+    func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, referenceSizeForHeaderInSection secton: Int) -> CGSize {
+        return CGSize(width: collectionView.frame.width, height: 100)
     }
 }
 

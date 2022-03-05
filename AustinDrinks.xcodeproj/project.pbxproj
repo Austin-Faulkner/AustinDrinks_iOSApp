@@ -49,6 +49,8 @@
 		ACA755E62799CE5B008BF13F /* LocationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA755E52799CE5B008BF13F /* LocationItem.swift */; };
 		ACA755E82799D42D008BF13F /* ExploreHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA755E72799D42D008BF13F /* ExploreHeaderView.swift */; };
 		ACA755ED2799E6BF008BF13F /* DrinkingEstablishmentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA755EC2799E6BF008BF13F /* DrinkingEstablishmentCell.swift */; };
+		ACA87F4327D30E92005B0C66 /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA87F4227D30E92005B0C66 /* Device.swift */; };
+		ACB44FC527D3D3FD00DAED7B /* AustinDrinksTests in Resources */ = {isa = PBXBuildFile; fileRef = ACB44FC427D3D3FD00DAED7B /* AustinDrinksTests */; };
 		ACCEE8D7278BA40700FF2C65 /* DrinkingEstablishmentsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACCEE8D6278BA40700FF2C65 /* DrinkingEstablishmentsListViewController.swift */; };
 		ACE1062827A86E05001BCD1B /* Dripping Springs.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1061D27A86E03001BCD1B /* Dripping Springs.json */; };
 		ACE1062927A86E05001BCD1B /* Fredericksburg.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1061E27A86E03001BCD1B /* Fredericksburg.json */; };
@@ -108,6 +110,8 @@
 		ACA755E52799CE5B008BF13F /* LocationItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationItem.swift; sourceTree = "<group>"; };
 		ACA755E72799D42D008BF13F /* ExploreHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreHeaderView.swift; sourceTree = "<group>"; };
 		ACA755EC2799E6BF008BF13F /* DrinkingEstablishmentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinkingEstablishmentCell.swift; sourceTree = "<group>"; };
+		ACA87F4227D30E92005B0C66 /* Device.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
+		ACB44FC427D3D3FD00DAED7B /* AustinDrinksTests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = AustinDrinksTests; sourceTree = "<group>"; };
 		ACCEE8D6278BA40700FF2C65 /* DrinkingEstablishmentsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinkingEstablishmentsListViewController.swift; sourceTree = "<group>"; };
 		ACE1061D27A86E03001BCD1B /* Dripping Springs.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Dripping Springs.json"; sourceTree = "<group>"; };
 		ACE1061E27A86E03001BCD1B /* Fredericksburg.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Fredericksburg.json; sourceTree = "<group>"; };
@@ -246,6 +250,7 @@
 				AC59B6D127920EE7005A8D7C /* JSON */,
 				AC4738C72790D50E00B9D57B /* DataManager.swift */,
 				AC4738D52790E3DE00B9D57B /* Segue.swift */,
+				ACA87F4227D30E92005B0C66 /* Device.swift */,
 			);
 			path = Misc;
 			sourceTree = "<group>";
@@ -373,6 +378,7 @@
 		C9C93C832697B44D0034E1CD /* AustinDrinks */ = {
 			isa = PBXGroup;
 			children = (
+				ACB44FC427D3D3FD00DAED7B /* AustinDrinksTests */,
 				AC18DEFC27ACB9EA006640E0 /* EstablishmentReviewPhotos */,
 				AC18DEF727AC9E5B006640E0 /* Reviews */,
 				AC4738D12790E18F00B9D57B /* PhotoFilter */,
@@ -459,6 +465,7 @@
 				ACE1062A27A86E05001BCD1B /* Austin.json in Resources */,
 				ACE1062927A86E05001BCD1B /* Fredericksburg.json in Resources */,
 				AC4738D32790E1A500B9D57B /* PhotoFilter.storyboard in Resources */,
+				ACB44FC527D3D3FD00DAED7B /* AustinDrinksTests in Resources */,
 				ACE1062B27A86E05001BCD1B /* Georgetown.json in Resources */,
 				AC809C0827A897FA00186426 /* San Antonio.json in Resources */,
 				AC4738D02790E16F00B9D57B /* ReviewForm.storyboard in Resources */,
@@ -484,6 +491,7 @@
 				ACA755E62799CE5B008BF13F /* LocationItem.swift in Sources */,
 				AC13D67C27AACEB00057F413 /* RatingsView.swift in Sources */,
 				ACA755E82799D42D008BF13F /* ExploreHeaderView.swift in Sources */,
+				ACA87F4327D30E92005B0C66 /* Device.swift in Sources */,
 				AC5007FE278F60C100381821 /* ExploreItem.swift in Sources */,
 				AC18DF0027ACBB60006640E0 /* PhotosViewController.swift in Sources */,
 				AC9C3D19279902D500DB1FAB /* EstablishmentDataManager.swift in Sources */,
