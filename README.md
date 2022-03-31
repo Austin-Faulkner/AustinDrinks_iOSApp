@@ -12,11 +12,11 @@ down one's search for the perfect craft-beverage experience!
 
 ## UML Diagram Generated with the Help of Marco Eidenger's SwiftPlantUML
 
-REMARK: Read the following UML graphs laterally left to right, and top to bottom, from topmost .png to bottommost .png.
+HOW TO READ: Read from left-to-right and from the topmost image to the bottommost image.
 
-![03_1 AD UML](https://user-images.githubusercontent.com/7588505/161166252-11ba5b31-9d9d-4b52-b1fe-be19d5c4f3c2.png)
-![02_2 AD UML](https://user-images.githubusercontent.com/7588505/161166413-ca34125f-ca8d-4e0a-8913-ceb0f14a20a7.png)
-![02_1 AD UML](https://user-images.githubusercontent.com/7588505/161166429-2b482a75-24ba-4b6e-bcd0-fe3d68ff6489.png)
-![01_3 AD UML](https://user-images.githubusercontent.com/7588505/161166445-bd4003a0-64b3-49e9-bc5e-292e74376ac4.png)
-![01_2 AD UML](https://user-images.githubusercontent.com/7588505/161166459-41226d88-1dfa-4b8c-8119-3c137b951197.png)
-![01_1 AD UML](https://user-images.githubusercontent.com/7588505/161166474-5e634f9b-cb6d-466c-b875-2ee1d3d68d24.png)
+![03_1 AD UML](https://user-images.githubusercontent.com/7588505/161167281-d1ee06d4-c363-4165-9187-21a54accacd5.png)
+![02_1 AD UML](https://user-images.githubusercontent.com/7588505/161167378-a478277a-ecfa-4b69-8965-c77e131f756d.png)
+![02_2 AD UML](https://user-images.githubusercontent.com/7588505/161167449-7c4f70a2-f23f-4130-b917-3516ff35df61.png)
+![01_1 AD UML](https://user-images.githubusercontent.com/7588505/161167648-65e4c6a4-e136-4211-b0bb-8a2438baad6a.png)
+![01_2 AD UML](https://user-images.githubusercontent.com/7588505/161167684-ff75eb86-b14b-495e-8428-335b7ccf5fd6.png)
+![01_3 AD UML](https://user-images.githubusercontent.com/7588505/161167700-6043fc7a-10c7-425a-9caf-21b56523f709.png)
