@@ -1,0 +1,16 @@
+HOW TO READ THE UML PNGs:
+-------------------------
+
+"01_1 AD UML" (first) [left to right]
+"01_2 AD UML" (second) [left to right]
+"01_3 AD UML" (third) [left to right]
+
+"02_1 AD UML" (fourth) [left to right]
+"02_2 AD UML" (fifth) [left to right]
+"02_3 AD UML" (sixth) [left to right]
+
+"03_1 AD UML" (seventh) [left to right]
+
+** Alternatively one could read these in reverse order from left to right. **
+
+REMARK: Each image is overlapping with its nearest neighbor.
