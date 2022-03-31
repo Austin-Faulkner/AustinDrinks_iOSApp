@@ -1,8 +1,8 @@
 //
 //  MapDataManagerTest.swift
-//  AustinDrinks
+//  AustinDrinksTests
 //
-//  Created by Austin Faulkner on 3/6/22.
+//  Created by riemann on 3/6/22.
 //
 
 import XCTest
