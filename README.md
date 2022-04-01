@@ -6,6 +6,8 @@ AustinDrinks provides a one-stop-shop for a local, adult-craft-beverage experien
 wineries in Austin and its surrounding areas. Austin and its surrounding areas offer a rich variety of options, and, whether you're a local or a visitor, the goal of AustinDrinks is to help one narrow 
 down one's search for the perfect craft-beverage experience!
 
+Copyright © Austin Faulkner. All rights reserved.
+
 ## State Chart for AustinDrinks
 
 ![STATE CHART for AustinDrinks](https://user-images.githubusercontent.com/7588505/161166086-4ae451dc-87a9-4dd6-a7a1-54a752df1c6d.png)
@@ -23,6 +25,8 @@ HOW TO READ: Read from left-to-right and from the topmost image to the bottommos
 
 # Acceptance Test Cases
 
-1. THE EXPLORE HOME SCREEN: The app opens on the AustinDrinks screen, leading to the main screen which is the Explore screen (with the paper airplane icon highlighted at the bottom of the screen just above "Explore"). Now, one may choose one of two separate paths. On may choose to go through the Map path by touching the map pin icon above "Maps" at the bottom of the screen, or one may choose to first select a city among 11 in the Austin and surrounding areas.
+1. THE EXPLORE HOME SCREEN: The app opens on the AustinDrinks logo screen, leading to the main screen which is the Explore screen (with the paper airplane icon highlighted at the bottom of the screen just above "Explore"). Now, one may choose one of two separate paths. On may choose to go through the MAP PATH by touching the map pin icon above "Maps" at the bottom of the screen, or one may choose to first select a city among 11 in the Austin and surrounding areas and continue to search estabishments based upon a craft-beverage type selection. More on this below in the EXPLORE PATH section.
 
-2. MAP PATH: Having chosen the map pin just above "Maps" at the bottom of the Explore home screen, one is taken to a map of Austin and its surrounding areas, where one sees pins for each of the craft-beverage establishments throughout the area. Any one pin may be a brewery, distillery, winery, or some amalgam of the three. The user may then touch a pin in a chosen area, and am establishment name will pop up over the touched pin. The user may then tap the pop-up establishment name, and the Map screen will re-direct to the establishments detail page on which is all the information one might need in order to more fully explore the chosen establishment. 
+2. MAP PATH: Having chosen the map pin just above "Maps" at the bottom of the Explore home screen, one is taken to a map of Austin and its surrounding areas, where one sees pins for each of the craft-beverage establishments throughout the area. Any one pin may be a brewery, distillery, winery, or some amalgam of the three. The user may then touch a pin in a chosen area, and an establishment name will pop up over the touched pin. The user may then tap the pop-up establishment name, and the Map screen will re-direct to the establishments detail page on which is all the information one might need in order to more fully explore the chosen establishment. Such ESTABLISHMENT DETAILS include establishment name, craft-beverage type, phone number, hours of operation, pricing (if the information is available), address, and customer reviews (with a five-star rating system), if any. Further, one may find customer experience photos if any have been posed to the app.
+
+3. EXPLORE PATH: 
