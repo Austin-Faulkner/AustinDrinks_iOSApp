@@ -20,3 +20,9 @@ HOW TO READ: Read from left-to-right and from the topmost image to the bottommos
 ![01_1 AD UML](https://user-images.githubusercontent.com/7588505/161167648-65e4c6a4-e136-4211-b0bb-8a2438baad6a.png)
 ![01_2 AD UML](https://user-images.githubusercontent.com/7588505/161167684-ff75eb86-b14b-495e-8428-335b7ccf5fd6.png)
 ![01_3 AD UML](https://user-images.githubusercontent.com/7588505/161167700-6043fc7a-10c7-425a-9caf-21b56523f709.png)
+
+# Acceptance Test Cases
+
+1. THE EXPLORE HOME SCREEN: The app opens on the AustinDrinks screen, leading to the main screen which is the Explore screen (with the paper airplane icon highlighted at the bottom of the screen just above "Explore"). Now, one may choose one of two separate paths. On may choose to go through the Map path by touching the map pin icon above "Maps" at the bottom of the screen, or one may choose to first select a city among 11 in the Austin and surrounding areas.
+
+2. MAP PATH: Having chosen the map pin just above "Maps" at the bottom of the Explore home screen, one is taken to a map of Austin and its surrounding areas, where one sees pins for each of the craft-beverage establishments throughout the area. Any one pin may be a brewery, distillery, winery, or some amalgam of the three. The user may then touch a pin in a chosen area, and am establishment name will pop up over the touched pin. The user may then tap the pop-up establishment name, and the Map screen will re-direct to the establishments detail page on which is all the information one might need in order to more fully explore the chosen establishment. 
