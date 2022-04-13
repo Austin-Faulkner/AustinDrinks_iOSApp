@@ -1,0 +1,2654 @@
+[
+    {
+        "name": "Rentsch Brewery",
+        "id": 465,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries"
+        ],
+        "website": "http://www.rentschbrewery.com",
+        "longitude": -97.657076,
+        "latitude": 30.667692,
+        "address": "2500 NE Inner Lp",
+        "postal_code": "78626",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 688-5046",
+        "price": "Inexpensive",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "4:00 PM - 10:00 PM",
+            "Thu": "4:00 PM - 10:00 PM",
+            "Fri": "4:00 PM - 10:00 PM",
+            "Sat": "12:00 PM - 10:00 PM",
+            "Sun": "12:00 PM - 8:00 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Apple Pay",
+            "Offers Catering"
+        ],
+        "rating_value": "4.5",
+        "review_count": "67"
+    },
+    {
+        "name": "Barking Armadillo Brewing",
+        "id": 365,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries"
+        ],
+        "website": "http://www.barkingarmadillo.com",
+        "longitude": -97.69106,
+        "latitude": 30.660814,
+        "address": "507 River Bend Dr",
+        "postal_code": "78628",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 240-5137",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "4:00 PM - 10:00 PM",
+            "Thu": "4:00 PM - 10:00 PM",
+            "Fri": "4:00 PM - 10:00 PM",
+            "Sat": "12:00 PM - 10:00 PM",
+            "Sun": "12:00 PM - 7:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Happy Hour Specials",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Women-owned",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Cryptocurrency",
+            "Offers Catering"
+        ],
+        "rating_value": "4.5",
+        "review_count": "21"
+    },
+    {
+        "name": "Strange Land Brewery",
+        "id": 222,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries"
+        ],
+        "website": "http://strangelandbrewery.com",
+        "longitude": -97.656996,
+        "latitude": 30.667662,
+        "address": "2500 Ne Inner LP",
+        "postal_code": "78626",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 276-2295",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "4:00 PM - 10:00 PM",
+            "Thu": "4:00 PM - 10:00 PM",
+            "Fri": "12:00 PM - 10:00 PM",
+            "Sat": "12:00 PM - 10:00 PM",
+            "Sun": "12:00 PM - 8:00 PM"
+        },
+        "accommodations": [
+            "Private Lot Parking"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Mesquite Creek Outfitters",
+        "id": 384,
+        "open_for_business": 1,
+        "tags": [
+            "Beer, Wine & Spirits",
+            "Outdoor Gear"
+        ],
+        "website": "http://www.mesquitecreekoutfitters.com",
+        "longitude": -97.678275,
+        "latitude": 30.637206,
+        "address": "704 S Austin Ave",
+        "postal_code": "78626",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 943-9253",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "10:00 AM - 10:00 PM",
+            "Tue": "10:00 AM - 10:00 PM",
+            "Wed": "10:00 AM - 10:00 PM",
+            "Thu": "10:00 AM - 10:00 PM",
+            "Fri": "10:00 AM - 11:00 PM",
+            "Sat": "10:00 AM - 11:00 PM",
+            "Sun": "1:00 PM - 8:00 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Street Parking",
+            "Bike Parking",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Offers Catering",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4",
+        "review_count": "74"
+    },
+    {
+        "name": "600 Degrees Pizzeria and Draft House",
+        "id": 408,
+        "open_for_business": 1,
+        "tags": [
+            "Pizza",
+            "Gastropubs"
+        ],
+        "website": "http://www.600degreespizzeria.com/",
+        "longitude": -97.676161,
+        "latitude": 30.636477,
+        "address": "124 E 8th St",
+        "postal_code": "78626",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 943-9272",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Hipster, Casual, Classy",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Street Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Android Pay",
+            "Offers Catering"
+        ],
+        "rating_value": "4",
+        "review_count": "982"
+    },
+    {
+        "name": "Hard Count Kitchen And Cocktails",
+        "id": 274,
+        "open_for_business": 1,
+        "tags": [
+            "Sports Bars",
+            "American (New)",
+            "Breakfast & Brunch"
+        ],
+        "website": "https://hardcountgtown.com",
+        "longitude": -97.686922,
+        "latitude": 30.649425,
+        "address": "1500 Rivery BlvdSte 2105",
+        "postal_code": "78628",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 688-3530",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 10:00 PM",
+            "Tue": "11:00 AM - 10:00 PM",
+            "Wed": "11:00 AM - 10:00 PM",
+            "Thu": "11:00 AM - 10:00 PM",
+            "Fri": "11:00 AM - 11:00 PM",
+            "Sat": "10:00 AM - 11:00 PM",
+            "Sun": "10:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Outdoor Seating",
+            "Classy",
+            "Good for Groups",
+            "Waiter Service",
+            "Full Bar",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Covered outdoor seating"
+        ],
+        "rating_value": "4.5",
+        "review_count": "48"
+    },
+    {
+        "name": "Bluebonnet Beer Company",
+        "id": 450,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries"
+        ],
+        "website": "http://bluebonnetbeerco.com/",
+        "longitude": -97.647082,
+        "latitude": 30.491928,
+        "address": "1700 Bryant DrSte 107",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 774-4258",
+        "price": "Inexpensive",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "5:00 PM - 9:00 PM",
+            "Fri": "5:00 PM - 9:00 PM",
+            "Sat": "3:00 PM - 9:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Bike Parking"
+        ],
+        "rating_value": "4.5",
+        "review_count": "42"
+    },
+    {
+        "name": "Hedgehog Brewing",
+        "id": 568,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries"
+        ],
+        "website": "http://hedgehogatx.com",
+        "longitude": -97.877283,
+        "latitude": 30.515311,
+        "address": "3200 Woodall DrC-1",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "4:00 PM - 9:00 PM",
+            "Sat": "12:00 PM - 9:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "9"
+    },
+    {
+        "name": "Bull Creek Brewery",
+        "id": 424,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries"
+        ],
+        "website": "http://www.bullcreekbrewing.com",
+        "longitude": -97.87021,
+        "latitude": 30.705221,
+        "address": "7100 Fm 3405",
+        "postal_code": "78642",
+        "city": "Liberty Hill",
+        "state": "TX",
+        "telephone": "(512) 940-5079",
+        "price": "Inexpensive",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "Closed",
+            "Sat": "1:00 PM - 6:00 PM",
+            "Sun": "1:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Quiet",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed"
+        ],
+        "unaccommodations": [
+            "No Takeout"
+        ],
+        "rating_value": "4",
+        "review_count": "25"
+    },
+    {
+        "name": "Whitestone Brewery",
+        "id": 193,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries"
+        ],
+        "website": "http://www.whitestonebrewery.com/",
+        "longitude": -97.8252,
+        "latitude": 30.523771,
+        "address": "601 E Whitestone BlvdSte 500, Bldg 5",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "(512) 765-4828",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 9:00 PM",
+            "Tue": "12:00 PM - 9:00 PM",
+            "Wed": "12:00 PM - 9:30 PM",
+            "Thu": "12:00 PM - 9:30 PM",
+            "Fri": "12:00 PM - 10:30 PM",
+            "Sat": "12:00 PM - 10:30 PM",
+            "Sun": "12:00 PM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Limited Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Good For Kids",
+            "Good for Working",
+            "Bike Parking",
+            "Happy Hour Specials",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Offers Military Discount",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering"
+        ],
+        "rating_value": "4.5",
+        "review_count": "137"
+    },
+    {
+        "name": "El Monumento",
+        "id": 244,
+        "open_for_business": 1,
+        "tags": [
+            "Mexican",
+            "Cocktail Bars"
+        ],
+        "website": "http://elmonumentogeorgetown.com",
+        "longitude": -97.679404,
+        "latitude": 30.642741,
+        "address": "205 W 2nd St",
+        "postal_code": "78626",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 591-7866",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "3:00 PM - 9:00 PM",
+            "Tue": "3:00 PM - 9:00 PM",
+            "Wed": "3:00 PM - 9:00 PM",
+            "Thu": "3:00 PM - 9:00 PM",
+            "Fri": "3:00 PM - 10:00 PM",
+            "Sat": "3:00 PM - 10:00 PM",
+            "Sun": "3:00 PM - 9:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Classy",
+            "Moderate Noise",
+            "Casual Dress",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Dinner",
+            "Garage Parking, Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Best nights on Monday, Friday, Saturday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "TV",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "No Pool Table",
+            "No Smoking",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "3.5",
+        "review_count": "849"
+    },
+    {
+        "name": "Cork and Barrel Craft Kitchen and Microbrewery",
+        "id": 498,
+        "open_for_business": 1,
+        "tags": [
+            "Pubs"
+        ],
+        "website": "https://corkandbarrelpub.com",
+        "longitude": -97.62197,
+        "latitude": 30.529767,
+        "address": "4000 E Palm Valley Blvd",
+        "postal_code": "78665",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 582-0155",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "11:00 AM - 10:00 PM",
+            "Wed": "11:00 AM - 10:00 PM",
+            "Thu": "11:00 AM - 10:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Masks required",
+            "Staff wears masks",
+            "Outdoor Seating",
+            "Casual, Trendy, Classy",
+            "Good for Groups",
+            "Valet Parking, Private Lot Parking",
+            "Live Music",
+            "Best nights on Friday",
+            "Full Bar",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Not Good For Dancing",
+            "No Pool Table"
+        ],
+        "rating_value": "3.5",
+        "review_count": "198"
+    },
+    {
+        "name": "Humble Pint Brewing",
+        "id": 169,
+        "open_for_business": 1,
+        "tags": [
+            "Pizza",
+            "Brewpubs"
+        ],
+        "website": "https://humblepint.com",
+        "longitude": -97.8693,
+        "latitude": 30.578181,
+        "address": "11880 Hero Way WSte 208",
+        "postal_code": "78641",
+        "city": "Leander",
+        "state": "TX",
+        "telephone": "(512) 337-5007",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "12:00 PM - 9:00 PM",
+            "Thu": "12:00 PM - 9:00 PM",
+            "Fri": "12:00 PM - 10:00 PM",
+            "Sat": "12:00 PM - 9:00 PM",
+            "Sun": "12:00 PM - 8:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Outdoor Seating",
+            "Good For Kids"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "36"
+    },
+    {
+        "name": "The Brass Tap - Round Rock",
+        "id": 332,
+        "open_for_business": 1,
+        "tags": [
+            "Pubs",
+            "Beer Bar"
+        ],
+        "website": "http://www.thebrasstap.com/roundrock",
+        "longitude": -97.677563,
+        "latitude": 30.509283,
+        "address": "204 E Main St",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 341-2337",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 12:00 AM ()",
+            "Tue": "11:00 AM - 12:00 AM ()",
+            "Wed": "11:00 AM - 12:00 AM ()",
+            "Thu": "11:00 AM - 12:00 AM ()",
+            "Fri": "11:00 AM - 1:00 AM ()",
+            "Sat": "11:00 AM - 1:00 AM ()",
+            "Sun": "11:00 AM - 12:00 AM ()"
+        },
+        "accommodations": [
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual, Classy",
+            "Moderate Noise",
+            "Good for Groups",
+            "Garage Parking, Street Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Thursday, Friday, Saturday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Masks required",
+            "Accepts Apple Pay",
+            "Not Good For Dancing",
+            "Not Good For Working",
+            "No Pool Table"
+        ],
+        "rating_value": "4",
+        "review_count": "295"
+    },
+    {
+        "name": "Red Horn Coffee House and Brewing Company",
+        "id": 295,
+        "open_for_business": 1,
+        "tags": [
+            "Coffee & Tea",
+            "Pubs"
+        ],
+        "website": "http://www.redhornbrew.com",
+        "longitude": -97.780498,
+        "latitude": 30.534124,
+        "address": "13010 W Parmer LnSte 800",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "(512) 986-7038",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "7:30 AM - 9:00 PM",
+            "Tue": "7:30 AM - 9:00 PM",
+            "Wed": "7:30 AM - 9:00 PM",
+            "Thu": "7:30 AM - 9:00 PM",
+            "Fri": "7:30 AM - 10:00 PM",
+            "Sat": "7:30 AM - 10:00 PM",
+            "Sun": "7:30 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Classy, Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Thursday, Friday, Saturday",
+            "Beer & Wine Only",
+            "Drive-Thru",
+            "Dogs Allowed",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Offers Catering",
+            "Not Good For Dancing",
+            "Not Good For Working",
+            "No Pool Table",
+            "No Happy Hour",
+            "No Smoking"
+        ],
+        "rating_value": "4.5",
+        "review_count": "470"
+    },
+    {
+        "name": "The Brewtique",
+        "id": 533,
+        "open_for_business": 1,
+        "tags": [
+            "Beer Bar",
+            "Beverage Store"
+        ],
+        "website": "https://www.thebrewtiquecedarpark.com",
+        "longitude": -97.820929,
+        "latitude": 30.497568,
+        "address": "401 Cypress Creek RdSte 100",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "(512) 291-2622",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "1:00 PM - 10:00 PM",
+            "Wed": "1:00 PM - 10:00 PM",
+            "Thu": "1:00 PM - 10:00 PM",
+            "Fri": "12:00 PM - 11:00 PM",
+            "Sat": "12:00 PM - 11:00 PM",
+            "Sun": "12:00 PM - 8:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Moderate Noise",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Wheelchair Accessible",
+            "TV",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Smoking"
+        ],
+        "rating_value": "5",
+        "review_count": "20"
+    },
+    {
+        "name": "Pinthouse Pizza",
+        "id": 328,
+        "open_for_business": 1,
+        "tags": [
+            "Brewpubs",
+            "Pizza"
+        ],
+        "website": "https://pinthouse.com/round-rock",
+        "longitude": -97.694052,
+        "latitude": 30.539479,
+        "address": "2800 Hoppe Trl",
+        "postal_code": "78681",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 717-0869",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 10:00 PM",
+            "Tue": "11:00 AM - 10:00 PM",
+            "Wed": "11:00 AM - 10:00 PM",
+            "Thu": "11:00 AM - 10:00 PM",
+            "Fri": "11:00 AM - 11:00 PM",
+            "Sat": "11:00 AM - 11:00 PM",
+            "Sun": "11:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Loud",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Working",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Wheelchair Accessible",
+            "TV",
+            "Gender-neutral restrooms",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Cryptocurrency",
+            "No Waiter Service",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4.5",
+        "review_count": "390"
+    },
+    {
+        "name": "The Republic Kitchen + Bar",
+        "id": 183,
+        "open_for_business": 1,
+        "tags": [
+            "Bars",
+            "Beer, Wine & Spirits",
+            "Desserts"
+        ],
+        "website": "https://www.therepublickitchen.com",
+        "longitude": -97.800681,
+        "latitude": 30.563112,
+        "address": "15609 Ronald Reagan Blvd",
+        "postal_code": "78641",
+        "city": "Leander",
+        "state": "TX",
+        "telephone": "(512) 456-0940",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "4:00 PM - 10:00 PM",
+            "Tue": "4:00 PM - 10:00 PM",
+            "Wed": "4:00 PM - 10:00 PM",
+            "Thu": "4:00 PM - 10:00 PM",
+            "Fri": "4:00 PM - 11:00 PM",
+            "Sat": "11:00 AM - 11:00 PM",
+            "Sun": "11:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Moderate Noise",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Apple Pay"
+        ],
+        "rating_value": "4",
+        "review_count": "127"
+    },
+    {
+        "name": "The Kenney Fort British Pub",
+        "id": 612,
+        "open_for_business": 1,
+        "tags": [
+            "Pubs",
+            "British"
+        ],
+        "website": "https://www.thekenneyfort.com",
+        "longitude": -97.638342,
+        "latitude": 30.523866,
+        "address": "3001 Joe Dimaggio BlvdSte 1400",
+        "postal_code": "78665",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(361) 268-1090",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 10:00 PM",
+            "Tue": "11:00 AM - 10:00 PM",
+            "Wed": "11:00 AM - 10:00 PM",
+            "Thu": "11:00 AM - 10:00 PM",
+            "Fri": "11:00 AM - 11:00 PM",
+            "Sat": "9:00 AM - 11:00 PM",
+            "Sun": "9:00 AM - 8:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Vegan Options",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Casual, Trendy",
+            "Good for Groups",
+            "Good For Kids",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Offers Catering",
+            "No Smoking",
+            "Heated outdoor seating",
+            "Covered outdoor seating",
+            "Private dining"
+        ],
+        "rating_value": "4.5",
+        "review_count": "141"
+    },
+    {
+        "name": "Red Horn Brewery and Roastery",
+        "id": 236,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries"
+        ],
+        "website": "https://redhornbrew.com",
+        "longitude": -97.815416,
+        "latitude": 30.550526,
+        "address": "1615 Scottsdale Dr Bldg 1Ste 110",
+        "postal_code": "78641",
+        "city": "Leander",
+        "state": "TX",
+        "telephone": "(737) 843-7084",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "7:30 AM - 9:00 PM",
+            "Tue": "7:30 AM - 9:00 PM",
+            "Wed": "7:30 AM - 9:00 PM",
+            "Thu": "7:30 AM - 9:00 PM",
+            "Fri": "7:30 AM - 9:00 PM",
+            "Sat": "7:30 AM - 9:00 PM",
+            "Sun": "7:30 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Good For Kids",
+            "Private Lot Parking"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "22"
+    },
+    {
+        "name": "The Good Lot",
+        "id": 456,
+        "open_for_business": 1,
+        "tags": [
+            "Beer Gardens"
+        ],
+        "website": "http://www.thegoodlotcp.com",
+        "longitude": -97.864853,
+        "latitude": 30.523573,
+        "address": "2500 W New Hope Dr",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "(512) 986-4037",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "12:00 PM - 9:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Wheelchair Accessible",
+            "TV",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "No Smoking"
+        ],
+        "rating_value": "4.5",
+        "review_count": "48"
+    },
+    {
+        "name": "Leander Beer Market",
+        "id": 279,
+        "open_for_business": 1,
+        "tags": [
+            "Sports Bars",
+            "Beer Bar",
+            "Pizza"
+        ],
+        "website": "",
+        "longitude": -97.853944,
+        "latitude": 30.579143,
+        "address": "106 W Willis St",
+        "postal_code": "78641",
+        "city": "Leander",
+        "state": "TX",
+        "telephone": "(512) 271-7096",
+        "price": "Under $10",
+        "hours": {
+            "Mon": "12:00 PM - 11:00 PM",
+            "Tue": "12:00 PM - 11:00 PM",
+            "Wed": "12:00 PM - 11:00 PM",
+            "Thu": "12:00 PM - 12:00 AM ()",
+            "Fri": "12:00 PM - 12:00 AM ()",
+            "Sat": "12:00 PM - 12:00 AM ()",
+            "Sun": "12:00 PM - 11:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good for Dinner",
+            "Pool Table",
+            "Street Parking",
+            "Bike Parking",
+            "Live Music",
+            "Best nights on Wednesday, Thursday, Friday",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "Not Good For Dancing",
+            "No Waiter Service",
+            "No Wi-Fi"
+        ],
+        "rating_value": "4",
+        "review_count": "152"
+    },
+    {
+        "name": "Salt Traders Coastal Cooking",
+        "id": 13,
+        "open_for_business": 1,
+        "tags": [
+            "Seafood",
+            "American (New)",
+            "Wine Bars"
+        ],
+        "website": "http://salttraderscc.com",
+        "longitude": -97.69318,
+        "latitude": 30.539792,
+        "address": "2850 N Interstate Hwy 35",
+        "postal_code": "78681",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 351-9724",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Limited Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy, Casual",
+            "Moderate Noise",
+            "Casual Dress",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Best nights on Monday, Thursday, Saturday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4.5",
+        "review_count": "1154"
+    },
+    {
+        "name": "Tony C's Pizza and Beer Garden",
+        "id": 464,
+        "open_for_business": 1,
+        "tags": [
+            "Italian",
+            "Beer Gardens",
+            "Pizza"
+        ],
+        "website": "https://www.tonycsbeergarden.com",
+        "longitude": -97.624549,
+        "latitude": 30.528882,
+        "address": "3800 E Palm Valley BlvdSte 140",
+        "postal_code": "78665",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 595-7050",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Happy Hour Specials",
+            "TV"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "117"
+    },
+    {
+        "name": "URBAN Eat.Drink",
+        "id": 543,
+        "open_for_business": 1,
+        "tags": [
+            "Cocktail Bars",
+            "American (New)",
+            "Breakfast & Brunch"
+        ],
+        "website": "http://www.urbaneatdrink.com",
+        "longitude": -97.681886,
+        "latitude": 30.506865,
+        "address": "110 S Harris St",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 520-5570",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 10:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "10:00 AM - 10:00 PM",
+            "Sun": "10:00 AM - 3:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Staff wears masks",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Trendy, Classy, Casual",
+            "Moderate Noise",
+            "Casual Dress",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Breakfast, Brunch, Lunch, Dinner",
+            "Garage Parking, Street Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Wednesday, Thursday, Friday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Gender-neutral restrooms",
+            "Heated outdoor seating",
+            "Covered outdoor seating",
+            "Private dining"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "No Bike Parking",
+            "No Smoking"
+        ],
+        "rating_value": "4",
+        "review_count": "718"
+    },
+    {
+        "name": "The Dig Pub",
+        "id": 497,
+        "open_for_business": 1,
+        "tags": [
+            "Pubs",
+            "American (New)"
+        ],
+        "website": "http://www.thedigpub.com/",
+        "longitude": -97.820681,
+        "latitude": 30.497995,
+        "address": "401 Cypress Creek Rd",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "(512) 996-9900",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "4:00 PM - 11:00 PM",
+            "Tue": "4:00 PM - 11:00 PM",
+            "Wed": "4:00 PM - 11:00 PM",
+            "Thu": "4:00 PM - 11:00 PM",
+            "Fri": "4:00 PM - 12:00 AM ()",
+            "Sat": "12:00 PM - 12:00 AM ()",
+            "Sun": "11:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy, Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Dinner, Late Night",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Thursday, Friday, Saturday",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "No Drive-Thru",
+            "Heated outdoor seating",
+            "Covered outdoor seating",
+            "Private dining"
+        ],
+        "rating_value": "4",
+        "review_count": "335"
+    },
+    {
+        "name": "The League Kitchen and Tavern",
+        "id": 185,
+        "open_for_business": 1,
+        "tags": [
+            "Bars",
+            "American (Traditional)"
+        ],
+        "website": "https://www.leaguekitchen.com",
+        "longitude": -97.773712,
+        "latitude": 30.497709,
+        "address": "10526 W Parmer Ln",
+        "postal_code": "78717",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 366-5627",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Health Score",
+            "Takes Reservations",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Staff wears masks",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual, Classy",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Brunch, Lunch, Dinner",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Best nights on Monday, Friday, Saturday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4",
+        "review_count": "491"
+    },
+    {
+        "name": "Austin Steam Train Association",
+        "id": 486,
+        "open_for_business": 1,
+        "tags": [
+            "Trains",
+            "Historical Tours"
+        ],
+        "website": "http://www.austinsteamtrain.org/",
+        "longitude": -97.826849,
+        "latitude": 30.523404,
+        "address": "401 E Whitestone BlvdSte C-100",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "(512) 477-8468",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 4:00 PM",
+            "Tue": "9:00 AM - 4:00 PM",
+            "Wed": "9:00 AM - 4:00 PM",
+            "Thu": "9:00 AM - 4:00 PM",
+            "Fri": "9:00 AM - 4:00 PM",
+            "Sat": "8:30 AM - 10:00 AM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "3",
+        "review_count": "113"
+    },
+    {
+        "name": "Slap Box Pizzicheria",
+        "id": 461,
+        "open_for_business": 1,
+        "tags": [
+            "Bars",
+            "Pizza"
+        ],
+        "website": "http://slapboxpizza.com",
+        "longitude": -97.677314,
+        "latitude": 30.508885,
+        "address": "201 E Main StSte 102",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 580-0941",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Vegan Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual, Trendy",
+            "Loud",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner, Dessert",
+            "Garage Parking, Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Best nights on Friday, Saturday",
+            "Beer & Wine Only",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4",
+        "review_count": "395"
+    },
+    {
+        "name": "SHS BAR",
+        "id": 66,
+        "open_for_business": 1,
+        "tags": [
+            "Cocktail Bars",
+            "Sandwiches",
+            "Lounges"
+        ],
+        "website": "http://www.marriott.com/hotels/travel/auscp-springhill-suites-austin-cedar-park/",
+        "longitude": -97.820535,
+        "latitude": 30.525966,
+        "address": "1110 Discovery Blvd",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "(512) 260-1200",
+        "price": "",
+        "hours": {
+            "Mon": "5:00 PM - 11:00 PM",
+            "Tue": "5:00 PM - 11:00 PM",
+            "Wed": "5:00 PM - 11:00 PM",
+            "Thu": "5:00 PM - 11:00 PM",
+            "Fri": "5:00 PM - 11:00 PM",
+            "Sat": "5:00 PM - 11:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Full Bar",
+            "Smoking Outside Only",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "No Takeout",
+            "Offers Catering",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "5",
+        "review_count": "5"
+    },
+    {
+        "name": "Alamo Drafthouse Cinema Lakeline",
+        "id": 499,
+        "open_for_business": 1,
+        "tags": [
+            "Claimed",
+            "Bars",
+            "Cinema",
+            "Dinner Theater"
+        ],
+        "website": "https://drafthouse.com/austin/theater/lakeline",
+        "longitude": -97.804158,
+        "latitude": 30.475438,
+        "address": "14028 N US Highway 183Bldg F",
+        "postal_code": "78717",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 861-7070",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "10:00 AM - 10:00 PM",
+            "Tue": "10:00 AM - 10:00 PM",
+            "Wed": "10:00 AM - 10:00 PM",
+            "Thu": "10:00 AM - 10:00 PM",
+            "Fri": "10:00 AM - 10:00 PM",
+            "Sat": "10:00 AM - 10:00 PM",
+            "Sun": "10:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Health Score",
+            "Takes Reservations",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Staff wears masks",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy, Casual",
+            "Moderate Noise",
+            "Casual Dress",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Late Night",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Best nights on Wednesday, Friday, Saturday",
+            "Full Bar",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "3.5",
+        "review_count": "559"
+    },
+    {
+        "name": "Twin Peaks Round Rock",
+        "id": 107,
+        "open_for_business": 1,
+        "tags": [
+            "American (Traditional)",
+            "Sports Bars",
+            "American (New)"
+        ],
+        "website": "https://twinpeaksrestaurant.com/locations/round-rock-tx",
+        "longitude": -97.672997,
+        "latitude": 30.481598,
+        "address": "100 Louis Henna Blvd",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 283-7325",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 12:00 AM ()",
+            "Tue": "11:00 AM - 12:00 AM ()",
+            "Wed": "11:00 AM - 12:00 AM ()",
+            "Thu": "11:00 AM - 12:00 AM ()",
+            "Fri": "11:00 AM - 1:00 AM ()",
+            "Sat": "11:00 AM - 1:00 AM ()",
+            "Sun": "11:00 AM - 12:00 AM ()"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good for Lunch, Dinner, Late Night",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Best nights on Wednesday, Thursday, Friday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Smoking Outside Only",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Pool Table"
+        ],
+        "rating_value": "3.5",
+        "review_count": "339"
+    },
+    {
+        "name": "The Golden Rule",
+        "id": 559,
+        "open_for_business": 1,
+        "tags": [
+            "Cocktail Bars",
+            "Sandwiches",
+            "American (New)"
+        ],
+        "website": "https://www.goldenrulegtx.com",
+        "longitude": -97.67624,
+        "latitude": 30.637818,
+        "address": "606 S Church St",
+        "postal_code": "78626",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 843-5900",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "11:00 AM - 10:00 PM",
+            "Wed": "11:00 AM - 10:00 PM",
+            "Thu": "11:00 AM - 10:00 PM",
+            "Fri": "11:00 AM - 11:00 PM",
+            "Sat": "11:00 AM - 11:00 PM",
+            "Sun": "11:00 AM - 8:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy",
+            "Moderate Noise",
+            "Casual Dress",
+            "Good for Groups",
+            "Street Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Best nights on Saturday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Offers Military Discount",
+            "Open to All",
+            "Heated outdoor seating",
+            "Covered outdoor seating",
+            "Private dining"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Bike Parking",
+            "No Smoking",
+            "Dogs Not Allowed",
+            "No TV"
+        ],
+        "rating_value": "4",
+        "review_count": "104"
+    },
+    {
+        "name": "BJ's Restaurant and Brewhouse",
+        "id": 267,
+        "open_for_business": 1,
+        "tags": [
+            "American (New)",
+            "Breweries",
+            "Pizza"
+        ],
+        "website": "http://www.bjsrestaurants.com/locations/tx/round-rock",
+        "longitude": -97.691721,
+        "latitude": 30.561088,
+        "address": "4201 N Interstate 35",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 868-5705",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 11:00 PM",
+            "Tue": "11:00 AM - 11:00 PM",
+            "Wed": "11:00 AM - 11:00 PM",
+            "Thu": "11:00 AM - 11:00 PM",
+            "Fri": "11:00 AM - 12:00 AM ()",
+            "Sat": "11:00 AM - 12:00 AM ()",
+            "Sun": "11:00 AM - 11:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Wheelchair Accessible",
+            "TV",
+            "Heated outdoor seating"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "Dogs Not Allowed",
+            "Covered outdoor seating"
+        ],
+        "rating_value": "2.5",
+        "review_count": "468"
+    },
+    {
+        "name": "Shooters Billiards and Sports Bar",
+        "id": 116,
+        "open_for_business": 1,
+        "tags": [
+            "Pool Halls",
+            "Sports Bars"
+        ],
+        "website": "http://www.shootersbilliards.net",
+        "longitude": -97.824891,
+        "latitude": 30.523921,
+        "address": "601 E Whitestone Blvd",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "(512) 260-2060",
+        "price": "Inexpensive",
+        "hours": {
+            "Mon": "11:00 AM - 2:00 AM ()",
+            "Tue": "11:00 AM - 2:00 AM ()",
+            "Wed": "11:00 AM - 2:00 AM ()",
+            "Thu": "11:00 AM - 2:00 AM ()",
+            "Fri": "11:00 AM - 2:00 AM ()",
+            "Sat": "11:00 AM - 2:00 AM ()",
+            "Sun": "11:00 AM - 2:00 AM ()"
+        },
+        "accommodations": [
+            "Masks required",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy, Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Dancing",
+            "Pool Table",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Monday, Wednesday, Saturday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Smoking Allowed",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Apple Pay"
+        ],
+        "rating_value": "3",
+        "review_count": "72"
+    },
+    {
+        "name": "High Country Market and GastroPub",
+        "id": 113,
+        "open_for_business": 1,
+        "tags": [
+            "Grocery",
+            "Beer Bar",
+            "Gastropubs"
+        ],
+        "website": "http://www.highcountrymarket.com",
+        "longitude": -97.61639,
+        "latitude": 30.496806,
+        "address": "3701 Gattis School Rd",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 827-7786",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "8:00 AM - 9:00 PM",
+            "Tue": "8:00 AM - 9:00 PM",
+            "Wed": "8:00 AM - 9:00 PM",
+            "Thu": "8:00 AM - 9:00 PM",
+            "Fri": "8:00 AM - 9:00 PM",
+            "Sat": "8:00 AM - 9:00 PM",
+            "Sun": "10:00 AM - 8:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Delivery",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Outdoor Seating",
+            "Classy, Casual",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Breakfast, Lunch, Dinner",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Best nights on Monday, Saturday",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Not Good For Dancing",
+            "No Pool Table"
+        ],
+        "rating_value": "3.5",
+        "review_count": "267"
+    },
+    {
+        "name": "Amber and Amethyst Tours",
+        "id": 614,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Beer Tours"
+        ],
+        "website": "http://www.aatouring.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78665",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 669-1212",
+        "price": "",
+        "hours": {
+            "Mon": "8:00 AM - 7:00 PM",
+            "Tue": "8:00 AM - 7:00 PM",
+            "Wed": "8:00 AM - 7:00 PM",
+            "Thu": "8:00 AM - 7:00 PM",
+            "Fri": "8:00 AM - 7:00 PM",
+            "Sat": "8:00 AM - 7:00 PM",
+            "Sun": "9:00 AM - 7:00 PM"
+        },
+        "accommodations": [
+            "All staff fully vaccinated",
+            "Latinx-owned",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "3"
+    },
+    {
+        "name": "Moon Dance Wine and Spirits",
+        "id": 405,
+        "open_for_business": 1,
+        "tags": [
+            "Beer, Wine & Spirits"
+        ],
+        "website": "https://www.liquorstoreroundrock.com",
+        "longitude": -97.615655,
+        "latitude": 30.498762,
+        "address": "3720 Gattis School RdSte 900",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 716-1020",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "10:00 AM - 9:00 PM",
+            "Tue": "10:00 AM - 9:00 PM",
+            "Wed": "10:00 AM - 9:00 PM",
+            "Thu": "10:00 AM - 9:00 PM",
+            "Fri": "10:00 AM - 9:00 PM",
+            "Sat": "10:00 AM - 9:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Offers Catering",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay"
+        ],
+        "rating_value": "3.5",
+        "review_count": "14"
+    },
+    {
+        "name": "BJ's Restaurant and Brewhouse",
+        "id": 267,
+        "open_for_business": 1,
+        "tags": [
+            "Pizza",
+            "American (New)",
+            "Breweries"
+        ],
+        "website": "https://www.bjsrestaurants.com/locations/tx/cedar-park",
+        "longitude": -97.818819,
+        "latitude": 30.525035,
+        "address": "1001 E Whitestone Blvd",
+        "postal_code": "78613",
+        "city": "Cedar Park",
+        "state": "TX",
+        "telephone": "(512) 379-2180",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 11:00 PM",
+            "Tue": "11:00 AM - 11:00 PM",
+            "Wed": "11:00 AM - 11:00 PM",
+            "Thu": "11:00 AM - 11:00 PM",
+            "Fri": "11:00 AM - 12:00 AM ()",
+            "Sat": "11:00 AM - 12:00 AM ()",
+            "Sun": "11:00 AM - 11:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Staff wears masks",
+            "Vegan Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner, Dessert",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "No Outdoor Seating",
+            "Offers Catering",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "3",
+        "review_count": "303"
+    },
+    {
+        "name": "Pizza Delight",
+        "id": 218,
+        "open_for_business": 1,
+        "tags": [
+            "Pizza",
+            "Chicken Wings",
+            "Bars"
+        ],
+        "website": "https://www.pizzadelighttx.com",
+        "longitude": -97.660553,
+        "latitude": 30.518942,
+        "address": "1700 E Palm Valley BlvdSte 430",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 827-3300",
+        "price": "Under $10",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 9:30 PM",
+            "Sat": "11:00 AM - 9:30 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Casual",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Best nights on Wednesday, Thursday",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Wheelchair Accessible",
+            "TV",
+            "Gender-neutral restrooms",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "No Outdoor Seating",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "No Smoking",
+            "Heated outdoor seating",
+            "Covered outdoor seating",
+            "Private dining"
+        ],
+        "rating_value": "4",
+        "review_count": "301"
+    },
+    {
+        "name": "Schitz Creek Distillery",
+        "id": 496,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries",
+            "Wine Tasting Room"
+        ],
+        "website": "http://www.schitzcreek.com",
+        "longitude": -97.876369,
+        "latitude": 30.693089,
+        "address": "101 County Rd 257",
+        "postal_code": "78642",
+        "city": "Liberty Hill",
+        "state": "TX",
+        "telephone": "(512) 778-5990",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "12:00 PM - 6:00 PM",
+            "Thu": "12:00 PM - 6:00 PM",
+            "Fri": "12:00 PM - 6:00 PM",
+            "Sat": "12:00 PM - 7:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Offers Catering",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "No Happy Hour"
+        ],
+        "rating_value": "3.5",
+        "review_count": "3"
+    },
+    {
+        "name": "Leanderthal Distilling",
+        "id": 233,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries"
+        ],
+        "website": "https://leanderthaltx.com",
+        "longitude": -97.870852,
+        "latitude": 30.577406,
+        "address": "11894 Hero Way W",
+        "postal_code": "78641",
+        "city": "Leander",
+        "state": "TX",
+        "telephone": "(512) 697-9127",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "5:00 PM - 9:00 PM",
+            "Sat": "1:00 PM - 9:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Offers Delivery"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "11"
+    },
+    {
+        "name": "Spirit of Texas Distillery",
+        "id": 443,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries",
+            "Cocktail Bars",
+            "Venues & Event Spaces"
+        ],
+        "website": "http://www.spiritoftx.com",
+        "longitude": -97.584275,
+        "latitude": 30.480097,
+        "address": "1715 DalshankSte A",
+        "postal_code": "78660",
+        "city": "Pflugerville",
+        "state": "TX",
+        "telephone": "(512) 989-9292",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "4:00 PM - 10:00 PM",
+            "Sat": "1:00 PM - 10:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good For Kids",
+            "Street Parking, Private Lot Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Full Bar",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "No Bike Parking"
+        ],
+        "rating_value": "4.5",
+        "review_count": "20"
+    },
+    {
+        "name": "Sangiovanni Distillery Pizzeria and Daiquiris",
+        "id": 634,
+        "open_for_business": 1,
+        "tags": [
+            "Pizza",
+            "Distilleries"
+        ],
+        "website": "http://atxvodka.net",
+        "longitude": -97.586815,
+        "latitude": 30.493545,
+        "address": "4701 Priem LnSte 3-A",
+        "postal_code": "78660",
+        "city": "Pflugerville",
+        "state": "TX",
+        "telephone": "(512) 291-6094",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "5:00 PM - 9:00 PM",
+            "Fri": "5:00 PM - 9:00 PM",
+            "Sat": "5:00 PM - 9:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Full Bar",
+            "Wheelchair Accessible",
+            "TV",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Offers Catering",
+            "No Bike Parking",
+            "No Happy Hour",
+            "No Drive-Thru",
+            "Private dining"
+        ],
+        "rating_value": "4.5",
+        "review_count": "14"
+    },
+    {
+        "name": "Thirsty Mule Winery",
+        "id": 410,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.thirstymule.com",
+        "longitude": -97.876369,
+        "latitude": 30.693089,
+        "address": "101 County Rd 257",
+        "postal_code": "78642",
+        "city": "Liberty Hill",
+        "state": "TX",
+        "telephone": "(512) 778-5990",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "11:30 AM - 6:00 PM",
+            "Thu": "11:30 AM - 6:00 PM",
+            "Fri": "11:00 AM - 7:00 PM",
+            "Sat": "11:00 AM - 7:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "Covered outdoor seating"
+        ],
+        "rating_value": "4",
+        "review_count": "52"
+    },
+    {
+        "name": "ThunderDome Party Bus",
+        "id": 466,
+        "open_for_business": 1,
+        "tags": [
+            "Party Bus Rentals",
+            "Tubing",
+            "Wine Tours"
+        ],
+        "website": "http://thunderdomepartybus.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78701",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 876-0066",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay"
+        ],
+        "unaccommodations": [
+            "Accepts Cryptocurrency",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "Not Wheelchair Accessible"
+        ],
+        "rating_value": "5",
+        "review_count": "12"
+    },
+    {
+        "name": "Texas Tipsy Tours",
+        "id": 102,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Beer Tours",
+            "Party Bus Rentals"
+        ],
+        "website": "https://www.texastipsytours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 593-1858",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Cryptocurrency",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "17"
+    },
+    {
+        "name": "Discover Texas Wine Tours",
+        "id": 242,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://discovertexaswine.com",
+        "longitude": -97.743205,
+        "latitude": 30.266919,
+        "address": "",
+        "postal_code": "78737",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 656-8299",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 9:00 PM",
+            "Tue": "9:00 AM - 9:00 PM",
+            "Wed": "9:00 AM - 9:00 PM",
+            "Thu": "9:00 AM - 9:00 PM",
+            "Fri": "9:00 AM - 9:00 PM",
+            "Sat": "9:00 AM - 9:00 PM",
+            "Sun": "9:00 AM - 9:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "38"
+    },
+    {
+        "name": "Cool Bus Atx",
+        "id": 584,
+        "open_for_business": 1,
+        "tags": [
+            "Bus Tours",
+            "Party Bus Rentals",
+            "Wine Tours"
+        ],
+        "website": "https://cool-bus-atx.business.site",
+        "longitude": -95.488268,
+        "latitude": 29.062037,
+        "address": "",
+        "postal_code": "77566",
+        "city": "Lake Jackson",
+        "state": "TX",
+        "telephone": "(832) 740-2665",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [],
+        "unaccommodations": [
+            "Accepts Credit Cards",
+            "Accepts Cryptocurrency",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "3"
+    },
+    {
+        "name": "Austin Nites Party Bus",
+        "id": 349,
+        "open_for_business": 1,
+        "tags": [
+            "Party Bus Rentals",
+            "Wine Tours",
+            "Boating"
+        ],
+        "website": "http://www.austinnitespartybus.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78750",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 709-4391",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Bike Parking",
+            "Free Wi-Fi"
+        ],
+        "unaccommodations": [
+            "Accepts Cryptocurrency",
+            "Not Wheelchair Accessible"
+        ],
+        "rating_value": "3.5",
+        "review_count": "15"
+    },
+    {
+        "name": "Wine Tour Austin Texas",
+        "id": 42,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Limos",
+            "Party Characters"
+        ],
+        "website": "http://winetouraustintx.com",
+        "longitude": -97.744386,
+        "latitude": 30.272921,
+        "address": "",
+        "postal_code": "78701",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 785-1078",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay"
+        ],
+        "rating_value": "",
+        "review_count": ""
+    },
+    {
+        "name": "Barons Creek Wine Room",
+        "id": 455,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room",
+            "Wine Bars",
+            "Music Venues"
+        ],
+        "website": "https://baronscreekwineroom.com",
+        "longitude": -97.678307,
+        "latitude": 30.637238,
+        "address": "706 S Austin Ave",
+        "postal_code": "78626",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 688-5755",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "2:00 PM - 9:00 PM",
+            "Wed": "2:00 PM - 9:00 PM",
+            "Thu": "2:00 PM - 9:00 PM",
+            "Fri": "2:00 PM - 9:00 PM",
+            "Sat": "12:00 PM - 9:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Outdoor Seating",
+            "Street Parking",
+            "Live Music"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "30"
+    },
+    {
+        "name": "Grape Creek Vineyards",
+        "id": 286,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.grapecreek.com/",
+        "longitude": -97.677059,
+        "latitude": 30.637489,
+        "address": "101 W 7th St",
+        "postal_code": "78626",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 863-4020",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 6:30 PM",
+            "Tue": "12:00 PM - 6:30 PM",
+            "Wed": "12:00 PM - 6:30 PM",
+            "Thu": "12:00 PM - 6:30 PM",
+            "Fri": "12:00 PM - 6:30 PM",
+            "Sat": "12:00 PM - 6:30 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Street Parking",
+            "Bike Parking"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "3.5",
+        "review_count": "95"
+    },
+    {
+        "name": "Georgetown Winery",
+        "id": 122,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.georgetownwinery.com",
+        "longitude": -97.67673,
+        "latitude": 30.636861,
+        "address": "715 Main St",
+        "postal_code": "78626",
+        "city": "Georgetown",
+        "state": "TX",
+        "telephone": "(512) 869-8600",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:30 PM",
+            "Sat": "11:00 AM - 6:30 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Masks required",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Moderate Noise",
+            "Street Parking",
+            "Bike Parking",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Wi-Fi"
+        ],
+        "rating_value": "4",
+        "review_count": "102"
+    },
+    {
+        "name": "Taste of Bliss Winery",
+        "id": 127,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "https://tasteofblisswinery.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78664",
+        "city": "Round Rock",
+        "state": "TX",
+        "telephone": "(512) 850-1700",
+        "price": "",
+        "hours": {
+            "Mon": "8:00 AM - 6:00 PM",
+            "Tue": "8:00 AM - 6:00 PM",
+            "Wed": "8:00 AM - 6:00 PM",
+            "Thu": "8:00 AM - 6:00 PM",
+            "Fri": "8:00 AM - 6:00 PM",
+            "Sat": "Closed",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "",
+        "review_count": ""
+    }
+]

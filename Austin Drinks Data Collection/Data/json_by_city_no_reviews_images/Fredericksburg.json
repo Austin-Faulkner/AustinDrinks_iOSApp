@@ -1,0 +1,3546 @@
+[
+    {
+        "name": "Fredericksburg Brewing",
+        "id": 1,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries",
+            "German"
+        ],
+        "website": "http://www.yourbrewery.com",
+        "longitude": -98.86951,
+        "latitude": 30.272797,
+        "address": "245 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-1646",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 8:00 PM",
+            "Tue": "11:00 AM - 8:00 PM",
+            "Wed": "11:00 AM - 8:00 PM",
+            "Thu": "11:00 AM - 8:00 PM",
+            "Fri": "11:00 AM - 9:00 PM",
+            "Sat": "11:00 AM - 9:00 PM",
+            "Sun": "11:00 AM - 8:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Casual",
+            "Loud",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Street Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Beer & Wine Only",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "No Bike Parking",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "3",
+        "review_count": "586"
+    },
+    {
+        "name": "Altstadt Brewery",
+        "id": 376,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries",
+            "Venues & Event Spaces",
+            "German"
+        ],
+        "website": "https://www.altstadtbeer.com",
+        "longitude": -98.796953,
+        "latitude": 30.226179,
+        "address": "6120 E US Hwy 290",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 304-2337",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "12:00 PM - 8:00 PM",
+            "Thu": "12:00 PM - 8:00 PM",
+            "Fri": "12:00 PM - 9:00 PM",
+            "Sat": "12:00 PM - 9:00 PM",
+            "Sun": "11:00 AM - 4:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Wheelchair Accessible",
+            "TV",
+            "Open to All",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "3.5",
+        "review_count": "307"
+    },
+    {
+        "name": "The CLUB at Barons CreekSide",
+        "id": 419,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Bars",
+            "Gastropubs",
+            "Music Venues"
+        ],
+        "website": "http://www.theclubfbg.com",
+        "longitude": -98.849986,
+        "latitude": 30.262532,
+        "address": "316 Goehmann LnBarons Creekside",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 992-3421",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "5:00 PM - 11:00 PM",
+            "Fri": "5:00 PM - 11:00 PM",
+            "Sat": "5:00 PM - 11:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual, Trendy, Romantic, Classy",
+            "Casual Dress",
+            "Good for Groups",
+            "Good for Dinner",
+            "Good For Dancing",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Friday",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Happy Hour",
+            "No Drive-Thru",
+            "No TV"
+        ],
+        "rating_value": "4.5",
+        "review_count": "136"
+    },
+    {
+        "name": "The Auslander",
+        "id": 339,
+        "open_for_business": 1,
+        "tags": [
+            "German",
+            "Beer Bar"
+        ],
+        "website": "http://theauslanderfredericksburg.com",
+        "longitude": -98.867981,
+        "latitude": 30.271799,
+        "address": "323 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-7714",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "Closed",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 9:30 PM",
+            "Sat": "11:00 AM - 9:30 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Touristy, Classy, Casual",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Street Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Live Music",
+            "Best nights on Friday, Saturday",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "Wheelchair Accessible",
+            "TV",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "No Wi-Fi",
+            "Private dining"
+        ],
+        "rating_value": "3.5",
+        "review_count": "892"
+    },
+    {
+        "name": "Pontotoc Vineyard",
+        "id": 370,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.pontotocvineyard.com",
+        "longitude": -98.8765,
+        "latitude": 30.278552,
+        "address": "320 W Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 658-0023",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "12:00 PM - 8:00 PM",
+            "Fri": "12:00 PM - 8:00 PM",
+            "Sat": "12:00 PM - 8:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Good For Kids",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Accepts Android Pay",
+            "Offers Catering",
+            "No Happy Hour"
+        ],
+        "rating_value": "5",
+        "review_count": "313"
+    },
+    {
+        "name": "Silver Creek Beer Garden and Grille",
+        "id": 581,
+        "open_for_business": 1,
+        "tags": [
+            "American (Traditional)",
+            "German",
+            "Cocktail Bars"
+        ],
+        "website": "http://www.silvercreekfbg.com",
+        "longitude": -98.868176,
+        "latitude": 30.272605,
+        "address": "310 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 990-4949",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy, Casual",
+            "Moderate Noise",
+            "Casual Dress",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Friday, Saturday, Sunday",
+            "Full Bar",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Dancing"
+        ],
+        "rating_value": "3",
+        "review_count": "566"
+    },
+    {
+        "name": "Hondo's",
+        "id": 162,
+        "open_for_business": 1,
+        "tags": [
+            "Bars",
+            "American (Traditional)",
+            "Music Venues"
+        ],
+        "website": "http://www.hondosonmain.com/index.html",
+        "longitude": -98.876165,
+        "latitude": 30.278126,
+        "address": "312 W Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-1633",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 9:00 PM",
+            "Sat": "11:00 AM - 9:00 PM",
+            "Sun": "11:00 AM - 8:00 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Casual Dress",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Good For Dancing",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Live Music",
+            "Best nights on Thursday, Friday, Saturday",
+            "Full Bar",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Masks required",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Pool Table",
+            "No Wi-Fi",
+            "No TV"
+        ],
+        "rating_value": "3.5",
+        "review_count": "708"
+    },
+    {
+        "name": "Fat Ass Winery Tasting Room",
+        "id": 117,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "http://www.fatasswine.com/our-story",
+        "longitude": -98.871181,
+        "latitude": 30.273909,
+        "address": "153 East Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-9095",
+        "price": "Moderate",
+        "hours": {},
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Bike Parking"
+        ],
+        "unaccommodations": [
+            "Not Good For Kids"
+        ],
+        "rating_value": "3.5",
+        "review_count": "112"
+    },
+    {
+        "name": "Sozial Haus",
+        "id": 221,
+        "open_for_business": 1,
+        "tags": [
+            "Pizza",
+            "Sports Bars",
+            "Sandwiches"
+        ],
+        "website": "",
+        "longitude": -98.87102,
+        "latitude": 30.273082,
+        "address": "107 S Llano",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 307-3208",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "Closed",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 9:00 PM",
+            "Sat": "11:00 AM - 9:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Street Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Monday, Tuesday, Friday",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "No Happy Hour"
+        ],
+        "rating_value": "3.5",
+        "review_count": "358"
+    },
+    {
+        "name": "Der Lindenbaum",
+        "id": 453,
+        "open_for_business": 1,
+        "tags": [
+            "German",
+            "Bars",
+            "Sandwiches"
+        ],
+        "website": "http://www.derlindenbaum.com/",
+        "longitude": -98.868168,
+        "latitude": 30.272374,
+        "address": "312 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-9126",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "11:30 AM - 9:00 PM",
+            "Thu": "11:30 AM - 9:00 PM",
+            "Fri": "11:30 AM - 9:00 PM",
+            "Sat": "11:30 AM - 9:00 PM",
+            "Sun": "11:30 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Classy, Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Street Parking",
+            "Waiter Service",
+            "Best nights on Friday, Sunday",
+            "Beer & Wine Only"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "No Pool Table",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "No TV"
+        ],
+        "rating_value": "3.5",
+        "review_count": "550"
+    },
+    {
+        "name": "Cultures Grill and Bar",
+        "id": 25,
+        "open_for_business": 1,
+        "tags": [
+            "American (Traditional)",
+            "German",
+            "Beer Bar"
+        ],
+        "website": "http://www.culturesgrillandbar.com",
+        "longitude": -98.867954,
+        "latitude": 30.272306,
+        "address": "318 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-8100",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 9:00 PM",
+            "Tue": "11:00 AM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 9:00 PM",
+            "Sat": "11:00 AM - 9:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Street Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Live Music",
+            "Best nights on Thursday, Friday, Saturday",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "No Wi-Fi",
+            "No Smoking"
+        ],
+        "rating_value": "3",
+        "review_count": "244"
+    },
+    {
+        "name": "Texas Tipsy Tours",
+        "id": 102,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Beer Tours",
+            "Party Bus Rentals"
+        ],
+        "website": "https://www.texastipsytours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 593-1858",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Cryptocurrency",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "17"
+    },
+    {
+        "name": "Fredericksburg Uncorked Wine Tours",
+        "id": 364,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Wine Tasting Room",
+            "Beer Tours"
+        ],
+        "website": "http://www.fredericksburguncorked.com",
+        "longitude": -98.904149,
+        "latitude": 30.25195,
+        "address": "588 FM 2093",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 998-6113",
+        "price": "Pricey",
+        "hours": {
+            "Mon": "10:00 AM - 6:00 PM",
+            "Tue": "10:00 AM - 6:00 PM",
+            "Wed": "10:00 AM - 6:00 PM",
+            "Thu": "10:00 AM - 6:00 PM",
+            "Fri": "10:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "10:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "By Appointment Only",
+            "Accepts Credit Cards",
+            "Offers Catering",
+            "Bike Parking",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Not Good For Kids"
+        ],
+        "rating_value": "5",
+        "review_count": "30"
+    },
+    {
+        "name": "Pedal Tour",
+        "id": 68,
+        "open_for_business": 1,
+        "tags": [
+            "Party Bike Rentals",
+            "Tours",
+            "Wine Tasting Room"
+        ],
+        "website": "http://pedaltourtexas.com",
+        "longitude": -98.874728,
+        "latitude": 30.272011,
+        "address": "102 E Ufer St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 953-9428",
+        "price": "",
+        "hours": {
+            "Mon": "8:00 AM - 10:00 PM",
+            "Tue": "8:00 AM - 10:00 PM",
+            "Wed": "8:00 AM - 10:00 PM",
+            "Thu": "8:00 AM - 10:00 PM",
+            "Fri": "8:00 AM - 10:00 PM",
+            "Sat": "8:00 AM - 10:00 PM",
+            "Sun": "8:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "By Appointment Only",
+            "Accepts Credit Cards",
+            "Free Wi-Fi",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Not Wheelchair Accessible"
+        ],
+        "rating_value": "3.5",
+        "review_count": "16"
+    },
+    {
+        "name": "Grape Creek Winery",
+        "id": 529,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.grapecreek.com",
+        "longitude": -98.869972,
+        "latitude": 30.273299,
+        "address": "223 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 992-3373",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 5:30 PM",
+            "Tue": "11:00 AM - 5:30 PM",
+            "Wed": "11:00 AM - 5:30 PM",
+            "Thu": "11:00 AM - 5:30 PM",
+            "Fri": "11:00 AM - 5:30 PM",
+            "Sat": "11:00 AM - 5:30 PM",
+            "Sun": "11:00 AM - 5:30 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Android Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Bike Parking",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "3.5",
+        "review_count": "367"
+    },
+    {
+        "name": "Vintage Car Service",
+        "id": 434,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Town Car Service"
+        ],
+        "website": "https://www.vintagecarservicefbg.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 202-1844",
+        "price": "",
+        "hours": {
+            "Mon": "12:00 PM - 5:00 PM",
+            "Tue": "12:00 PM - 5:00 PM",
+            "Wed": "12:00 PM - 5:00 PM",
+            "Thu": "12:00 PM - 5:00 PM",
+            "Fri": "10:30 AM - 6:00 PM",
+            "Sat": "10:30 AM - 6:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "25"
+    },
+    {
+        "name": "Moon's Vineyard Voyage",
+        "id": 523,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://moonsvineyardvoyages.com/",
+        "longitude": -98.854002,
+        "latitude": 30.259321,
+        "address": "1406 E Main StSte 200-252",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(254) 913-7220",
+        "price": "",
+        "hours": {
+            "Mon": "10:00 AM - 6:00 PM",
+            "Tue": "10:00 AM - 6:00 PM",
+            "Wed": "10:00 AM - 6:00 PM",
+            "Thu": "10:00 AM - 6:00 PM",
+            "Fri": "10:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "10:30 AM - 6:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "11"
+    },
+    {
+        "name": "Cellar Rat Wine Tours",
+        "id": 639,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://cellarratwinetours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(325) 374-8921",
+        "price": "",
+        "hours": {
+            "Mon": "10:00 AM - 6:00 PM",
+            "Tue": "10:00 AM - 6:00 PM",
+            "Wed": "10:00 AM - 6:00 PM",
+            "Thu": "10:00 AM - 6:00 PM",
+            "Fri": "10:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "10:00 AM - 6:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "65"
+    },
+    {
+        "name": "Kirchman's Private Tours",
+        "id": 414,
+        "open_for_business": 1,
+        "tags": [
+            "Transportation",
+            "Wine Tours"
+        ],
+        "website": "https://kirchmansprivatetours.com",
+        "longitude": -98.877112,
+        "latitude": 30.281579,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 757-2464",
+        "price": "",
+        "hours": {
+            "Mon": "8:00 AM - 10:00 PM",
+            "Tue": "8:00 AM - 10:00 PM",
+            "Wed": "8:00 AM - 10:00 PM",
+            "Thu": "8:00 AM - 10:00 PM",
+            "Fri": "8:00 AM - 10:00 PM",
+            "Sat": "8:00 AM - 10:00 PM",
+            "Sun": "8:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Staff wears masks",
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "9"
+    },
+    {
+        "name": "Grape and Grain Tasting Tours",
+        "id": 575,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.grapeandgraintasting.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 733-2422",
+        "price": "",
+        "hours": {
+            "Mon": "10:00 AM - 6:00 PM",
+            "Tue": "10:00 AM - 6:00 PM",
+            "Wed": "10:00 AM - 6:00 PM",
+            "Thu": "10:00 AM - 6:00 PM",
+            "Fri": "10:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "10:00 AM - 6:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "290 Wine Shuttle",
+        "id": 99,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://290wineshuttle.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(210) 724-7217",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 6:00 PM",
+            "Sun": "10:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "4.5",
+        "review_count": "102"
+    },
+    {
+        "name": "Texas Wine Tours",
+        "id": 652,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.texas-wine-tours.com",
+        "longitude": -98.904975,
+        "latitude": 30.284377,
+        "address": "37 Royal Oaks Dr E",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-8687",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "52"
+    },
+    {
+        "name": "Yellow Rose of Texas Wine Tours",
+        "id": 505,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://yellowroseoftexaswinetours.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(210) 449-4382",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 9:00 PM",
+            "Tue": "9:00 AM - 9:00 PM",
+            "Wed": "9:00 AM - 9:00 PM",
+            "Thu": "9:00 AM - 9:00 PM",
+            "Fri": "9:00 AM - 9:00 PM",
+            "Sat": "9:00 AM - 9:00 PM",
+            "Sun": "9:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Paid Wi-Fi"
+        ],
+        "unaccommodations": [],
+        "rating_value": "3.5",
+        "review_count": "8"
+    },
+    {
+        "name": "Keidel Wine Tours",
+        "id": 75,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Beer Tours"
+        ],
+        "website": "https://keidelwinetours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 775-6805",
+        "price": "",
+        "hours": {
+            "Mon": "8:00 AM - 6:00 PM",
+            "Tue": "8:00 AM - 6:00 PM",
+            "Wed": "8:00 AM - 6:00 PM",
+            "Thu": "8:00 AM - 6:00 PM",
+            "Fri": "8:00 AM - 6:00 PM",
+            "Sat": "8:00 AM - 6:00 PM",
+            "Sun": "8:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "1"
+    },
+    {
+        "name": "830 Elevated Wine Tours",
+        "id": 215,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Town Car Service"
+        ],
+        "website": "https://830elevatedwinetours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 998-2295",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Free Wi-Fi",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks"
+        ],
+        "rating_value": "4.5",
+        "review_count": "12"
+    },
+    {
+        "name": "Majesty Tours",
+        "id": 368,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Airport Shuttles"
+        ],
+        "website": "https://www.majestywinetours.com",
+        "longitude": -98.874727,
+        "latitude": 30.277274,
+        "address": "224 W Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 456-1883",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 6:00 PM",
+            "Tue": "9:00 AM - 6:00 PM",
+            "Wed": "9:00 AM - 6:00 PM",
+            "Thu": "9:00 AM - 6:00 PM",
+            "Fri": "9:00 AM - 6:00 PM",
+            "Sat": "9:00 AM - 4:00 PM",
+            "Sun": "10:00 AM - 2:00 PM"
+        },
+        "accommodations": [
+            "Women-owned",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "48"
+    },
+    {
+        "name": "Hartmann Wine Tours",
+        "id": 418,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "https://www.hartmannwinetourstx.com",
+        "longitude": -98.860077,
+        "latitude": 30.268144,
+        "address": "203 N Columbus St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 307-2393",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "11:30 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Free Wi-Fi"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "6"
+    },
+    {
+        "name": "Elk Store Winery and Distillery",
+        "id": 78,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Bars",
+            "Distilleries"
+        ],
+        "website": "http://elkstore1895.com",
+        "longitude": -98.868133,
+        "latitude": 30.271714,
+        "address": "327 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-2665",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "1:00 PM - 9:00 PM",
+            "Tue": "1:00 PM - 9:00 PM",
+            "Wed": "1:00 PM - 9:00 PM",
+            "Thu": "1:00 PM - 9:00 PM",
+            "Fri": "1:00 PM - 11:00 PM",
+            "Sat": "1:00 PM - 11:00 PM",
+            "Sun": "1:00 PM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Romantic, Intimate, Trendy, Classy",
+            "Quiet",
+            "Good for Groups",
+            "Street Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Friday, Saturday, Sunday",
+            "Full Bar",
+            "Smoking Outside Only",
+            "TV",
+            "Gender-neutral restrooms",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Masks required",
+            "Offers Catering",
+            "No Bike Parking",
+            "No Drive-Thru",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4",
+        "review_count": "131"
+    },
+    {
+        "name": "Dietz Distillery",
+        "id": 340,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries"
+        ],
+        "website": "https://www.dietzdistillery.com",
+        "longitude": -98.871834,
+        "latitude": 30.25196,
+        "address": "1434 S US Hwy 87",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "",
+        "price": "",
+        "hours": {},
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "1"
+    },
+    {
+        "name": "Dark Star Black Car",
+        "id": 399,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "https://www.darkstarblackcar.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(737) 239-3422",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 7:00 PM",
+            "Tue": "9:00 AM - 7:00 PM",
+            "Wed": "9:00 AM - 7:00 PM",
+            "Thu": "9:00 AM - 7:00 PM",
+            "Fri": "9:00 AM - 9:00 PM",
+            "Sat": "9:00 AM - 9:00 PM",
+            "Sun": "10:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Paid Wi-Fi"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Open Range Tours",
+        "id": 119,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Beer Tours"
+        ],
+        "website": "http://www.openrangetours.com",
+        "longitude": -98.962296,
+        "latitude": 30.401053,
+        "address": "275 Hill Top Dr",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 391-9336",
+        "price": "",
+        "hours": {
+            "Mon": "7:00 AM - 7:00 PM",
+            "Tue": "7:00 AM - 7:00 PM",
+            "Wed": "7:00 AM - 7:00 PM",
+            "Thu": "7:00 AM - 7:00 PM",
+            "Fri": "7:00 AM - 7:00 PM",
+            "Sat": "7:00 AM - 7:00 PM",
+            "Sun": "7:00 AM - 7:00 PM"
+        },
+        "accommodations": [
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "19"
+    },
+    {
+        "name": "Texan Wine and Spirit Tours",
+        "id": 648,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Art Tours"
+        ],
+        "website": "",
+        "longitude": -98.547133,
+        "latitude": 30.249339,
+        "address": "201 Ranch Rd 1320",
+        "postal_code": "78636",
+        "city": "Johnson City",
+        "state": "TX",
+        "telephone": "(830) 456-7682",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 10:00 PM",
+            "Tue": "9:00 AM - 10:00 PM",
+            "Wed": "9:00 AM - 10:00 PM",
+            "Thu": "9:00 AM - 10:00 PM",
+            "Fri": "9:00 AM - 10:00 PM",
+            "Sat": "9:00 AM - 10:00 PM",
+            "Sun": "9:00 AM - 10:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "4.5",
+        "review_count": "7"
+    },
+    {
+        "name": "San Antonio Detours",
+        "id": 572,
+        "open_for_business": 1,
+        "tags": [
+            "Food Tours",
+            "Scavenger Hunts",
+            "Wine Tours"
+        ],
+        "website": "http://sanantoniodetours.com",
+        "longitude": -98.496631,
+        "latitude": 29.452146,
+        "address": "225 W Craig Pl",
+        "postal_code": "78212",
+        "city": "San Antonio",
+        "state": "TX",
+        "telephone": "(210) 632-7839",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 1:30 PM"
+        },
+        "accommodations": [
+            "Wheelchair Accessible",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "41"
+    },
+    {
+        "name": "Winding Road Wine Tours",
+        "id": 126,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://windingroadwinetours.com",
+        "longitude": -98.4105,
+        "latitude": 29.840551,
+        "address": "",
+        "postal_code": "78130",
+        "city": "New Braunfels",
+        "state": "TX",
+        "telephone": "(830) 355-8466",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "17"
+    },
+    {
+        "name": "Cottonwood Wine Tours",
+        "id": 326,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.cottonwoodwinetours.com",
+        "longitude": -98.488419,
+        "latitude": 29.427447,
+        "address": "",
+        "postal_code": "78205",
+        "city": "San Antonio",
+        "state": "TX",
+        "telephone": "(210) 488-6867",
+        "price": "",
+        "hours": {
+            "Mon": "10:00 AM - 6:30 PM",
+            "Tue": "10:00 AM - 6:30 PM",
+            "Wed": "9:30 AM - 6:30 PM",
+            "Thu": "9:30 AM - 6:30 PM",
+            "Fri": "9:30 AM - 6:30 PM",
+            "Sat": "10:00 AM - 6:30 PM",
+            "Sun": "10:00 AM - 6:30 PM"
+        },
+        "accommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Latinx-owned",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "40"
+    },
+    {
+        "name": "Experience Texas Wine Tours",
+        "id": 431,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Limos",
+            "Party Bus Rentals"
+        ],
+        "website": "http://experiencetexaswine.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78752",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 783-8844",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Free Wi-Fi"
+        ],
+        "unaccommodations": [
+            "Masks required"
+        ],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "A - B Wine Tours and Transportation",
+        "id": 140,
+        "open_for_business": 1,
+        "tags": [
+            "Taxis",
+            "Wine Tours"
+        ],
+        "website": "https://abwinetours.square.site",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 431-6333",
+        "price": "",
+        "hours": {},
+        "accommodations": [],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks"
+        ],
+        "rating_value": "5",
+        "review_count": "1"
+    },
+    {
+        "name": "Discover Texas Wine Tours",
+        "id": 242,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://discovertexaswine.com",
+        "longitude": -97.743205,
+        "latitude": 30.266919,
+        "address": "",
+        "postal_code": "78737",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 656-8299",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 9:00 PM",
+            "Tue": "9:00 AM - 9:00 PM",
+            "Wed": "9:00 AM - 9:00 PM",
+            "Thu": "9:00 AM - 9:00 PM",
+            "Fri": "9:00 AM - 9:00 PM",
+            "Sat": "9:00 AM - 9:00 PM",
+            "Sun": "9:00 AM - 9:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "38"
+    },
+    {
+        "name": "Valet For a Day",
+        "id": 626,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Transportation",
+            "Party Bus Rentals"
+        ],
+        "website": "http://valetforaday.com",
+        "longitude": -98.72848,
+        "latitude": 30.339276,
+        "address": "330 Ottmers Rd",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 433-7875",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 10:00 PM",
+            "Tue": "9:00 AM - 10:00 PM",
+            "Wed": "9:00 AM - 10:00 PM",
+            "Thu": "9:00 AM - 10:00 PM",
+            "Fri": "9:00 AM - 12:00 AM ()",
+            "Sat": "9:00 AM - 12:00 AM ()",
+            "Sun": "10:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Open to All"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "3"
+    },
+    {
+        "name": "Lost Draw Cellars",
+        "id": 93,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.lostdrawcellars.com",
+        "longitude": -98.876552,
+        "latitude": 30.269706,
+        "address": "113 E Park St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 992-3251",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "10:30 AM - 5:00 PM",
+            "Tue": "10:30 AM - 5:00 PM",
+            "Wed": "10:30 AM - 5:00 PM",
+            "Thu": "10:30 AM - 5:00 PM",
+            "Fri": "10:30 AM - 6:00 PM",
+            "Sat": "10:30 AM - 6:00 PM",
+            "Sun": "10:30 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4.5",
+        "review_count": "137"
+    },
+    {
+        "name": "Augusta Vin Winery",
+        "id": 111,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room",
+            "Wine Tours",
+            "Wine Bars"
+        ],
+        "website": "http://www.augustavin.com",
+        "longitude": -98.942998,
+        "latitude": 30.212275,
+        "address": "140 Augusta Vin Ln",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 307-1007",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 6:00 PM",
+            "Tue": "12:00 PM - 6:00 PM",
+            "Wed": "12:00 PM - 6:00 PM",
+            "Thu": "12:00 PM - 6:00 PM",
+            "Fri": "12:00 PM - 7:00 PM",
+            "Sat": "11:00 AM - 7:00 PM",
+            "Sun": "12:00 PM - 7:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Live Music",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Offers Military Discount",
+            "Open to All",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "No Happy Hour",
+            "No Drive-Thru",
+            "No TV",
+            "Heated outdoor seating"
+        ],
+        "rating_value": "4.5",
+        "review_count": "205"
+    },
+    {
+        "name": "Das Peach Haus",
+        "id": 438,
+        "open_for_business": 1,
+        "tags": [
+            "Specialty Food",
+            "Cooking Schools",
+            "Wine Tasting Room"
+        ],
+        "website": "https://jelly.com/culinary-adventure/das-peach-haus/",
+        "longitude": -98.87199,
+        "latitude": 30.252455,
+        "address": "1406 S US Hwy 87",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-8969",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "10:00 AM - 5:30 PM",
+            "Tue": "10:00 AM - 5:30 PM",
+            "Wed": "10:00 AM - 5:30 PM",
+            "Thu": "10:00 AM - 5:30 PM",
+            "Fri": "10:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "10:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Casual Dress",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "No Happy Hour"
+        ],
+        "rating_value": "4.5",
+        "review_count": "274"
+    },
+    {
+        "name": "Slate Mill Wine Collective",
+        "id": 304,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "https://www.slatemillwinecollective.com",
+        "longitude": -98.913766,
+        "latitude": 30.226976,
+        "address": "4222 South State Highway 16",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 998-8930",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 5:00 PM",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Offers Military Discount",
+            "Open to All",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Wi-Fi",
+            "No Happy Hour",
+            "No Drive-Thru"
+        ],
+        "rating_value": "4.5",
+        "review_count": "82"
+    },
+    {
+        "name": "Barons Creek Vineyards",
+        "id": 245,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.baronscreekvineyards.com",
+        "longitude": -98.800433,
+        "latitude": 30.225114,
+        "address": "5865 Hwy 290 E",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 304-3000",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 5:00 PM",
+            "Tue": "12:00 PM - 5:00 PM",
+            "Wed": "12:00 PM - 5:00 PM",
+            "Thu": "12:00 PM - 5:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4",
+        "review_count": "300"
+    },
+    {
+        "name": "Kalasi Cellars",
+        "id": 525,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "https://www.kalasicellars.com",
+        "longitude": -98.847741,
+        "latitude": 30.262005,
+        "address": "414 Goehmann Ln",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 992-3037",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 5:00 PM",
+            "Tue": "11:00 AM - 5:00 PM",
+            "Wed": "11:00 AM - 5:00 PM",
+            "Thu": "11:00 AM - 5:00 PM",
+            "Fri": "11:00 AM - 5:00 PM",
+            "Sat": "11:00 AM - 5:00 PM",
+            "Sun": "11:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "All staff fully vaccinated",
+            "Pescatarian Options",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Asian-owned",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Happy Hour",
+            "No Drive-Thru"
+        ],
+        "rating_value": "5",
+        "review_count": "27"
+    },
+    {
+        "name": "Barons CreekSide",
+        "id": 165,
+        "open_for_business": 1,
+        "tags": [
+            "Guest Houses",
+            "Venues & Event Spaces",
+            "Vacation Rentals"
+        ],
+        "website": "http://www.baronscreekside.com/",
+        "longitude": -98.849986,
+        "latitude": 30.262532,
+        "address": "316 Goehmann Ln",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 990-4048",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Free Wi-Fi",
+            "Dogs Allowed"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "68"
+    },
+    {
+        "name": "Becker Vineyards Main Street Tasting Room",
+        "id": 557,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "https://www.beckervineyards.com/Visit/Main-Street-Tasting-Room",
+        "longitude": -98.868776,
+        "latitude": 30.272168,
+        "address": "307 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 644-2681",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 7:00 PM",
+            "Sat": "11:00 AM - 7:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Accepts Credit Cards",
+            "Quiet",
+            "Street Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Drive-Thru",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering"
+        ],
+        "rating_value": "4",
+        "review_count": "57"
+    },
+    {
+        "name": "Safari Winery",
+        "id": 262,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "http://www.safariwinery.com",
+        "longitude": -98.806833,
+        "latitude": 30.22505,
+        "address": "5479 E US Hwy 290",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 304-9463",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 5:00 PM",
+            "Tue": "11:00 AM - 5:00 PM",
+            "Wed": "11:00 AM - 5:00 PM",
+            "Thu": "11:00 AM - 5:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Wheelchair Accessible",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Wi-Fi"
+        ],
+        "rating_value": "4.5",
+        "review_count": "120"
+    },
+    {
+        "name": "Vaudeville",
+        "id": 585,
+        "open_for_business": 1,
+        "tags": [
+            "American (New)",
+            "Venues & Event Spaces",
+            "Wineries"
+        ],
+        "website": "http://vaudeville-living.com",
+        "longitude": -98.869574,
+        "latitude": 30.27356,
+        "address": "230 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 992-3234",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 3:00 PM",
+            "Tue": "11:00 AM - 3:00 PM",
+            "Wed": "11:00 AM - 3:00 PM",
+            "Thu": "11:00 AM - 3:00 PM",
+            "Fri": "11:00 AM - 8:00 PM",
+            "Sat": "11:00 AM - 8:00 PM",
+            "Sun": "11:00 AM - 4:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Vegan Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy",
+            "Moderate Noise",
+            "Casual Dress",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch",
+            "Street Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Beer & Wine Only",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4.5",
+        "review_count": "691"
+    },
+    {
+        "name": "Alexander Vineyards",
+        "id": 490,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.alexandervineyards.com/",
+        "longitude": -98.785447,
+        "latitude": 30.225259,
+        "address": "6360 Goehmann Ln",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 865-3975",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Accepts Credit Cards",
+            "Quiet",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Cryptocurrency",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4.5",
+        "review_count": "82"
+    },
+    {
+        "name": "Narrow Path Winery",
+        "id": 110,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.narrowpathwinery.com",
+        "longitude": -98.871998,
+        "latitude": 30.274876,
+        "address": "111 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 644-2144",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "12:00 PM - 5:30 PM",
+            "Fri": "12:00 PM - 6:30 PM",
+            "Sat": "12:00 PM - 6:30 PM",
+            "Sun": "12:00 PM - 4:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Bike Parking"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4.5",
+        "review_count": "39"
+    },
+    {
+        "name": "Cross Mountain Vineyards",
+        "id": 627,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Bars",
+            "Wine Tasting Room"
+        ],
+        "website": "http://www.crossmountainvineyards.com",
+        "longitude": -98.868176,
+        "latitude": 30.272962,
+        "address": "308 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 333-9931",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 7:00 PM",
+            "Tue": "12:00 PM - 7:00 PM",
+            "Wed": "12:00 PM - 7:00 PM",
+            "Thu": "12:00 PM - 7:00 PM",
+            "Fri": "11:00 AM - 8:00 PM",
+            "Sat": "11:00 AM - 8:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Street Parking",
+            "Bike Parking",
+            "Beer & Wine Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Gender-neutral restrooms",
+            "Women-owned",
+            "Open to All",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Accepts Android Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Wi-Fi",
+            "No Smoking"
+        ],
+        "rating_value": "4.5",
+        "review_count": "88"
+    },
+    {
+        "name": "Bingham Family Vineyards",
+        "id": 360,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "https://www.bingham.wine",
+        "longitude": -98.830599,
+        "latitude": 30.232891,
+        "address": "3915 US-290",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 304-6616",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Wheelchair Accessible",
+            "Offers Military Discount",
+            "Open to All",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Masks required",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Happy Hour",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4",
+        "review_count": "41"
+    },
+    {
+        "name": "Texas Heritage Vineyard",
+        "id": 350,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.texasheritagevineyard.com",
+        "longitude": -98.840002,
+        "latitude": 30.239221,
+        "address": "3245 US Hwy 290 E",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 992-3323",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 5:00 PM",
+            "Tue": "12:00 PM - 5:00 PM",
+            "Wed": "12:00 PM - 5:00 PM",
+            "Thu": "12:00 PM - 5:00 PM",
+            "Fri": "12:00 PM - 5:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "By Appointment Only",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Offers Military Discount",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering"
+        ],
+        "rating_value": "4.5",
+        "review_count": "17"
+    },
+    {
+        "name": "Perspective Cellars",
+        "id": 44,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Bars",
+            "Wine Tasting Room",
+            "Wine Tasting Classes"
+        ],
+        "website": "http://www.iloveperspectivecellars.com",
+        "longitude": -98.869339,
+        "latitude": 30.27266,
+        "address": "247 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 423-7825",
+        "price": "",
+        "hours": {
+            "Mon": "1:00 PM - 8:00 PM",
+            "Tue": "1:00 PM - 8:00 PM",
+            "Wed": "1:00 PM - 8:00 PM",
+            "Thu": "1:00 PM - 8:00 PM",
+            "Fri": "1:00 PM - 8:00 PM",
+            "Sat": "11:00 AM - 7:00 PM",
+            "Sun": "12:00 PM - 7:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy",
+            "Street Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Dogs Allowed",
+            "Gender-neutral restrooms",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Smoking",
+            "Not Wheelchair Accessible",
+            "No TV",
+            "Heated outdoor seating"
+        ],
+        "rating_value": "4.5",
+        "review_count": "50"
+    },
+    {
+        "name": "About Town Wine Experience",
+        "id": 501,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://Www.abouttownllc.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 307-8896",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Staff wears masks",
+            "Free Wi-Fi"
+        ],
+        "unaccommodations": [
+            "Masks required"
+        ],
+        "rating_value": "5",
+        "review_count": "1"
+    },
+    {
+        "name": "Vintners Hideaway",
+        "id": 275,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "http://vintnershideaway.com",
+        "longitude": -98.871796,
+        "latitude": 30.272383,
+        "address": "207 S Llano St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 992-3370",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "12:00 PM - 6:00 PM",
+            "Fri": "12:00 PM - 6:00 PM",
+            "Sat": "12:00 PM - 6:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "33"
+    },
+    {
+        "name": "Fiesta Winery Fredericksburg",
+        "id": 594,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.fiestawinery.com",
+        "longitude": -98.871368,
+        "latitude": 30.273874,
+        "address": "147A E Main",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 307-3328",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "10:00 AM - 5:30 PM",
+            "Tue": "10:00 AM - 5:30 PM",
+            "Wed": "10:00 AM - 5:30 PM",
+            "Thu": "10:00 AM - 5:30 PM",
+            "Fri": "10:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Street Parking",
+            "Bike Parking",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4",
+        "review_count": "77"
+    },
+    {
+        "name": "The Resort At Fredericksburg",
+        "id": 281,
+        "open_for_business": 1,
+        "tags": [
+            "Venues & Event Spaces",
+            "Wine Tasting Room"
+        ],
+        "website": "https://www.theresortatfredericksburg.com",
+        "longitude": -98.83536,
+        "latitude": 30.233844,
+        "address": "3567 US Hwy 290 E",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 308-7118",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 7:00 PM",
+            "Tue": "11:00 AM - 7:00 PM",
+            "Wed": "11:00 AM - 7:00 PM",
+            "Thu": "11:00 AM - 7:00 PM",
+            "Fri": "11:00 AM - 7:00 PM",
+            "Sat": "10:00 AM - 8:00 PM",
+            "Sun": "11:00 AM - 7:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Private Lot Parking",
+            "Free Wi-Fi",
+            "Wheelchair Accessible",
+            "Offers Military Discount",
+            "Open to All",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Happy Hour",
+            "No Drive-Thru",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "3.5",
+        "review_count": "16"
+    },
+    {
+        "name": "Fiesta Winery 290",
+        "id": 190,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.fiestawinery.com/",
+        "longitude": -98.794201,
+        "latitude": 30.225516,
+        "address": "6260 US Hwy E 290",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-4466",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "10:30 AM - 6:00 PM",
+            "Tue": "10:30 AM - 6:00 PM",
+            "Wed": "10:30 AM - 6:00 PM",
+            "Thu": "10:30 AM - 6:00 PM",
+            "Fri": "10:30 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Offers Catering",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4",
+        "review_count": "65"
+    },
+    {
+        "name": "Six Shooter Cellars",
+        "id": 551,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "http://www.sixshootercellars.com/",
+        "longitude": -98.798231,
+        "latitude": 30.2238,
+        "address": "6264 US Hwy 290 E",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 428-0810",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 5:00 PM",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "12:00 PM - 5:00 PM",
+            "Fri": "12:00 PM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "All staff fully vaccinated",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Happy Hour",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "rating_value": "4",
+        "review_count": "58"
+    },
+    {
+        "name": "The Wine Barn",
+        "id": 208,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "https://www.mccurdycreekranch.com",
+        "longitude": -98.819437,
+        "latitude": 30.312623,
+        "address": "4088 N State Hwy 16",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 998-2920",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "1:00 PM - 7:00 PM",
+            "Sat": "1:00 PM - 7:00 PM",
+            "Sun": "1:00 PM - 7:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Offers Catering",
+            "No Wi-Fi",
+            "No Happy Hour"
+        ],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Hoffman Haus",
+        "id": 241,
+        "open_for_business": 1,
+        "tags": [
+            "Bed & Breakfast",
+            "Venues & Event Spaces"
+        ],
+        "website": "http://www.hoffmanhaus.com/",
+        "longitude": -98.865065,
+        "latitude": 30.267534,
+        "address": "608 E Creek St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-6739",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Free Wi-Fi",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "Accepts Cryptocurrency"
+        ],
+        "rating_value": "4.5",
+        "review_count": "84"
+    },
+    {
+        "name": "Hill Country Express Tours",
+        "id": 605,
+        "open_for_business": 1,
+        "tags": [
+            "Taxis",
+            "Wine Tours",
+            "Airport Shuttles"
+        ],
+        "website": "http://www.hillcountryexpresstours.com",
+        "longitude": -98.903007,
+        "latitude": 30.277183,
+        "address": "112 Howard Ln",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(210) 413-9354",
+        "price": "",
+        "hours": {
+            "Mon": "8:00 AM - 10:00 PM",
+            "Tue": "8:00 AM - 10:00 PM",
+            "Wed": "8:00 AM - 10:00 PM",
+            "Thu": "8:00 AM - 10:00 PM",
+            "Fri": "8:00 AM - 10:00 PM",
+            "Sat": "8:00 AM - 10:00 PM",
+            "Sun": "8:00 AM - 10:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "1"
+    },
+    {
+        "name": "Culinary Adventure Tasting Room",
+        "id": 535,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "https://www.jelly.com/index/tastings",
+        "longitude": -98.87209,
+        "latitude": 30.25247,
+        "address": "1406 US Hwy 87 S",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 990-8311",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 5:00 PM",
+            "Tue": "11:00 AM - 5:00 PM",
+            "Wed": "11:00 AM - 5:00 PM",
+            "Thu": "11:00 AM - 5:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "10:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "By Appointment Only",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Wi-Fi",
+            "No Happy Hour",
+            "No Drive-Thru",
+            "Heated outdoor seating"
+        ],
+        "rating_value": "5",
+        "review_count": "1"
+    },
+    {
+        "name": "Texas Vineyards and Beyond",
+        "id": 58,
+        "open_for_business": 1,
+        "tags": [
+            "Beer, Wine & Spirits"
+        ],
+        "website": "http://www.texasvineyardsbeyond.com",
+        "longitude": -98.868133,
+        "latitude": 30.271582,
+        "address": "329 1/2 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 990-9199",
+        "price": "Moderate",
+        "hours": {},
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Street Parking"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "No Bike Parking"
+        ],
+        "rating_value": "3.5",
+        "review_count": "12"
+    },
+    {
+        "name": "Los Pinos Ranch Vineyards - Fredericksburg",
+        "id": 216,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "https://lospinosranchvineyards.com",
+        "longitude": -98.79786,
+        "latitude": 30.22469,
+        "address": "6009 US Hwy 290 E",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 304-5778",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Wheelchair Accessible",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Offers Catering",
+            "No Drive-Thru"
+        ],
+        "rating_value": "5",
+        "review_count": "12"
+    },
+    {
+        "name": "Andreucci WineRoom",
+        "id": 518,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room",
+            "Wine Bars"
+        ],
+        "website": "https://www.vinoandreucci.com",
+        "longitude": -98.867303,
+        "latitude": 30.271133,
+        "address": "401 E Main St Ste 1C",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(877) 219-9489",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 7:00 PM",
+            "Sat": "11:00 AM - 7:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "TV"
+        ],
+        "unaccommodations": [],
+        "rating_value": "3.5",
+        "review_count": "17"
+    },
+    {
+        "name": "Longhorn Cellars",
+        "id": 658,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "https://longhorncellars.com",
+        "longitude": -98.803387,
+        "latitude": 30.220545,
+        "address": "315 Farm To Market 1376",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 990-2990",
+        "price": "",
+        "hours": {
+            "Mon": "12:00 PM - 4:30 PM",
+            "Tue": "12:00 PM - 4:30 PM",
+            "Wed": "12:00 PM - 4:30 PM",
+            "Thu": "12:00 PM - 4:30 PM",
+            "Fri": "11:00 AM - 5:30 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Dogs Allowed"
+        ],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "4",
+        "review_count": "16"
+    },
+    {
+        "name": "Off the Vine Wine Tours",
+        "id": 538,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.offthevinetxwinetours.com",
+        "longitude": -98.866669,
+        "latitude": 30.283496,
+        "address": "313 W Hackberry St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 307-4014",
+        "price": "",
+        "hours": {
+            "Mon": "8:00 AM - 6:00 PM",
+            "Tue": "8:00 AM - 6:00 PM",
+            "Wed": "8:00 AM - 6:00 PM",
+            "Thu": "8:00 AM - 6:00 PM",
+            "Fri": "8:00 AM - 6:00 PM",
+            "Sat": "8:00 AM - 6:00 PM",
+            "Sun": "8:00 AM - 6:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "21"
+    },
+    {
+        "name": "Hill Country Wine and Music Festival",
+        "id": 31,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries",
+            "Festivals"
+        ],
+        "website": "http://www.hillcountrywineandmusic.com/",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 456-2259",
+        "price": "Pricey",
+        "hours": {},
+        "accommodations": [
+            "Accepts Credit Cards"
+        ],
+        "unaccommodations": [
+            "Not Good For Kids"
+        ],
+        "rating_value": "1",
+        "review_count": "2"
+    },
+    {
+        "name": "Wedding Oak Winery - Fredericksburg",
+        "id": 20,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "https://weddingoakwinery.com/visit-us-in-fredericksburg",
+        "longitude": -98.797803,
+        "latitude": 30.224805,
+        "address": "6009B US Hwy 290 E",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 304-9333",
+        "price": "Ultra High-End",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Takeout"
+        ],
+        "rating_value": "3.5",
+        "review_count": "34"
+    },
+    {
+        "name": "Coordinates Vineyards",
+        "id": 381,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room",
+            "Wine Bars",
+            "Wine Tasting Classes"
+        ],
+        "website": "http://www.coordinatesvineyards.com",
+        "longitude": -98.866226,
+        "latitude": 30.270469,
+        "address": "417 E Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 307-7400",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "All staff fully vaccinated",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Open to All",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Offers Catering",
+            "No Happy Hour",
+            "No TV"
+        ],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Andreucci WineRoom",
+        "id": 518,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room",
+            "Wine Bars"
+        ],
+        "website": "",
+        "longitude": -98.867303,
+        "latitude": 30.271133,
+        "address": "401 E Main StSte 1C",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 307-9529",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 7:00 PM",
+            "Sat": "11:00 AM - 7:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Mike's Luxury Transports",
+        "id": 129,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://mlt-hillcountrytours.com/",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 847-6232",
+        "price": "Moderate",
+        "hours": {},
+        "accommodations": [
+            "By Appointment Only",
+            "Accepts Credit Cards",
+            "Good For Kids"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "4"
+    },
+    {
+        "name": "Texas Grapes Wine Tours",
+        "id": 334,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.texasgrapeswinetours.com/",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 983-7272",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 4:00 PM",
+            "Tue": "11:00 AM - 4:00 PM",
+            "Wed": "11:00 AM - 4:00 PM",
+            "Thu": "11:00 AM - 4:00 PM",
+            "Fri": "11:00 AM - 4:00 PM",
+            "Sat": "11:00 AM - 4:00 PM",
+            "Sun": "11:00 AM - 4:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "15"
+    },
+    {
+        "name": "The Resort At Fredericksburg",
+        "id": 281,
+        "open_for_business": 1,
+        "tags": [
+            "Venues & Event Spaces",
+            "Wine Tasting Room"
+        ],
+        "website": "https://www.theresortatfredericksburg.com",
+        "longitude": -98.83536,
+        "latitude": 30.233844,
+        "address": "3567 US Hwy 290 E",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 308-7118",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 7:00 PM",
+            "Tue": "11:00 AM - 7:00 PM",
+            "Wed": "11:00 AM - 7:00 PM",
+            "Thu": "11:00 AM - 7:00 PM",
+            "Fri": "11:00 AM - 7:00 PM",
+            "Sat": "10:00 AM - 8:00 PM",
+            "Sun": "11:00 AM - 7:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Private Lot Parking",
+            "Free Wi-Fi",
+            "Wheelchair Accessible",
+            "Offers Military Discount",
+            "Open to All",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Happy Hour",
+            "No Drive-Thru",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "3.5",
+        "review_count": "16"
+    },
+    {
+        "name": "Texas Tours",
+        "id": 159,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Historical Tours"
+        ],
+        "website": "http://texastourco.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 733-8169",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 7:00 PM",
+            "Tue": "9:00 AM - 7:00 PM",
+            "Wed": "9:00 AM - 7:00 PM",
+            "Thu": "9:00 AM - 7:00 PM",
+            "Fri": "9:00 AM - 7:00 PM",
+            "Sat": "9:00 AM - 7:00 PM",
+            "Sun": "9:00 AM - 7:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Absolute Charm Wine Tours",
+        "id": 531,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.absolutecharmwinetours.com",
+        "longitude": -98.883862,
+        "latitude": 30.283025,
+        "address": "711 W Main St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 992-0101",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Women-owned"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "15"
+    },
+    {
+        "name": "George's 290 Wine Tours, LLC",
+        "id": 561,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://290winetours.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 456-5197",
+        "price": "",
+        "hours": {
+            "Mon": "10:00 AM - 6:00 PM",
+            "Tue": "Closed",
+            "Wed": "10:00 AM - 6:00 PM",
+            "Thu": "10:00 AM - 6:00 PM",
+            "Fri": "10:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "17"
+    },
+    {
+        "name": "Creekstreet Wine Tours",
+        "id": 646,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "https://www.creekstreetwinetours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(832) 247-0914",
+        "price": "",
+        "hours": {
+            "Mon": "8:00 AM - 8:00 PM",
+            "Tue": "8:00 AM - 8:00 PM",
+            "Wed": "8:00 AM - 8:00 PM",
+            "Thu": "8:00 AM - 8:00 PM",
+            "Fri": "8:00 AM - 8:00 PM",
+            "Sat": "8:00 AM - 8:00 PM",
+            "Sun": "8:00 AM - 8:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "10"
+    },
+    {
+        "name": "Fredericksburg Limo and Wine Tours",
+        "id": 316,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.fredericksburgtexaslimos.com",
+        "longitude": -98.868779,
+        "latitude": 30.282039,
+        "address": "210 W Centre St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 992-0696",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:30 PM",
+            "Tue": "9:00 AM - 5:30 PM",
+            "Wed": "9:00 AM - 5:30 PM",
+            "Thu": "9:00 AM - 5:30 PM",
+            "Fri": "9:00 AM - 5:30 PM",
+            "Sat": "9:00 AM - 12:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "8"
+    },
+    {
+        "name": "Fredericksburg Tours",
+        "id": 416,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Bus Tours",
+            "Historical Tours"
+        ],
+        "website": "http://www.fbgtours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 998-8986",
+        "price": "",
+        "hours": {
+            "Mon": "9:30 AM - 4:30 PM",
+            "Tue": "9:30 AM - 4:30 PM",
+            "Wed": "9:30 AM - 4:30 PM",
+            "Thu": "9:30 AM - 4:30 PM",
+            "Fri": "9:30 AM - 4:30 PM",
+            "Sat": "Closed",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "1"
+    },
+    {
+        "name": "Stagecoach Shuttle Service",
+        "id": 219,
+        "open_for_business": 1,
+        "tags": [
+            "Airport Shuttles",
+            "Wine Tours",
+            "Limos"
+        ],
+        "website": "http://www.stagecoachtaxiandshuttle.com",
+        "longitude": -98.850469,
+        "latitude": 30.293785,
+        "address": "210 Frederick Rd",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 385-7722",
+        "price": "",
+        "hours": {},
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "3",
+        "review_count": "11"
+    },
+    {
+        "name": "Holiday Inn Express and Suites Fredericksburg",
+        "id": 522,
+        "open_for_business": 1,
+        "tags": [
+            "Claimed",
+            "Hotels",
+            "Venues & Event Spaces"
+        ],
+        "website": "http://www.ihg.com/holidayinnexpress/hotels/us/en/fredericksburg/fdbls/hoteldetail",
+        "longitude": -98.872429,
+        "latitude": 30.265916,
+        "address": "500 S Washington St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 997-3377",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Free Wi-Fi"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "52"
+    },
+    {
+        "name": "19th Hole Wine Tours",
+        "id": 628,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.19thholewinetours.com",
+        "longitude": -98.843447,
+        "latitude": 30.291088,
+        "address": "2201 Hedgestone",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 733-7007",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 9:00 PM",
+            "Tue": "9:00 AM - 9:00 PM",
+            "Wed": "9:00 AM - 9:00 PM",
+            "Thu": "9:00 AM - 9:00 PM",
+            "Fri": "9:00 AM - 9:00 PM",
+            "Sat": "9:00 AM - 9:00 PM",
+            "Sun": "9:00 AM - 9:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "12"
+    },
+    {
+        "name": "Reserve Tours",
+        "id": 442,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.reservefbg.com",
+        "longitude": -98.86279,
+        "latitude": 30.287227,
+        "address": "1302 N Crockett St",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 998-7990",
+        "price": "",
+        "hours": {},
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "12"
+    }
+]

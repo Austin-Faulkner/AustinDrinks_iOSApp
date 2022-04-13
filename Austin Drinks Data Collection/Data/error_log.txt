@@ -1,0 +1,6 @@
+2022-01-18 15:10:58.432059		https://www.yelp.com/biz/eyster-kevin-treana-winery-austin		JSON data has no 'name' key
+	2022-01-18 15:14:03.010317		https://www.yelp.com/biz/grandeur-cellars-austin		JSON data has no 'name' key
+	2022-02-03 19:34:10.186357		https://www.yelp.com/biz/zilker-brewing-company-and-taproom-austin
+	Too many attempts
+MaxRetryError("HTTPConnectionPool(host='localhost', port=39233): Max retries exceeded with url: /session/70a90e603c7c9d76f1fd433d4b71c31c/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4c9346bdd0>: Failed to establish a new connection: [Errno 111] Connection refused'))")
+

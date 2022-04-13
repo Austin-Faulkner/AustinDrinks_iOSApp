@@ -42,27 +42,27 @@
 		AC500803278F6EB500381821 /* ExploreCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC500802278F6EB500381821 /* ExploreCell.swift */; };
 		AC51155D27A4816B00E62060 /* NoDataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC51155C27A4816B00E62060 /* NoDataView.swift */; };
 		AC51155F27A481D100E62060 /* NoDataView.xib in Resources */ = {isa = PBXBuildFile; fileRef = AC51155E27A481D100E62060 /* NoDataView.xib */; };
-		AC809C0827A897FA00186426 /* San Antonio.json in Resources */ = {isa = PBXBuildFile; fileRef = AC809C0727A897FA00186426 /* San Antonio.json */; };
-		AC809C0A27A8981200186426 /* New Braunfels.json in Resources */ = {isa = PBXBuildFile; fileRef = AC809C0927A8981200186426 /* New Braunfels.json */; };
-		AC809C0C27A8981D00186426 /* Marble Falls.json in Resources */ = {isa = PBXBuildFile; fileRef = AC809C0B27A8981D00186426 /* Marble Falls.json */; };
 		AC9C3D19279902D500DB1FAB /* EstablishmentDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9C3D18279902D500DB1FAB /* EstablishmentDataManager.swift */; };
 		ACA755E62799CE5B008BF13F /* LocationItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA755E52799CE5B008BF13F /* LocationItem.swift */; };
 		ACA755E82799D42D008BF13F /* ExploreHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA755E72799D42D008BF13F /* ExploreHeaderView.swift */; };
 		ACA755ED2799E6BF008BF13F /* DrinkingEstablishmentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA755EC2799E6BF008BF13F /* DrinkingEstablishmentCell.swift */; };
 		ACA87F4327D30E92005B0C66 /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA87F4227D30E92005B0C66 /* Device.swift */; };
 		ACCEE8D7278BA40700FF2C65 /* DrinkingEstablishmentsListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACCEE8D6278BA40700FF2C65 /* DrinkingEstablishmentsListViewController.swift */; };
-		ACE1062827A86E05001BCD1B /* Dripping Springs.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1061D27A86E03001BCD1B /* Dripping Springs.json */; };
-		ACE1062927A86E05001BCD1B /* Fredericksburg.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1061E27A86E03001BCD1B /* Fredericksburg.json */; };
-		ACE1062A27A86E05001BCD1B /* Austin.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1061F27A86E03001BCD1B /* Austin.json */; };
-		ACE1062B27A86E05001BCD1B /* Georgetown.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1062027A86E04001BCD1B /* Georgetown.json */; };
-		ACE1062C27A86E05001BCD1B /* Round Rock.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1062127A86E04001BCD1B /* Round Rock.json */; };
-		ACE1062E27A86E05001BCD1B /* San Marcos.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1062327A86E04001BCD1B /* San Marcos.json */; };
-		ACE1062F27A86E05001BCD1B /* Wimberley.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1062427A86E05001BCD1B /* Wimberley.json */; };
-		ACE1063127A86E05001BCD1B /* Cedar Park.json in Resources */ = {isa = PBXBuildFile; fileRef = ACE1062627A86E05001BCD1B /* Cedar Park.json */; };
 		ACED381427D55EB100E3529B /* ExploreDataManagerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACED381327D55EB100E3529B /* ExploreDataManagerTest.swift */; };
 		ACED381627D5601300E3529B /* LocationDataManagerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACED381527D5601300E3529B /* LocationDataManagerTest.swift */; };
 		ACED381827D562B300E3529B /* EstablishmentDataManagerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACED381727D562B300E3529B /* EstablishmentDataManagerTest.swift */; };
 		ACED381A27D5632400E3529B /* MapDataManagerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACED381927D5632400E3529B /* MapDataManagerTest.swift */; };
+		ACF4F5532807143A003358DE /* Fredericksburg.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F5482807143A003358DE /* Fredericksburg.json */; };
+		ACF4F5542807143A003358DE /* New Braunfels.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F5492807143A003358DE /* New Braunfels.json */; };
+		ACF4F5552807143A003358DE /* San Antonio.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F54A2807143A003358DE /* San Antonio.json */; };
+		ACF4F5562807143A003358DE /* San Marcos.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F54B2807143A003358DE /* San Marcos.json */; };
+		ACF4F5572807143A003358DE /* Austin.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F54C2807143A003358DE /* Austin.json */; };
+		ACF4F5582807143A003358DE /* Georgetown.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F54D2807143A003358DE /* Georgetown.json */; };
+		ACF4F5592807143A003358DE /* Round Rock.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F54E2807143A003358DE /* Round Rock.json */; };
+		ACF4F55A2807143A003358DE /* Wimberley.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F54F2807143A003358DE /* Wimberley.json */; };
+		ACF4F55B2807143A003358DE /* Cedar Park.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F5502807143A003358DE /* Cedar Park.json */; };
+		ACF4F55C2807143A003358DE /* Marble Falls.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F5512807143A003358DE /* Marble Falls.json */; };
+		ACF4F55D2807143A003358DE /* Dripping Springs.json in Resources */ = {isa = PBXBuildFile; fileRef = ACF4F5522807143A003358DE /* Dripping Springs.json */; };
 		C9C93C852697B44D0034E1CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C93C842697B44D0034E1CD /* AppDelegate.swift */; };
 		C9C93C872697B44D0034E1CD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C93C862697B44D0034E1CD /* SceneDelegate.swift */; };
 		C9C93C8C2697B44D0034E1CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9C93C8A2697B44D0034E1CD /* Main.storyboard */; };
@@ -116,28 +116,28 @@
 		AC500802278F6EB500381821 /* ExploreCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreCell.swift; sourceTree = "<group>"; };
 		AC51155C27A4816B00E62060 /* NoDataView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoDataView.swift; sourceTree = "<group>"; };
 		AC51155E27A481D100E62060 /* NoDataView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NoDataView.xib; sourceTree = "<group>"; };
-		AC809C0727A897FA00186426 /* San Antonio.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "San Antonio.json"; sourceTree = "<group>"; };
-		AC809C0927A8981200186426 /* New Braunfels.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "New Braunfels.json"; sourceTree = "<group>"; };
-		AC809C0B27A8981D00186426 /* Marble Falls.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Marble Falls.json"; sourceTree = "<group>"; };
 		AC9C3D18279902D500DB1FAB /* EstablishmentDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EstablishmentDataManager.swift; sourceTree = "<group>"; };
 		ACA755E52799CE5B008BF13F /* LocationItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationItem.swift; sourceTree = "<group>"; };
 		ACA755E72799D42D008BF13F /* ExploreHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreHeaderView.swift; sourceTree = "<group>"; };
 		ACA755EC2799E6BF008BF13F /* DrinkingEstablishmentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinkingEstablishmentCell.swift; sourceTree = "<group>"; };
 		ACA87F4227D30E92005B0C66 /* Device.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
 		ACCEE8D6278BA40700FF2C65 /* DrinkingEstablishmentsListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrinkingEstablishmentsListViewController.swift; sourceTree = "<group>"; };
-		ACE1061D27A86E03001BCD1B /* Dripping Springs.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Dripping Springs.json"; sourceTree = "<group>"; };
-		ACE1061E27A86E03001BCD1B /* Fredericksburg.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Fredericksburg.json; sourceTree = "<group>"; };
-		ACE1061F27A86E03001BCD1B /* Austin.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Austin.json; sourceTree = "<group>"; };
-		ACE1062027A86E04001BCD1B /* Georgetown.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Georgetown.json; sourceTree = "<group>"; };
-		ACE1062127A86E04001BCD1B /* Round Rock.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Round Rock.json"; sourceTree = "<group>"; };
-		ACE1062327A86E04001BCD1B /* San Marcos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "San Marcos.json"; sourceTree = "<group>"; };
-		ACE1062427A86E05001BCD1B /* Wimberley.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Wimberley.json; sourceTree = "<group>"; };
-		ACE1062627A86E05001BCD1B /* Cedar Park.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Cedar Park.json"; sourceTree = "<group>"; };
 		ACED380A27D55DA000E3529B /* AustinDrinksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AustinDrinksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACED381327D55EB100E3529B /* ExploreDataManagerTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExploreDataManagerTest.swift; sourceTree = "<group>"; };
 		ACED381527D5601300E3529B /* LocationDataManagerTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDataManagerTest.swift; sourceTree = "<group>"; };
 		ACED381727D562B300E3529B /* EstablishmentDataManagerTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EstablishmentDataManagerTest.swift; sourceTree = "<group>"; };
 		ACED381927D5632400E3529B /* MapDataManagerTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapDataManagerTest.swift; sourceTree = "<group>"; };
+		ACF4F5482807143A003358DE /* Fredericksburg.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Fredericksburg.json; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/Fredericksburg.json"; sourceTree = "<group>"; };
+		ACF4F5492807143A003358DE /* New Braunfels.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "New Braunfels.json"; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/New Braunfels.json"; sourceTree = "<group>"; };
+		ACF4F54A2807143A003358DE /* San Antonio.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "San Antonio.json"; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/San Antonio.json"; sourceTree = "<group>"; };
+		ACF4F54B2807143A003358DE /* San Marcos.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "San Marcos.json"; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/San Marcos.json"; sourceTree = "<group>"; };
+		ACF4F54C2807143A003358DE /* Austin.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Austin.json; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/Austin.json"; sourceTree = "<group>"; };
+		ACF4F54D2807143A003358DE /* Georgetown.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Georgetown.json; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/Georgetown.json"; sourceTree = "<group>"; };
+		ACF4F54E2807143A003358DE /* Round Rock.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Round Rock.json"; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/Round Rock.json"; sourceTree = "<group>"; };
+		ACF4F54F2807143A003358DE /* Wimberley.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = Wimberley.json; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/Wimberley.json"; sourceTree = "<group>"; };
+		ACF4F5502807143A003358DE /* Cedar Park.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Cedar Park.json"; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/Cedar Park.json"; sourceTree = "<group>"; };
+		ACF4F5512807143A003358DE /* Marble Falls.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Marble Falls.json"; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/Marble Falls.json"; sourceTree = "<group>"; };
+		ACF4F5522807143A003358DE /* Dripping Springs.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Dripping Springs.json"; path = "../../../../Austin Drinks Data Collection/Data/json_by_city_no_reviews_images/Dripping Springs.json"; sourceTree = "<group>"; };
 		C9C93C812697B44D0034E1CD /* AustinDrinks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AustinDrinks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9C93C842697B44D0034E1CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C9C93C862697B44D0034E1CD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -342,17 +342,17 @@
 		AC59B6D127920EE7005A8D7C /* JSON */ = {
 			isa = PBXGroup;
 			children = (
-				ACE1061F27A86E03001BCD1B /* Austin.json */,
-				ACE1062627A86E05001BCD1B /* Cedar Park.json */,
-				ACE1061D27A86E03001BCD1B /* Dripping Springs.json */,
-				ACE1061E27A86E03001BCD1B /* Fredericksburg.json */,
-				ACE1062027A86E04001BCD1B /* Georgetown.json */,
-				AC809C0B27A8981D00186426 /* Marble Falls.json */,
-				AC809C0927A8981200186426 /* New Braunfels.json */,
-				ACE1062127A86E04001BCD1B /* Round Rock.json */,
-				AC809C0727A897FA00186426 /* San Antonio.json */,
-				ACE1062327A86E04001BCD1B /* San Marcos.json */,
-				ACE1062427A86E05001BCD1B /* Wimberley.json */,
+				ACF4F54C2807143A003358DE /* Austin.json */,
+				ACF4F5502807143A003358DE /* Cedar Park.json */,
+				ACF4F5522807143A003358DE /* Dripping Springs.json */,
+				ACF4F5482807143A003358DE /* Fredericksburg.json */,
+				ACF4F54D2807143A003358DE /* Georgetown.json */,
+				ACF4F5512807143A003358DE /* Marble Falls.json */,
+				ACF4F5492807143A003358DE /* New Braunfels.json */,
+				ACF4F54E2807143A003358DE /* Round Rock.json */,
+				ACF4F54A2807143A003358DE /* San Antonio.json */,
+				ACF4F54B2807143A003358DE /* San Marcos.json */,
+				ACF4F54F2807143A003358DE /* Wimberley.json */,
 			);
 			path = JSON;
 			sourceTree = "<group>";
@@ -524,24 +524,24 @@
 			files = (
 				AC5007FC278F5C6500381821 /* ExploreData.plist in Resources */,
 				C9C93C912697B4540034E1CD /* LaunchScreen.storyboard in Resources */,
-				ACE1062C27A86E05001BCD1B /* Round Rock.json in Resources */,
-				AC809C0C27A8981D00186426 /* Marble Falls.json in Resources */,
+				ACF4F55B2807143A003358DE /* Cedar Park.json in Resources */,
 				AC13D68127AAF19E0057F413 /* FilterData.plist in Resources */,
-				ACE1062827A86E05001BCD1B /* Dripping Springs.json in Resources */,
-				ACE1062A27A86E05001BCD1B /* Austin.json in Resources */,
-				ACE1062927A86E05001BCD1B /* Fredericksburg.json in Resources */,
 				AC4738D32790E1A500B9D57B /* PhotoFilter.storyboard in Resources */,
-				ACE1062B27A86E05001BCD1B /* Georgetown.json in Resources */,
-				AC809C0827A897FA00186426 /* San Antonio.json in Resources */,
+				ACF4F5562807143A003358DE /* San Marcos.json in Resources */,
 				AC4738D02790E16F00B9D57B /* ReviewForm.storyboard in Resources */,
-				ACE1062F27A86E05001BCD1B /* Wimberley.json in Resources */,
-				ACE1062E27A86E05001BCD1B /* San Marcos.json in Resources */,
-				ACE1063127A86E05001BCD1B /* Cedar Park.json in Resources */,
+				ACF4F55D2807143A003358DE /* Dripping Springs.json in Resources */,
+				ACF4F5592807143A003358DE /* Round Rock.json in Resources */,
+				ACF4F5532807143A003358DE /* Fredericksburg.json in Resources */,
 				C9C93C8E2697B4540034E1CD /* Assets.xcassets in Resources */,
-				AC809C0A27A8981200186426 /* New Braunfels.json in Resources */,
+				ACF4F5582807143A003358DE /* Georgetown.json in Resources */,
+				ACF4F55A2807143A003358DE /* Wimberley.json in Resources */,
+				ACF4F5552807143A003358DE /* San Antonio.json in Resources */,
 				AC51155F27A481D100E62060 /* NoDataView.xib in Resources */,
+				ACF4F55C2807143A003358DE /* Marble Falls.json in Resources */,
+				ACF4F5572807143A003358DE /* Austin.json in Resources */,
 				AC4738BB2790C09C00B9D57B /* Locations.plist in Resources */,
 				AC4738CD2790E0F300B9D57B /* EstablishmentDetail.storyboard in Resources */,
+				ACF4F5542807143A003358DE /* New Braunfels.json in Resources */,
 				C9C93C8C2697B44D0034E1CD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

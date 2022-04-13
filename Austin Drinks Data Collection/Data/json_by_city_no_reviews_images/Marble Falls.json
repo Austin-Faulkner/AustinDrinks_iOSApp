@@ -1,0 +1,892 @@
+[
+    {
+        "name": "Fiesta Winery",
+        "id": 252,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Bars",
+            "Wine Tasting Room"
+        ],
+        "website": "https://www.fiestawinery.com/marble-falls",
+        "longitude": -98.276736,
+        "latitude": 30.572343,
+        "address": "309 Main StSte 9",
+        "postal_code": "78654",
+        "city": "Marble Falls",
+        "state": "TX",
+        "telephone": "(830) 637-7702",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Street Parking"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "16"
+    },
+    {
+        "name": "Perissos Vineyard and Winery",
+        "id": 527,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://perissosvineyards.com/",
+        "longitude": -98.381065,
+        "latitude": 30.711163,
+        "address": "7214 Park Road 4 W",
+        "postal_code": "78611",
+        "city": "Burnet",
+        "state": "TX",
+        "telephone": "(512) 820-2950",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 5:00 PM",
+            "Tue": "12:00 PM - 5:00 PM",
+            "Wed": "12:00 PM - 5:00 PM",
+            "Thu": "12:00 PM - 5:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Wi-Fi"
+        ],
+        "rating_value": "4.5",
+        "review_count": "117"
+    },
+    {
+        "name": "Spicewood Vineyards",
+        "id": 598,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.spicewoodvineyards.com",
+        "longitude": -98.19016,
+        "latitude": 30.458613,
+        "address": "1419 County Rd 409",
+        "postal_code": "78669",
+        "city": "Spicewood",
+        "state": "TX",
+        "telephone": "(830) 693-5328",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Happy Hour"
+        ],
+        "rating_value": "4.5",
+        "review_count": "112"
+    },
+    {
+        "name": "Flat Creek Enoteca",
+        "id": 9,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries",
+            "Italian"
+        ],
+        "website": "http://www.flatcreekenoteca.com",
+        "longitude": -98.276502,
+        "latitude": 30.569471,
+        "address": "112 US Hwy 281",
+        "postal_code": "78654",
+        "city": "Marble Falls",
+        "state": "TX",
+        "telephone": "(830) 637-7123",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "2:00 PM - 9:00 PM",
+            "Wed": "2:00 PM - 9:00 PM",
+            "Thu": "2:00 PM - 9:00 PM",
+            "Fri": "2:00 PM - 9:00 PM",
+            "Sat": "2:00 PM - 9:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual, Classy",
+            "Moderate Noise",
+            "Casual Dress",
+            "Good for Groups",
+            "Good for Dinner",
+            "Private Lot Parking",
+            "Waiter Service",
+            "Beer & Wine Only",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4",
+        "review_count": "161"
+    },
+    {
+        "name": "Iron Wolf Ranch and Distillery",
+        "id": 73,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries"
+        ],
+        "website": "http://ironwolfranch.com",
+        "longitude": -98.169038,
+        "latitude": 30.453874,
+        "address": "101 County Rd 409",
+        "postal_code": "78669",
+        "city": "Spicewood",
+        "state": "TX",
+        "telephone": "(512) 970-3203",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "4:00 PM - 7:00 PM",
+            "Sat": "12:00 PM - 8:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Offers Catering",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Accepts Apple Pay"
+        ],
+        "rating_value": "4.5",
+        "review_count": "58"
+    },
+    {
+        "name": "Heart of Texas Wine Tours",
+        "id": 154,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "https://heartoftexaswinetours.com",
+        "longitude": -98.104477,
+        "latitude": 30.546296,
+        "address": "",
+        "postal_code": "78654",
+        "city": "Marble Falls",
+        "state": "TX",
+        "telephone": "(512) 755-0937",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "32"
+    },
+    {
+        "name": "Horseshoe Bay Resort",
+        "id": 362,
+        "open_for_business": 1,
+        "tags": [
+            "Venues & Event Spaces"
+        ],
+        "website": "https://www.hsbresort.com/meetings",
+        "longitude": -98.360018,
+        "latitude": 30.547014,
+        "address": "200 Hi Cir N",
+        "postal_code": "78657",
+        "city": "Horseshoe Bay",
+        "state": "TX",
+        "telephone": "(877) 611-0112",
+        "price": "",
+        "hours": {
+            "Mon": "12:00 AM - 11:59 PM",
+            "Tue": "12:00 AM - 11:59 PM",
+            "Wed": "12:00 AM - 11:59 PM",
+            "Thu": "12:00 AM - 11:59 PM",
+            "Fri": "12:00 AM - 11:59 PM",
+            "Sat": "12:00 AM - 11:59 PM",
+            "Sun": "12:00 AM - 11:59 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Free Wi-Fi"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay"
+        ],
+        "rating_value": "3",
+        "review_count": "277"
+    },
+    {
+        "name": "AJE Transportation",
+        "id": 411,
+        "open_for_business": 1,
+        "tags": [
+            "Tours"
+        ],
+        "website": "http://ajetransportationcharters.com",
+        "longitude": -98.156574,
+        "latitude": 30.47605,
+        "address": "",
+        "postal_code": "78669",
+        "city": "Spicewood",
+        "state": "TX",
+        "telephone": "(512) 296-7871",
+        "price": "",
+        "hours": {
+            "Mon": "6:00 AM - 10:00 PM",
+            "Tue": "6:00 AM - 10:00 PM",
+            "Wed": "6:00 AM - 10:00 PM",
+            "Thu": "6:00 AM - 10:00 PM",
+            "Fri": "6:00 AM - 10:00 PM",
+            "Sat": "6:00 AM - 10:00 PM",
+            "Sun": "6:00 AM - 10:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "21"
+    },
+    {
+        "name": "Round Mountain Distilling",
+        "id": 164,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries"
+        ],
+        "website": "",
+        "longitude": -98.326728,
+        "latitude": 30.425728,
+        "address": "1313 Ranch Rd 962 E",
+        "postal_code": "78663",
+        "city": "Round Mountain",
+        "state": "TX",
+        "telephone": "",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "12:00 PM - 5:00 PM",
+            "Wed": "12:00 PM - 5:00 PM",
+            "Thu": "12:00 PM - 5:00 PM",
+            "Fri": "12:00 PM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "4"
+    },
+    {
+        "name": "Texas Tipsy Tours",
+        "id": 102,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Beer Tours",
+            "Party Bus Rentals"
+        ],
+        "website": "https://www.texastipsytours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 593-1858",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Cryptocurrency",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "17"
+    },
+    {
+        "name": "Taste of the Hills",
+        "id": 64,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.tasteofthehillstours.com",
+        "longitude": -98.2174,
+        "latitude": 30.042592,
+        "address": "251 Circle Dr",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(512) 667-0518",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "21"
+    },
+    {
+        "name": "Texan Wine and Spirit Tours",
+        "id": 648,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Art Tours"
+        ],
+        "website": "",
+        "longitude": -98.547133,
+        "latitude": 30.249339,
+        "address": "201 Ranch Rd 1320",
+        "postal_code": "78636",
+        "city": "Johnson City",
+        "state": "TX",
+        "telephone": "(830) 456-7682",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 10:00 PM",
+            "Tue": "9:00 AM - 10:00 PM",
+            "Wed": "9:00 AM - 10:00 PM",
+            "Thu": "9:00 AM - 10:00 PM",
+            "Fri": "9:00 AM - 10:00 PM",
+            "Sat": "9:00 AM - 10:00 PM",
+            "Sun": "9:00 AM - 10:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "4.5",
+        "review_count": "7"
+    },
+    {
+        "name": "ThunderDome Party Bus",
+        "id": 466,
+        "open_for_business": 1,
+        "tags": [
+            "Party Bus Rentals",
+            "Tubing",
+            "Wine Tours"
+        ],
+        "website": "http://thunderdomepartybus.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78701",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 876-0066",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay"
+        ],
+        "unaccommodations": [
+            "Accepts Cryptocurrency",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "Not Wheelchair Accessible"
+        ],
+        "rating_value": "5",
+        "review_count": "12"
+    },
+    {
+        "name": "Discover Texas Wine Tours",
+        "id": 242,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://discovertexaswine.com",
+        "longitude": -97.743205,
+        "latitude": 30.266919,
+        "address": "",
+        "postal_code": "78737",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 656-8299",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 9:00 PM",
+            "Tue": "9:00 AM - 9:00 PM",
+            "Wed": "9:00 AM - 9:00 PM",
+            "Thu": "9:00 AM - 9:00 PM",
+            "Fri": "9:00 AM - 9:00 PM",
+            "Sat": "9:00 AM - 9:00 PM",
+            "Sun": "9:00 AM - 9:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "38"
+    },
+    {
+        "name": "Austin Nites Party Bus",
+        "id": 349,
+        "open_for_business": 1,
+        "tags": [
+            "Party Bus Rentals",
+            "Wine Tours",
+            "Boating"
+        ],
+        "website": "http://www.austinnitespartybus.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78750",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 709-4391",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Bike Parking",
+            "Free Wi-Fi"
+        ],
+        "unaccommodations": [
+            "Accepts Cryptocurrency",
+            "Not Wheelchair Accessible"
+        ],
+        "rating_value": "3.5",
+        "review_count": "15"
+    },
+    {
+        "name": "Cool Bus Atx",
+        "id": 584,
+        "open_for_business": 1,
+        "tags": [
+            "Bus Tours",
+            "Party Bus Rentals",
+            "Wine Tours"
+        ],
+        "website": "https://cool-bus-atx.business.site",
+        "longitude": -95.488268,
+        "latitude": 29.062037,
+        "address": "",
+        "postal_code": "77566",
+        "city": "Lake Jackson",
+        "state": "TX",
+        "telephone": "(832) 740-2665",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [],
+        "unaccommodations": [
+            "Accepts Credit Cards",
+            "Accepts Cryptocurrency",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "3"
+    },
+    {
+        "name": "All About Central Texas",
+        "id": 38,
+        "open_for_business": 1,
+        "tags": [
+            "Food Tours",
+            "Wine Tours"
+        ],
+        "website": "http://www.allaboutcentraltexas.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78749",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 784-2426",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Save The World Brewing",
+        "id": 5,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries"
+        ],
+        "website": "http://www.savetheworldbrewing.com",
+        "longitude": -98.265235,
+        "latitude": 30.617741,
+        "address": "1510 Resource Pkwy",
+        "postal_code": "78654",
+        "city": "Marble Falls",
+        "state": "TX",
+        "telephone": "(830) 637-7654",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "3:00 PM - 6:00 PM",
+            "Tue": "3:00 PM - 6:00 PM",
+            "Wed": "3:00 PM - 6:00 PM",
+            "Thu": "3:00 PM - 7:00 PM",
+            "Fri": "3:00 PM - 7:00 PM",
+            "Sat": "12:00 PM - 6:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Moderate Noise",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Android Pay",
+            "Offers Catering"
+        ],
+        "rating_value": "4.5",
+        "review_count": "51"
+    },
+    {
+        "name": "Bear King Brewing Co.",
+        "id": 288,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries",
+            "Burgers"
+        ],
+        "website": "https://www.bearkingbrewing.com",
+        "longitude": -98.274933,
+        "latitude": 30.570273,
+        "address": "207 Ave G",
+        "postal_code": "78654",
+        "city": "Marble Falls",
+        "state": "TX",
+        "telephone": "(830) 220-5083",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "11:00 AM - 10:00 PM",
+            "Thu": "11:00 AM - 10:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 8:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Moderate Noise",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Happy Hour Specials",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "No Bike Parking"
+        ],
+        "rating_value": "4",
+        "review_count": "170"
+    },
+    {
+        "name": "Double Horn Brewing",
+        "id": 588,
+        "open_for_business": 1,
+        "tags": [
+            "Brewpubs"
+        ],
+        "website": "http://www.doublehornbrewing.com",
+        "longitude": -98.276814,
+        "latitude": 30.571135,
+        "address": "208 Ave H",
+        "postal_code": "78654",
+        "city": "Marble Falls",
+        "state": "TX",
+        "telephone": "(830) 693-5165",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "4:00 PM - 9:00 PM",
+            "Tue": "4:00 PM - 9:00 PM",
+            "Wed": "11:00 AM - 9:00 PM",
+            "Thu": "11:00 AM - 9:00 PM",
+            "Fri": "11:00 AM - 9:00 PM",
+            "Sat": "11:00 AM - 9:00 PM",
+            "Sun": "11:00 AM - 8:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Happy Hour Specials",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Open to All",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "No Drive-Thru",
+            "Heated outdoor seating"
+        ],
+        "rating_value": "3.5",
+        "review_count": "364"
+    },
+    {
+        "name": "River City Grille",
+        "id": 278,
+        "open_for_business": 1,
+        "tags": [
+            "American (Traditional)",
+            "Wine Bars"
+        ],
+        "website": "http://www.rivercitygrilletx.com/",
+        "longitude": -98.276825,
+        "latitude": 30.568617,
+        "address": "700 1st St",
+        "postal_code": "78654",
+        "city": "Marble Falls",
+        "state": "TX",
+        "telephone": "(830) 798-9909",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 8:00 PM",
+            "Tue": "11:00 AM - 8:00 PM",
+            "Wed": "11:00 AM - 8:00 PM",
+            "Thu": "11:00 AM - 8:00 PM",
+            "Fri": "11:00 AM - 9:00 PM",
+            "Sat": "11:00 AM - 9:00 PM",
+            "Sun": "11:00 AM - 8:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Casual Dress",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Best nights on Friday, Saturday, Sunday",
+            "Full Bar",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay"
+        ],
+        "rating_value": "3.5",
+        "review_count": "418"
+    },
+    {
+        "name": "Brass Hall",
+        "id": 230,
+        "open_for_business": 1,
+        "tags": [
+            "Music Venues",
+            "Bars"
+        ],
+        "website": "http://www.brasshall.com",
+        "longitude": -98.278097,
+        "latitude": 30.572576,
+        "address": "909 3rd St",
+        "postal_code": "78654",
+        "city": "Marble Falls",
+        "state": "TX",
+        "telephone": "(830) 201-4380",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "4:00 PM - 2:00 AM ()",
+            "Tue": "4:00 PM - 2:00 AM ()",
+            "Wed": "4:00 PM - 2:00 AM ()",
+            "Thu": "4:00 PM - 2:00 AM ()",
+            "Fri": "4:00 PM - 2:00 AM ()",
+            "Sat": "4:00 PM - 2:00 AM ()",
+            "Sun": "4:00 PM - 2:00 AM ()"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Dancing",
+            "Pool Table",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "DJ, Background Music, Juke Box, Live Music, Karaoke",
+            "Best nights on Thursday, Friday, Saturday",
+            "Full Bar",
+            "Smoking Outside Only",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Not Good For Kids"
+        ],
+        "rating_value": "3",
+        "review_count": "15"
+    }
+]

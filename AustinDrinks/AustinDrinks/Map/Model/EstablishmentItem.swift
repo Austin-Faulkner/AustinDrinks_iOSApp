@@ -16,7 +16,7 @@ class EstablishmentItem: NSObject, MKAnnotation, Decodable {
     let establishmentID: Int?
     let open_for_business: Int?
     let tags: [String]
-    let website: String  // unwrapped to fix Go button in DrinkingEstablishmentListViewController TODO: remove this commment
+    let website: String  
     let longitude: Double?
     let latitude: Double?
     let address: String
@@ -30,7 +30,6 @@ class EstablishmentItem: NSObject, MKAnnotation, Decodable {
     let unaccommodations: [String]
     let rating_value: String?
     let rating_count: String?
-    let reviews: [[String: String]] // TODO: remove from JSON and then remove here . . .
     
     enum CodingKeys: String, CodingKey {
         case name = "name"
@@ -51,7 +50,6 @@ class EstablishmentItem: NSObject, MKAnnotation, Decodable {
         case unaccommodations = "unaccommodations"
         case rating_value = "rating_value"
         case rating_count = "review_count"
-        case reviews = "reviews"
     }
     
     // Coordinate setter
