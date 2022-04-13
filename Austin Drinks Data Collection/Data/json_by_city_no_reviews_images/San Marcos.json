@@ -1,0 +1,3159 @@
+[
+    {
+        "name": "AquaBrew",
+        "id": 459,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries",
+            "Beer Gardens"
+        ],
+        "website": "http://aqua-brew.com",
+        "longitude": -97.940295,
+        "latitude": 29.879198,
+        "address": "110 E Mlk DrSte 130",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 353-2739",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "12:00 PM - 10:00 PM",
+            "Wed": "12:00 PM - 10:00 PM",
+            "Thu": "12:00 PM - 10:00 PM",
+            "Fri": "12:00 PM - 10:00 PM",
+            "Sat": "12:00 PM - 10:00 PM",
+            "Sun": "12:00 PM - 10:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Limited Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Hipster, Trendy, Casual",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Friday, Saturday, Sunday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Smoking Allowed",
+            "Dogs Allowed",
+            "TV",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Not Good For Dancing",
+            "Not Wheelchair Accessible"
+        ],
+        "rating_value": "4",
+        "review_count": "490"
+    },
+    {
+        "name": "The Growling",
+        "id": 23,
+        "open_for_business": 1,
+        "tags": [
+            "Beer Bar"
+        ],
+        "website": "http://www.thegrowling.com",
+        "longitude": -97.939963,
+        "latitude": 29.892008,
+        "address": "700 N Lbj DrSte 111",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 216-6044",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "2:00 PM - 12:00 AM ()",
+            "Tue": "2:00 PM - 12:00 AM ()",
+            "Wed": "2:00 PM - 12:00 AM ()",
+            "Thu": "2:00 PM - 12:00 AM ()",
+            "Fri": "2:00 PM - 12:00 AM ()",
+            "Sat": "2:00 PM - 1:00 AM ()",
+            "Sun": "2:00 PM - 12:00 AM ()"
+        },
+        "accommodations": [
+            "Masks required",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Divey",
+            "Good for Groups",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Thursday, Friday, Saturday",
+            "Beer & Wine Only",
+            "Wheelchair Accessible",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Apple Pay",
+            "Not Good For Dancing",
+            "No Pool Table"
+        ],
+        "rating_value": "5",
+        "review_count": "41"
+    },
+    {
+        "name": "Industry",
+        "id": 202,
+        "open_for_business": 1,
+        "tags": [
+            "American (New)",
+            "Bars",
+            "Breakfast & Brunch"
+        ],
+        "website": "https://www.industrytx.com",
+        "longitude": -97.940133,
+        "latitude": 29.879606,
+        "address": "110 E Martin Luther King DrSte 126",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 392-8686",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 12:00 AM ()",
+            "Tue": "11:00 AM - 12:00 AM ()",
+            "Wed": "11:00 AM - 12:00 AM ()",
+            "Thu": "11:00 AM - 12:00 AM ()",
+            "Fri": "11:00 AM - 12:00 AM ()",
+            "Sat": "10:30 AM - 12:00 AM ()",
+            "Sun": "10:30 AM - 12:00 AM ()"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Staff wears masks",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Hipster, Casual, Trendy",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Brunch, Dinner",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Saturday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Apple Pay",
+            "Not Good For Dancing",
+            "No Pool Table"
+        ],
+        "rating_value": "4",
+        "review_count": "329"
+    },
+    {
+        "name": "Zelicks",
+        "id": 347,
+        "open_for_business": 1,
+        "tags": [
+            "Bars"
+        ],
+        "website": "http://www.zelickssmtx.com",
+        "longitude": -97.945421,
+        "latitude": 29.882778,
+        "address": "336 W Hopkins St",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 757-8787",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "3:00 PM - 2:00 AM ()",
+            "Tue": "3:00 PM - 2:00 AM ()",
+            "Wed": "3:00 PM - 2:00 AM ()",
+            "Thu": "12:00 PM - 2:00 AM ()",
+            "Fri": "12:00 PM - 2:00 AM ()",
+            "Sat": "12:00 PM - 2:00 AM ()",
+            "Sun": "12:00 PM - 2:00 AM ()"
+        },
+        "accommodations": [
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Pool Table",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Thursday, Friday, Saturday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Open to All",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Masks required",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Not Good For Dancing"
+        ],
+        "rating_value": "4.5",
+        "review_count": "112"
+    },
+    {
+        "name": "Taproom Pub and Grub",
+        "id": 285,
+        "open_for_business": 1,
+        "tags": [
+            "Burgers",
+            "Pubs"
+        ],
+        "website": "http://taproomsanmarcos.com",
+        "longitude": -97.940679,
+        "latitude": 29.883629,
+        "address": "129 E Hopkins StSte 120",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 392-9824",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:30 AM - 12:00 AM ()",
+            "Tue": "11:30 AM - 12:00 AM ()",
+            "Wed": "11:30 AM - 12:00 AM ()",
+            "Thu": "11:30 AM - 12:00 AM ()",
+            "Fri": "11:30 AM - 12:00 AM ()",
+            "Sat": "11:00 AM - 12:00 AM ()",
+            "Sun": "11:00 AM - 12:00 AM ()"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Pescatarian Options",
+            "Vegan Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Loud",
+            "Good for Groups",
+            "Good for Lunch, Dinner, Late Night",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Best nights on Thursday, Friday, Saturday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Smoking Outside Only",
+            "Wheelchair Accessible",
+            "TV",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "Not Good For Kids",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "No Drive-Thru",
+            "Heated outdoor seating",
+            "Covered outdoor seating",
+            "Private dining"
+        ],
+        "rating_value": "4",
+        "review_count": "393"
+    },
+    {
+        "name": "54th Street Restaurant and Drafthouse",
+        "id": 196,
+        "open_for_business": 1,
+        "tags": [
+            "Bars",
+            "American (Traditional)",
+            "Burgers"
+        ],
+        "website": "https://www.54thstreetgrill.com/san-marcos-tx.html",
+        "longitude": -97.940791,
+        "latitude": 29.866616,
+        "address": "1303 IH 35",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 396-5400",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 11:00 PM",
+            "Tue": "11:00 AM - 11:00 PM",
+            "Wed": "11:00 AM - 11:00 PM",
+            "Thu": "11:00 AM - 11:00 PM",
+            "Fri": "11:00 AM - 12:00 AM ()",
+            "Sat": "11:00 AM - 12:00 AM ()",
+            "Sun": "11:00 AM - 11:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Trendy, Casual",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Lunch, Dinner, Dessert",
+            "Private Lot Parking",
+            "Waiter Service",
+            "Best nights on Monday, Tuesday, Friday",
+            "Happy Hour Specials",
+            "Full Bar",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Offers Catering",
+            "Not Good For Dancing",
+            "No Pool Table",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "No Smoking",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4",
+        "review_count": "295"
+    },
+    {
+        "name": "North Street",
+        "id": 85,
+        "open_for_business": 1,
+        "tags": [
+            "Indian",
+            "Beer Bar",
+            "Coffee & Tea"
+        ],
+        "website": "http://Northsmtx.com",
+        "longitude": -97.945432,
+        "latitude": 29.883215,
+        "address": "216 North St",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 667-7094",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 10:00 PM",
+            "Tue": "11:00 AM - 10:00 PM",
+            "Wed": "11:00 AM - 10:00 PM",
+            "Thu": "11:00 AM - 10:00 PM",
+            "Fri": "11:00 AM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Vegan Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Moderate Noise",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Open to All"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "152"
+    },
+    {
+        "name": "Treff's Tavern",
+        "id": 104,
+        "open_for_business": 1,
+        "tags": [
+            "Bars"
+        ],
+        "website": "https://www.treffstavern.com",
+        "longitude": -97.941873,
+        "latitude": 29.892813,
+        "address": "804 Chestnut StSte D",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 353-1594",
+        "price": "Inexpensive",
+        "hours": {
+            "Mon": "12:30 PM - 2:00 AM ()",
+            "Tue": "12:30 PM - 2:00 AM ()",
+            "Wed": "12:30 PM - 2:00 AM ()",
+            "Thu": "12:30 PM - 2:00 AM ()",
+            "Fri": "12:30 PM - 2:00 AM ()",
+            "Sat": "12:30 PM - 2:00 AM ()",
+            "Sun": "11:00 AM - 2:00 AM ()"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Loud",
+            "Good for Groups",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Juke Box",
+            "Happy Hour Specials",
+            "Full Bar",
+            "TV"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "No Pool Table"
+        ],
+        "rating_value": "3.5",
+        "review_count": "32"
+    },
+    {
+        "name": "Vino Nouveau",
+        "id": 630,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries",
+            "Beer, Wine & Spirits",
+            "Breweries"
+        ],
+        "website": "",
+        "longitude": -97.968102,
+        "latitude": 29.891095,
+        "address": "1907 Ramona Cir",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 787-0144",
+        "price": "",
+        "hours": {},
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Private Lot Parking"
+        ],
+        "unaccommodations": [],
+        "rating_value": "",
+        "review_count": ""
+    },
+    {
+        "name": "Sean Patrick's Irish Pub + Texas Grub",
+        "id": 123,
+        "open_for_business": 1,
+        "tags": [
+            "Irish",
+            "Burgers",
+            "Sports Bars"
+        ],
+        "website": "http://www.seanpatrickstx.com",
+        "longitude": -97.939516,
+        "latitude": 29.881955,
+        "address": "202 E San Antonio St",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 392-7310",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "11:00 AM - 10:00 PM",
+            "Tue": "11:00 AM - 10:00 PM",
+            "Wed": "11:00 AM - 10:00 PM",
+            "Thu": "11:00 AM - 10:00 PM",
+            "Fri": "11:00 AM - 11:45 PM",
+            "Sat": "11:00 AM - 11:45 PM",
+            "Sun": "11:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good for Lunch, Dinner",
+            "Pool Table",
+            "Street Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Full Bar",
+            "TV"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "Accepts Apple Pay",
+            "Not Good For Kids"
+        ],
+        "rating_value": "3",
+        "review_count": "154"
+    },
+    {
+        "name": "Patio Dolcetto",
+        "id": 177,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Bars",
+            "Pizza",
+            "Tapas/Small Plates"
+        ],
+        "website": "http://www.patiodolcetto.com",
+        "longitude": -97.936793,
+        "latitude": 29.876776,
+        "address": "322 Cheatham St",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 366-3605",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "4:00 PM - 11:00 PM",
+            "Tue": "4:00 PM - 11:00 PM",
+            "Wed": "4:00 PM - 11:00 PM",
+            "Thu": "4:00 PM - 11:00 PM",
+            "Fri": "4:00 PM - 12:00 AM ()",
+            "Sat": "4:00 PM - 12:00 AM ()",
+            "Sun": "12:00 PM - 10:00 PM"
+        },
+        "accommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Romantic, Intimate, Classy, Casual",
+            "Quiet",
+            "Casual Dress",
+            "Good for Groups",
+            "Good for Dinner",
+            "Street Parking, Private Lot Parking, Valet Parking",
+            "Bike Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Not Good For Kids",
+            "Not Good For Dancing",
+            "Dogs Not Allowed",
+            "No TV"
+        ],
+        "rating_value": "4.5",
+        "review_count": "97"
+    },
+    {
+        "name": "Red Bus Food Park and Bar",
+        "id": 192,
+        "open_for_business": 1,
+        "tags": [
+            "Bars",
+            "Food Trucks",
+            "Karaoke"
+        ],
+        "website": "https://redbusfoodpark.com",
+        "longitude": -97.941817,
+        "latitude": 29.892308,
+        "address": "801 Chestnut St",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 537-1902",
+        "price": "",
+        "hours": {
+            "Mon": "8:00 AM - 10:00 PM",
+            "Tue": "8:00 AM - 10:00 PM",
+            "Wed": "8:00 AM - 10:00 PM",
+            "Thu": "8:00 AM - 10:00 PM",
+            "Fri": "8:00 AM - 10:00 PM",
+            "Sat": "8:00 AM - 10:00 PM",
+            "Sun": "8:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Pescatarian Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Latinx-owned",
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "No Happy Hour"
+        ],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Taste of the Hills",
+        "id": 64,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.tasteofthehillstours.com",
+        "longitude": -98.2174,
+        "latitude": 30.042592,
+        "address": "251 Circle Dr",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(512) 667-0518",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "21"
+    },
+    {
+        "name": "ThunderDome Party Bus",
+        "id": 466,
+        "open_for_business": 1,
+        "tags": [
+            "Party Bus Rentals",
+            "Tubing",
+            "Wine Tours"
+        ],
+        "website": "http://thunderdomepartybus.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78701",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 876-0066",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay"
+        ],
+        "unaccommodations": [
+            "Accepts Cryptocurrency",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "Not Wheelchair Accessible"
+        ],
+        "rating_value": "5",
+        "review_count": "12"
+    },
+    {
+        "name": "Dark Star Black Car",
+        "id": 399,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "https://www.darkstarblackcar.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(737) 239-3422",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 7:00 PM",
+            "Tue": "9:00 AM - 7:00 PM",
+            "Wed": "9:00 AM - 7:00 PM",
+            "Thu": "9:00 AM - 7:00 PM",
+            "Fri": "9:00 AM - 9:00 PM",
+            "Sat": "9:00 AM - 9:00 PM",
+            "Sun": "10:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Paid Wi-Fi"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Texas Tipsy Tours",
+        "id": 102,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Beer Tours",
+            "Party Bus Rentals"
+        ],
+        "website": "https://www.texastipsytours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(512) 593-1858",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Cryptocurrency",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "17"
+    },
+    {
+        "name": "Winding Road Wine Tours",
+        "id": 126,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://windingroadwinetours.com",
+        "longitude": -98.4105,
+        "latitude": 29.840551,
+        "address": "",
+        "postal_code": "78130",
+        "city": "New Braunfels",
+        "state": "TX",
+        "telephone": "(830) 355-8466",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Women-owned",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "17"
+    },
+    {
+        "name": "Fredericksburg Uncorked Wine Tours",
+        "id": 364,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Wine Tasting Room",
+            "Beer Tours"
+        ],
+        "website": "http://www.fredericksburguncorked.com",
+        "longitude": -98.904149,
+        "latitude": 30.25195,
+        "address": "588 FM 2093",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 998-6113",
+        "price": "Pricey",
+        "hours": {
+            "Mon": "10:00 AM - 6:00 PM",
+            "Tue": "10:00 AM - 6:00 PM",
+            "Wed": "10:00 AM - 6:00 PM",
+            "Thu": "10:00 AM - 6:00 PM",
+            "Fri": "10:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "10:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "By Appointment Only",
+            "Accepts Credit Cards",
+            "Offers Catering",
+            "Bike Parking",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Not Good For Kids"
+        ],
+        "rating_value": "5",
+        "review_count": "30"
+    },
+    {
+        "name": "Austin Nites Party Bus",
+        "id": 349,
+        "open_for_business": 1,
+        "tags": [
+            "Party Bus Rentals",
+            "Wine Tours",
+            "Boating"
+        ],
+        "website": "http://www.austinnitespartybus.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78750",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 709-4391",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Bike Parking",
+            "Free Wi-Fi"
+        ],
+        "unaccommodations": [
+            "Accepts Cryptocurrency",
+            "Not Wheelchair Accessible"
+        ],
+        "rating_value": "3.5",
+        "review_count": "15"
+    },
+    {
+        "name": "Cool Bus Atx",
+        "id": 584,
+        "open_for_business": 1,
+        "tags": [
+            "Bus Tours",
+            "Party Bus Rentals",
+            "Wine Tours"
+        ],
+        "website": "https://cool-bus-atx.business.site",
+        "longitude": -95.488268,
+        "latitude": 29.062037,
+        "address": "",
+        "postal_code": "77566",
+        "city": "Lake Jackson",
+        "state": "TX",
+        "telephone": "(832) 740-2665",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [],
+        "unaccommodations": [
+            "Accepts Credit Cards",
+            "Accepts Cryptocurrency",
+            "No Wi-Fi"
+        ],
+        "rating_value": "5",
+        "review_count": "3"
+    },
+    {
+        "name": "Open Range Tours",
+        "id": 119,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Beer Tours"
+        ],
+        "website": "http://www.openrangetours.com",
+        "longitude": -98.962296,
+        "latitude": 30.401053,
+        "address": "275 Hill Top Dr",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 391-9336",
+        "price": "",
+        "hours": {
+            "Mon": "7:00 AM - 7:00 PM",
+            "Tue": "7:00 AM - 7:00 PM",
+            "Wed": "7:00 AM - 7:00 PM",
+            "Thu": "7:00 AM - 7:00 PM",
+            "Fri": "7:00 AM - 7:00 PM",
+            "Sat": "7:00 AM - 7:00 PM",
+            "Sun": "7:00 AM - 7:00 PM"
+        },
+        "accommodations": [
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "19"
+    },
+    {
+        "name": "830 Elevated Wine Tours",
+        "id": 215,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours",
+            "Town Car Service"
+        ],
+        "website": "https://830elevatedwinetours.com",
+        "longitude": -98.871984,
+        "latitude": 30.275201,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(830) 998-2295",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Free Wi-Fi",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks"
+        ],
+        "rating_value": "4.5",
+        "review_count": "12"
+    },
+    {
+        "name": "Yellow Rose of Texas Wine Tours",
+        "id": 505,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://yellowroseoftexaswinetours.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78624",
+        "city": "Fredericksburg",
+        "state": "TX",
+        "telephone": "(210) 449-4382",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 9:00 PM",
+            "Tue": "9:00 AM - 9:00 PM",
+            "Wed": "9:00 AM - 9:00 PM",
+            "Thu": "9:00 AM - 9:00 PM",
+            "Fri": "9:00 AM - 9:00 PM",
+            "Sat": "9:00 AM - 9:00 PM",
+            "Sun": "9:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Paid Wi-Fi"
+        ],
+        "unaccommodations": [],
+        "rating_value": "3.5",
+        "review_count": "8"
+    },
+    {
+        "name": "Three Dudes Winery",
+        "id": 256,
+        "open_for_business": 1,
+        "tags": [
+            "Venues & Event Spaces",
+            "Wine Tasting Room"
+        ],
+        "website": "",
+        "longitude": -97.882986,
+        "latitude": 29.863838,
+        "address": "125 Old Martindale Rd",
+        "postal_code": "78666",
+        "city": "San Marcos",
+        "state": "TX",
+        "telephone": "(512) 392-5634",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "2:00 PM - 6:00 PM",
+            "Sat": "Closed",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "By Appointment Only",
+            "Accepts Credit Cards",
+            "Offers Catering",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4.5",
+        "review_count": "33"
+    },
+    {
+        "name": "Wimberley Valley Winery",
+        "id": 660,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.wimberleyvalleywine.com",
+        "longitude": -98.053932,
+        "latitude": 30.062857,
+        "address": "2825 Lone Man Mountain Rd",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 847-2592",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "10:00 AM - 6:00 PM",
+            "Tue": "10:00 AM - 6:00 PM",
+            "Wed": "10:00 AM - 6:00 PM",
+            "Thu": "10:00 AM - 6:00 PM",
+            "Fri": "10:00 AM - 6:00 PM",
+            "Sat": "10:00 AM - 6:00 PM",
+            "Sun": "10:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Accepts Android Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Wi-Fi"
+        ],
+        "rating_value": "4",
+        "review_count": "174"
+    },
+    {
+        "name": "Winery On The Gruene",
+        "id": 313,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "https://www.gruenewinery.com",
+        "longitude": -98.105421,
+        "latitude": 29.739272,
+        "address": "1308 Gruene Rd",
+        "postal_code": "78130",
+        "city": "New Braunfels",
+        "state": "TX",
+        "telephone": "(830) 608-1976",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 7:00 PM",
+            "Sat": "11:00 AM - 7:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Happy Hour"
+        ],
+        "rating_value": "4",
+        "review_count": "104"
+    },
+    {
+        "name": "Duchman Family Winery",
+        "id": 176,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://duchmanwinery.com/",
+        "longitude": -98.012429,
+        "latitude": 30.102521,
+        "address": "13308 Fm 150 W",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 858-1470",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 6:00 PM",
+            "Tue": "12:00 PM - 7:00 PM",
+            "Wed": "12:00 PM - 7:00 PM",
+            "Thu": "12:00 PM - 7:00 PM",
+            "Fri": "12:00 PM - 8:00 PM",
+            "Sat": "12:00 PM - 8:00 PM",
+            "Sun": "12:00 PM - 7:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency"
+        ],
+        "rating_value": "4",
+        "review_count": "246"
+    },
+    {
+        "name": "Water 2 Wine New Braunfels",
+        "id": 520,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://water2wine.com/newbraunfels",
+        "longitude": -98.123381,
+        "latitude": 29.702355,
+        "address": "185 S Seguin Ave",
+        "postal_code": "78130",
+        "city": "New Braunfels",
+        "state": "TX",
+        "telephone": "(830) 609-9463",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "1:00 PM - 7:30 PM",
+            "Wed": "1:00 PM - 7:30 PM",
+            "Thu": "1:00 PM - 7:30 PM",
+            "Fri": "12:00 PM - 8:00 PM",
+            "Sat": "12:00 PM - 8:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Gender-neutral restrooms",
+            "Women-owned",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "Heated outdoor seating"
+        ],
+        "rating_value": "5",
+        "review_count": "32"
+    },
+    {
+        "name": "La Cruz de Comal Wines",
+        "id": 206,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.lacruzdecomalwines.com",
+        "longitude": -98.240596,
+        "latitude": 29.8214,
+        "address": "7405 Fm 2722",
+        "postal_code": "78133",
+        "city": "Canyon Lake",
+        "state": "TX",
+        "telephone": "(830) 899-2723",
+        "price": "Pricey",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "Closed",
+            "Sat": "12:00 PM - 6:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Private Lot Parking",
+            "Dogs Allowed",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Bike Parking"
+        ],
+        "rating_value": "4.5",
+        "review_count": "41"
+    },
+    {
+        "name": "Blue Lotus Winery",
+        "id": 128,
+        "open_for_business": 1,
+        "tags": [
+            "Venues & Event Spaces",
+            "Wine Tasting Room"
+        ],
+        "website": "http://bluelotuswinery.com/",
+        "longitude": -97.917572,
+        "latitude": 29.640061,
+        "address": "5151 FM 20",
+        "postal_code": "78155",
+        "city": "Seguin",
+        "state": "TX",
+        "telephone": "(830) 379-9463",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "12:00 PM - 6:00 PM",
+            "Thu": "12:00 PM - 6:00 PM",
+            "Fri": "12:00 PM - 6:00 PM",
+            "Sat": "12:00 PM - 6:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4.5",
+        "review_count": "20"
+    },
+    {
+        "name": "Fall Creek Vineyards - Driftwood",
+        "id": 30,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.fcv.com/",
+        "longitude": -98.012388,
+        "latitude": 30.129965,
+        "address": "18059 Fm 1826",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 858-4050",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 7:00 PM",
+            "Tue": "11:00 AM - 7:00 PM",
+            "Wed": "11:00 AM - 7:00 PM",
+            "Thu": "11:00 AM - 7:00 PM",
+            "Fri": "11:00 AM - 7:00 PM",
+            "Sat": "11:00 AM - 7:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Happy Hour",
+            "No Drive-Thru",
+            "Heated outdoor seating"
+        ],
+        "rating_value": "4",
+        "review_count": "132"
+    },
+    {
+        "name": "Cypress Creek Reserve",
+        "id": 578,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries"
+        ],
+        "website": "http://www.cypresscreekreserve.com",
+        "longitude": -98.117766,
+        "latitude": 30.035228,
+        "address": "1400 Jacobs Well Rd",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(512) 847-6874",
+        "price": "Inexpensive",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "11:30 AM - 5:30 PM",
+            "Wed": "11:30 AM - 5:30 PM",
+            "Thu": "11:30 AM - 5:30 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Quiet",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "No Happy Hour"
+        ],
+        "rating_value": "4.5",
+        "review_count": "31"
+    },
+    {
+        "name": "Limestone Terrace Vineyard",
+        "id": 158,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "https://www.limestoneterrace.com",
+        "longitude": -98.040105,
+        "latitude": 30.061689,
+        "address": "101 Rocky Meadows Ln",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(512) 877-0559",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "3:00 PM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Free Wi-Fi",
+            "Wheelchair Accessible",
+            "Heated outdoor seating",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Offers Catering",
+            "No Bike Parking",
+            "No Happy Hour",
+            "No Drive-Thru"
+        ],
+        "rating_value": "4.5",
+        "review_count": "9"
+    },
+    {
+        "name": "Dry Comal Creek Vineyards",
+        "id": 120,
+        "open_for_business": 1,
+        "tags": [
+            "Venues & Event Spaces",
+            "Wine Tasting Room"
+        ],
+        "website": "https://www.drycomalcreekvineyards.com",
+        "longitude": -98.27291,
+        "latitude": 29.770538,
+        "address": "1741 Herbelin Rd",
+        "postal_code": "78132",
+        "city": "New Braunfels",
+        "state": "TX",
+        "telephone": "(830) 500-3048",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 5:00 PM",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "11:00 AM - 5:00 PM",
+            "Fri": "11:00 AM - 5:00 PM",
+            "Sat": "11:00 AM - 5:00 PM",
+            "Sun": "11:00 AM - 5:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Wheelchair Accessible",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Bike Parking"
+        ],
+        "rating_value": "4",
+        "review_count": "111"
+    },
+    {
+        "name": "Driftwood Estate Winery",
+        "id": 167,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.driftwoodwine.com",
+        "longitude": -98.087392,
+        "latitude": 30.10613,
+        "address": "4001 Elder Hill Rd",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 858-9667",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Offers Catering",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Not Good For Kids",
+            "No Wi-Fi",
+            "Heated outdoor seating"
+        ],
+        "rating_value": "3.5",
+        "review_count": "325"
+    },
+    {
+        "name": "Sidecar Tasting Room",
+        "id": 63,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Bars",
+            "Wine Tasting Room"
+        ],
+        "website": "https://sidecartastingroom.com",
+        "longitude": -98.088617,
+        "latitude": 30.197393,
+        "address": "501 Old Fitzhugh Rd",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(512) 607-4544",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "2:00 PM - 9:00 PM",
+            "Thu": "2:00 PM - 9:00 PM",
+            "Fri": "2:00 PM - 10:00 PM",
+            "Sat": "2:00 PM - 10:00 PM",
+            "Sun": "2:00 PM - 9:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Classy",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Kids",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Best nights on Friday, Saturday, Sunday",
+            "Happy Hour Specials",
+            "Beer & Wine Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "TV",
+            "Gender-neutral restrooms",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Offers Catering",
+            "Not Good For Dancing",
+            "No Smoking",
+            "Heated outdoor seating"
+        ],
+        "rating_value": "4.5",
+        "review_count": "42"
+    },
+    {
+        "name": "The Grapevine",
+        "id": 502,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room",
+            "Beer Gardens"
+        ],
+        "website": "http://www.grapevineingruene.com/index.htm",
+        "longitude": -98.103694,
+        "latitude": 29.738542,
+        "address": "1612 Hunter Rd",
+        "postal_code": "78130",
+        "city": "New Braunfels",
+        "state": "TX",
+        "telephone": "(830) 606-0093",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:00 AM - 8:00 PM",
+            "Tue": "11:00 AM - 8:00 PM",
+            "Wed": "11:00 AM - 8:00 PM",
+            "Thu": "11:00 AM - 8:00 PM",
+            "Fri": "11:00 AM - 9:00 PM",
+            "Sat": "11:00 AM - 9:00 PM",
+            "Sun": "11:00 AM - 8:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Moderate Noise",
+            "Street Parking, Private Lot Parking",
+            "Bike Parking",
+            "Live Music",
+            "Happy Hour Specials",
+            "Dogs Allowed",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4",
+        "review_count": "103"
+    },
+    {
+        "name": "Desert Door",
+        "id": 397,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries",
+            "Bars"
+        ],
+        "website": "http://www.desertdoor.com",
+        "longitude": -98.048232,
+        "latitude": 30.151326,
+        "address": "211 Darden Hill RdA200",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 829-6129",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "3:30 PM - 8:00 PM",
+            "Fri": "11:30 AM - 8:00 PM",
+            "Sat": "11:30 AM - 8:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Offers Takeout",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy",
+            "Moderate Noise",
+            "Good for Groups",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Free Wi-Fi",
+            "Live Music",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No TV"
+        ],
+        "rating_value": "5",
+        "review_count": "237"
+    },
+    {
+        "name": "Trattoria Lisina",
+        "id": 346,
+        "open_for_business": 1,
+        "tags": [
+            "Italian",
+            "Venues & Event Spaces",
+            "Beer, Wine & Spirits"
+        ],
+        "website": "https://trattorialisina.com",
+        "longitude": -98.019505,
+        "latitude": 30.103851,
+        "address": "13308 Fm 150 W",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 894-3111",
+        "price": "$31-60",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "4:00 PM - 9:00 PM",
+            "Wed": "4:00 PM - 9:00 PM",
+            "Thu": "4:00 PM - 9:00 PM",
+            "Fri": "11:00 AM - 9:00 PM",
+            "Sat": "11:00 AM - 9:00 PM",
+            "Sun": "11:00 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Romantic, Classy",
+            "Moderate Noise",
+            "Casual Dress",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good for Dinner",
+            "Private Lot Parking",
+            "Waiter Service",
+            "Free Wi-Fi",
+            "Full Bar"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "No Bike Parking",
+            "Dogs Not Allowed",
+            "No TV"
+        ],
+        "rating_value": "4",
+        "review_count": "644"
+    },
+    {
+        "name": "Salt Lick Cellars",
+        "id": 383,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://saltlickcellars.com/",
+        "longitude": -98.013341,
+        "latitude": 30.13178,
+        "address": "18300-C Fm 1826",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 829-4013",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:30 AM - 8:30 PM",
+            "Tue": "11:30 AM - 8:30 PM",
+            "Wed": "11:30 AM - 8:30 PM",
+            "Thu": "11:30 AM - 8:30 PM",
+            "Fri": "11:30 AM - 9:00 PM",
+            "Sat": "11:00 AM - 9:00 PM",
+            "Sun": "11:00 AM - 8:30 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Accepts Credit Cards",
+            "Good For Kids",
+            "Private Lot Parking"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Offers Catering",
+            "No Bike Parking"
+        ],
+        "rating_value": "4",
+        "review_count": "88"
+    },
+    {
+        "name": "The Austin Winery",
+        "id": 643,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "http://www.theaustinwinery.com",
+        "longitude": -97.76243,
+        "latitude": 30.215386,
+        "address": "440 E St Elmo RdSte A1",
+        "postal_code": "78745",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 326-1445",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "4:00 PM - 8:00 PM",
+            "Fri": "4:00 PM - 9:00 PM",
+            "Sat": "12:00 PM - 9:00 PM",
+            "Sun": "12:00 PM - 8:00 PM"
+        },
+        "accommodations": [
+            "Health Score",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Offers Catering",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4.5",
+        "review_count": "149"
+    },
+    {
+        "name": "Water 2 Wine",
+        "id": 624,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.water2wine.com/buda",
+        "longitude": -97.845038,
+        "latitude": 30.07824,
+        "address": "304 S Main StSte 103",
+        "postal_code": "78610",
+        "city": "Buda",
+        "state": "TX",
+        "telephone": "(512) 312-9890",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "12:00 PM - 8:00 PM",
+            "Thu": "12:00 PM - 8:00 PM",
+            "Fri": "12:00 PM - 10:00 PM",
+            "Sat": "12:00 PM - 8:00 PM",
+            "Sun": "12:00 PM - 8:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Happy Hour"
+        ],
+        "rating_value": "4.5",
+        "review_count": "9"
+    },
+    {
+        "name": "Vista Brewing",
+        "id": 161,
+        "open_for_business": 1,
+        "tags": [
+            "Breweries",
+            "American (Traditional)",
+            "Burgers"
+        ],
+        "website": "http://www.vistabrewingtx.com",
+        "longitude": -98.021758,
+        "latitude": 30.104917,
+        "address": "13551 Fm 150 W",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 766-1842",
+        "price": "$11-30",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "4:00 PM - 9:00 PM",
+            "Thu": "4:00 PM - 9:00 PM",
+            "Fri": "2:00 PM - 9:00 PM",
+            "Sat": "12:00 PM - 9:00 PM",
+            "Sun": "12:00 PM - 7:00 PM"
+        },
+        "accommodations": [
+            "Offers Takeout",
+            "Vegan Options",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Outdoor Seating",
+            "Moderate Noise",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Beer & Wine Only",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All",
+            "Heated outdoor seating",
+            "Covered outdoor seating",
+            "Private dining"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Delivery",
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Cryptocurrency",
+            "No Waiter Service",
+            "No Wi-Fi",
+            "No Happy Hour",
+            "No Drive-Thru",
+            "No TV"
+        ],
+        "rating_value": "4",
+        "review_count": "161"
+    },
+    {
+        "name": "Deep Eddy Vodka Tasting Room",
+        "id": 391,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries",
+            "Wine Tasting Room"
+        ],
+        "website": "http://www.deepeddyvodka.com",
+        "longitude": -98.053194,
+        "latitude": 30.194249,
+        "address": "2250 E Hwy 290",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(512) 994-3534",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "11:00 AM - 5:00 PM",
+            "Fri": "11:00 AM - 5:00 PM",
+            "Sat": "11:00 AM - 5:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Masks required",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "No Vegetarian Options",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Happy Hour"
+        ],
+        "rating_value": "3.5",
+        "review_count": "256"
+    },
+    {
+        "name": "Fawncrest Vineyard",
+        "id": 160,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.fawncrest.com",
+        "longitude": -98.288359,
+        "latitude": 29.922286,
+        "address": "1370 Westside Cir",
+        "postal_code": "78133",
+        "city": "Canyon Lake",
+        "state": "TX",
+        "telephone": "(830) 935-2407",
+        "price": "Moderate",
+        "hours": {},
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Good For Kids"
+        ],
+        "unaccommodations": [],
+        "rating_value": "3.5",
+        "review_count": "7"
+    },
+    {
+        "name": "Gruene Historic District",
+        "id": 563,
+        "open_for_business": 1,
+        "tags": [
+            "Historical Tours",
+            "Landmarks & Historical Buildings"
+        ],
+        "website": "http://www.gruenetexas.com/",
+        "longitude": -98.104257,
+        "latitude": 29.738594,
+        "address": "1601 Hunter Rd",
+        "postal_code": "78130",
+        "city": "New Braunfels",
+        "state": "TX",
+        "telephone": "(830) 629-5077",
+        "price": "",
+        "hours": {},
+        "accommodations": [],
+        "unaccommodations": [
+            "No Wi-Fi"
+        ],
+        "rating_value": "4.5",
+        "review_count": "26"
+    },
+    {
+        "name": "Parmeson Wines",
+        "id": 412,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "https://parmesonwines.com",
+        "longitude": -98.119454,
+        "latitude": 30.209576,
+        "address": "5300 Bell Springs Rd",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(512) 894-2088",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "12:00 PM - 6:00 PM",
+            "Fri": "12:00 PM - 6:00 PM",
+            "Sat": "12:00 PM - 6:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards"
+        ],
+        "unaccommodations": [
+            "Offers Catering"
+        ],
+        "rating_value": "4.5",
+        "review_count": "5"
+    },
+    {
+        "name": "Leaf and Barrel",
+        "id": 211,
+        "open_for_business": 1,
+        "tags": [
+            "Tobacco Shops",
+            "Beer, Wine & Spirits",
+            "Coffee & Tea"
+        ],
+        "website": "https://leafandbarrelshops.com",
+        "longitude": -98.164372,
+        "latitude": 29.719983,
+        "address": "1850 SH-46 WSte 105",
+        "postal_code": "78132",
+        "city": "New Braunfels",
+        "state": "TX",
+        "telephone": "(830) 632-5883",
+        "price": "",
+        "hours": {
+            "Mon": "10:00 AM - 8:00 PM",
+            "Tue": "10:00 AM - 8:00 PM",
+            "Wed": "10:00 AM - 8:00 PM",
+            "Thu": "10:00 AM - 8:00 PM",
+            "Fri": "10:00 AM - 9:00 PM",
+            "Sat": "10:00 AM - 9:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "9"
+    },
+    {
+        "name": "Bella Vista Ranch",
+        "id": 53,
+        "open_for_business": 1,
+        "tags": [
+            "Specialty Food",
+            "Wineries",
+            "Tours"
+        ],
+        "website": "http://www.bvranch.com",
+        "longitude": -98.126567,
+        "latitude": 30.060957,
+        "address": "3101 Mt Sharp Rd",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(512) 847-6514",
+        "price": "Moderate",
+        "hours": {},
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Private Lot Parking"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Apple Pay",
+            "Not Good For Kids",
+            "No Bike Parking"
+        ],
+        "rating_value": "3",
+        "review_count": "35"
+    },
+    {
+        "name": "Graveyard Vineyards",
+        "id": 651,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "http://www.graveyardvineyards.com",
+        "longitude": -98.120778,
+        "latitude": 30.21076,
+        "address": "5258 Bell Springs Rd",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(512) 858-0612",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 5:00 PM",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [
+            "Private Lot Parking"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "13"
+    },
+    {
+        "name": "Stinson Distilling",
+        "id": 156,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries",
+            "Wine Tasting Room",
+            "Cocktail Bars"
+        ],
+        "website": "http://StinsonDistilling.com",
+        "longitude": -98.032056,
+        "latitude": 30.143382,
+        "address": "18281 Ranch To Market Rd 150Ste 105",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 894-2009",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "12:00 PM - 8:00 PM",
+            "Sat": "11:00 AM - 8:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Takes Reservations",
+            "By Appointment Only",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Classy",
+            "Street Parking, Private Lot Parking",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Full Bar",
+            "Smoking Outside Only",
+            "Dogs Allowed",
+            "TV",
+            "Gender-neutral restrooms",
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "Not Good For Kids",
+            "Not Good For Dancing",
+            "No Bike Parking",
+            "Not Wheelchair Accessible",
+            "Covered outdoor seating"
+        ],
+        "rating_value": "4.5",
+        "review_count": "31"
+    },
+    {
+        "name": "Frog Pond Distillery",
+        "id": 483,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries"
+        ],
+        "website": "http://frogponddistillery.com",
+        "longitude": -98.038451,
+        "latitude": 30.191815,
+        "address": "261 Frog Pond Ln",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(512) 657-7977",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "Closed",
+            "Sat": "1:00 PM - 7:00 PM",
+            "Sun": "1:00 PM - 7:00 PM"
+        },
+        "accommodations": [
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Quiet",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Open to All",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Delivery",
+            "No Takeout",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Bike Parking"
+        ],
+        "rating_value": "4.5",
+        "review_count": "37"
+    },
+    {
+        "name": "Square Inn",
+        "id": 445,
+        "open_for_business": 1,
+        "tags": [
+            "Bed & Breakfast",
+            "Hotels",
+            "Venues & Event Spaces"
+        ],
+        "website": "http://www.wimberleysquareinn.com",
+        "longitude": -98.096802,
+        "latitude": 29.99526,
+        "address": "110 Oak Dr",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(512) 722-3188",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Open 24 hours"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Free Wi-Fi",
+            "Women-owned",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "19"
+    },
+    {
+        "name": "Los Olivos Market",
+        "id": 198,
+        "open_for_business": 1,
+        "tags": [
+            "Specialty Food",
+            "Wine Tasting Room"
+        ],
+        "website": "http://www.losolivosmarkets.com",
+        "longitude": -98.095673,
+        "latitude": 29.996451,
+        "address": "13904 Ranch Rd 12Ste 2",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(512) 847-7771",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "11:30 AM - 9:00 PM",
+            "Tue": "11:30 AM - 9:00 PM",
+            "Wed": "11:30 AM - 9:00 PM",
+            "Thu": "11:30 AM - 9:00 PM",
+            "Fri": "11:30 AM - 11:00 PM",
+            "Sat": "11:30 AM - 11:00 PM",
+            "Sun": "11:30 AM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Happy Hour Specials",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Offers Catering"
+        ],
+        "rating_value": "4",
+        "review_count": "52"
+    },
+    {
+        "name": "Serenity Farmhouse Inn",
+        "id": 613,
+        "open_for_business": 1,
+        "tags": [
+            "Venues & Event Spaces",
+            "Bed & Breakfast",
+            "Hotels"
+        ],
+        "website": "http://www.serenityfarmhouseinn.com",
+        "longitude": -98.2174,
+        "latitude": 30.042592,
+        "address": "251 Circle Dr",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(888) 882-8985",
+        "price": "Pricey",
+        "hours": {
+            "Mon": "9:00 AM - 6:30 PM",
+            "Tue": "9:00 AM - 6:30 PM",
+            "Wed": "9:00 AM - 6:30 PM",
+            "Thu": "9:00 AM - 6:30 PM",
+            "Fri": "9:00 AM - 7:30 PM",
+            "Sat": "9:00 AM - 2:30 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms",
+            "Offers Military Discount",
+            "Open to All"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency"
+        ],
+        "rating_value": "4",
+        "review_count": "56"
+    },
+    {
+        "name": "Texas Keeper Cider",
+        "id": 298,
+        "open_for_business": 1,
+        "tags": [
+            "Cideries"
+        ],
+        "website": "http://www.texaskeeper.com",
+        "longitude": -97.818805,
+        "latitude": 30.125464,
+        "address": "12521 Twin Creeks Rd",
+        "postal_code": "78652",
+        "city": "Manchaca",
+        "state": "TX",
+        "telephone": "(512) 910-3409",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "2:00 PM - 8:00 PM",
+            "Fri": "2:00 PM - 9:00 PM",
+            "Sat": "12:00 PM - 9:00 PM",
+            "Sun": "12:00 PM - 8:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Good For Kids",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Dogs Allowed",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "Accepts Apple Pay",
+            "Offers Catering"
+        ],
+        "rating_value": "4.5",
+        "review_count": "62"
+    },
+    {
+        "name": "Casa Vindemia Wine Shop",
+        "id": 344,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room",
+            "Beer, Wine & Spirits"
+        ],
+        "website": "",
+        "longitude": -98.102947,
+        "latitude": 30.019191,
+        "address": "15555 Ranch Rd 12",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(512) 722-3092",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "2:00 PM - 8:00 PM",
+            "Wed": "2:00 PM - 8:00 PM",
+            "Thu": "2:00 PM - 8:00 PM",
+            "Fri": "1:00 PM - 8:00 PM",
+            "Sat": "1:00 PM - 8:00 PM",
+            "Sun": "1:00 PM - 7:00 PM"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Offers Catering",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Dogs Allowed",
+            "Wheelchair Accessible",
+            "Gender-neutral restrooms"
+        ],
+        "unaccommodations": [
+            "No Takeout"
+        ],
+        "rating_value": "4.5",
+        "review_count": "12"
+    },
+    {
+        "name": "Still Austin Whiskey Co.",
+        "id": 59,
+        "open_for_business": 1,
+        "tags": [
+            "Distilleries"
+        ],
+        "website": "http://www.stillaustin.com",
+        "longitude": -97.761832,
+        "latitude": 30.216457,
+        "address": "440 E St Elmo RdBldg F",
+        "postal_code": "78745",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 276-2700",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "12:00 PM - 10:00 PM",
+            "Wed": "12:00 PM - 10:00 PM",
+            "Thu": "12:00 PM - 10:00 PM",
+            "Fri": "12:00 PM - 10:00 PM",
+            "Sat": "11:00 AM - 10:00 PM",
+            "Sun": "11:00 AM - 10:00 PM"
+        },
+        "accommodations": [
+            "Health Score",
+            "Offers Delivery",
+            "Offers Takeout",
+            "Masks required",
+            "Staff wears masks",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Moderate Noise",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Happy Hour Specials",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4.5",
+        "review_count": "189"
+    },
+    {
+        "name": "Hill Country Tasting Room",
+        "id": 608,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room",
+            "Breweries",
+            "Wine Bars"
+        ],
+        "website": "https://www.hillcountrytastingroom.com",
+        "longitude": -98.032746,
+        "latitude": 30.146753,
+        "address": "18992 Fm 150 WSte 101",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(512) 829-8977",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "3:00 PM - 7:00 PM",
+            "Fri": "3:00 PM - 7:00 PM",
+            "Sat": "1:00 PM - 7:00 PM",
+            "Sun": "1:00 PM - 6:00 PM"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Staff wears masks",
+            "Accepts Credit Cards",
+            "Outdoor Seating",
+            "Casual",
+            "Offers Catering",
+            "Good for Groups",
+            "Good For Kids",
+            "Good For Dancing",
+            "Private Lot Parking",
+            "Bike Parking",
+            "Free Wi-Fi",
+            "Beer & Wine Only",
+            "Smoking Outside Only",
+            "TV",
+            "Gender-neutral restrooms",
+            "Open to All",
+            "Covered outdoor seating"
+        ],
+        "unaccommodations": [
+            "No Reservations",
+            "No Takeout",
+            "Masks required",
+            "No Happy Hour",
+            "Not Wheelchair Accessible",
+            "Heated outdoor seating"
+        ],
+        "rating_value": "4.5",
+        "review_count": "19"
+    },
+    {
+        "name": "Hill Country Wine Shoppe",
+        "id": 621,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://hillcountrywineshoppe.com",
+        "longitude": -98.097435,
+        "latitude": 29.995913,
+        "address": "114B Wimberley Sq",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(512) 847-2828",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "12:00 PM - 5:00 PM",
+            "Tue": "12:00 PM - 5:00 PM",
+            "Wed": "12:00 PM - 5:00 PM",
+            "Thu": "12:00 PM - 5:00 PM",
+            "Fri": "12:00 PM - 5:00 PM",
+            "Sat": "12:00 PM - 5:00 PM",
+            "Sun": "12:00 PM - 5:00 PM"
+        },
+        "accommodations": [
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Street Parking",
+            "Bike Parking"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Offers Catering",
+            "Not Good For Kids"
+        ],
+        "rating_value": "4",
+        "review_count": "18"
+    },
+    {
+        "name": "Seventh Son Vineyards",
+        "id": 147,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tasting Room"
+        ],
+        "website": "https://www.seventhsonvineyards.com",
+        "longitude": -98.236152,
+        "latitude": 29.995161,
+        "address": "5424 Fischer Store Rd",
+        "postal_code": "78676",
+        "city": "Wimberley",
+        "state": "TX",
+        "telephone": "(830) 935-4078",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "Closed",
+            "Thu": "Closed",
+            "Fri": "Closed",
+            "Sat": "12:00 PM - 6:00 PM",
+            "Sun": "12:00 PM - 6:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Dripping With Taste Wine and Food Festival",
+        "id": 46,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries",
+            "Distilleries",
+            "Festivals"
+        ],
+        "website": "http://www.drippingwithtaste.com/",
+        "longitude": -98.086678,
+        "latitude": 30.190207,
+        "address": "600 W Hwy 290",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(512) 858-4740",
+        "price": "Pricey",
+        "hours": {},
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Private Lot Parking"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Not Good For Kids"
+        ],
+        "rating_value": "2.5",
+        "review_count": "16"
+    },
+    {
+        "name": "Lol Liquors",
+        "id": 232,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries",
+            "Whiskey Bars",
+            "Cigar Bars"
+        ],
+        "website": "",
+        "longitude": -98.314011,
+        "latitude": 29.615513,
+        "address": "18838 Fm 2252",
+        "postal_code": "78266",
+        "city": "San Antonio",
+        "state": "TX",
+        "telephone": "(210) 538-8802",
+        "price": "",
+        "hours": {},
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "1"
+    },
+    {
+        "name": "L'Avventura Dolce",
+        "id": 337,
+        "open_for_business": 1,
+        "tags": [
+            "Tours",
+            "Limos"
+        ],
+        "website": "http://www.thesweetadventure.com",
+        "longitude": -97.800293,
+        "latitude": 30.208641,
+        "address": "",
+        "postal_code": "78745",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 569-9218",
+        "price": "",
+        "hours": {},
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4.5",
+        "review_count": "5"
+    },
+    {
+        "name": "All About Central Texas",
+        "id": 38,
+        "open_for_business": 1,
+        "tags": [
+            "Food Tours",
+            "Wine Tours"
+        ],
+        "website": "http://www.allaboutcentraltexas.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "78749",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 784-2426",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "2"
+    },
+    {
+        "name": "Cin Cin Wines",
+        "id": 530,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "",
+        "longitude": -98.305208,
+        "latitude": 29.589402,
+        "address": "9330 Corporate Dr",
+        "postal_code": "78154",
+        "city": "Selma",
+        "state": "TX",
+        "telephone": "(210) 651-1100",
+        "price": "",
+        "hours": {},
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "",
+        "review_count": ""
+    },
+    {
+        "name": "The Driftwood Bistro",
+        "id": 47,
+        "open_for_business": 1,
+        "tags": [
+            "Seafood",
+            "Wine Tasting Room",
+            "American (Traditional)"
+        ],
+        "website": "http://www.thedriftwoodbistro.com",
+        "longitude": -98.086253,
+        "latitude": 30.103036,
+        "address": "4001 Elder Hill Rd",
+        "postal_code": "78619",
+        "city": "Driftwood",
+        "state": "TX",
+        "telephone": "(737) 414-0222",
+        "price": "",
+        "hours": {
+            "Mon": "11:00 AM - 6:00 PM",
+            "Tue": "11:00 AM - 6:00 PM",
+            "Wed": "11:00 AM - 6:00 PM",
+            "Thu": "11:00 AM - 6:00 PM",
+            "Fri": "11:00 AM - 6:00 PM",
+            "Sat": "11:00 AM - 6:00 PM",
+            "Sun": "11:00 AM - 6:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "3"
+    },
+    {
+        "name": "Austin Brewery Tours",
+        "id": 60,
+        "open_for_business": 1,
+        "tags": [
+            "Beer Tours"
+        ],
+        "website": "http://www.austinbrewerytours.com",
+        "longitude": -97.781552,
+        "latitude": 30.218868,
+        "address": "4714 Mt Vernon Dr",
+        "postal_code": "78745",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 412-9268",
+        "price": "",
+        "hours": {
+            "Mon": "Closed",
+            "Tue": "Closed",
+            "Wed": "4:00 PM - 8:00 PM",
+            "Thu": "4:00 PM - 8:00 PM",
+            "Fri": "4:00 PM - 8:00 PM",
+            "Sat": "12:00 PM - 9:00 PM",
+            "Sun": "12:00 PM - 9:00 PM"
+        },
+        "accommodations": [
+            "Offers Military Discount"
+        ],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "44"
+    },
+    {
+        "name": "Slowpokes Wine Tours",
+        "id": 413,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.slowpokeswinerytours.com",
+        "longitude": -98.084726,
+        "latitude": 30.191697,
+        "address": "100 Commons RdSte 7-345",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(214) 226-0322",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 5:00 PM",
+            "Tue": "9:00 AM - 5:00 PM",
+            "Wed": "9:00 AM - 5:00 PM",
+            "Thu": "9:00 AM - 5:00 PM",
+            "Fri": "9:00 AM - 5:00 PM",
+            "Sat": "9:00 AM - 5:00 PM",
+            "Sun": "9:00 AM - 5:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "5",
+        "review_count": "17"
+    },
+    {
+        "name": "Austin Wine Tours",
+        "id": 270,
+        "open_for_business": 1,
+        "tags": [
+            "Wine Tours"
+        ],
+        "website": "http://www.winetoursaustintx.com",
+        "longitude": 0.0,
+        "latitude": 0.0,
+        "address": "",
+        "postal_code": "73301",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 537-2095",
+        "price": "",
+        "hours": {
+            "Mon": "9:00 AM - 10:00 PM",
+            "Tue": "9:00 AM - 10:00 PM",
+            "Wed": "9:00 AM - 10:00 PM",
+            "Thu": "9:00 AM - 10:00 PM",
+            "Fri": "9:00 AM - 10:00 PM",
+            "Sat": "9:00 AM - 10:00 PM",
+            "Sun": "9:00 AM - 10:00 PM"
+        },
+        "accommodations": [],
+        "unaccommodations": [],
+        "rating_value": "4",
+        "review_count": "11"
+    },
+    {
+        "name": "Personal Wine",
+        "id": 324,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "https://www.personalwine.com",
+        "longitude": -97.711037,
+        "latitude": 30.205094,
+        "address": "3636 Dime CirSte A",
+        "postal_code": "78744",
+        "city": "Austin",
+        "state": "TX",
+        "telephone": "(512) 476-9463",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "9:00 AM - 6:00 PM",
+            "Tue": "9:00 AM - 6:00 PM",
+            "Wed": "9:00 AM - 6:00 PM",
+            "Thu": "9:00 AM - 6:00 PM",
+            "Fri": "9:00 AM - 6:00 PM",
+            "Sat": "Closed",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Accepts Credit Cards",
+            "Street Parking",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Accepts Android Pay",
+            "Accepts Apple Pay",
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "Not Good For Kids",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "Dogs Not Allowed"
+        ],
+        "rating_value": "4.5",
+        "review_count": "44"
+    },
+    {
+        "name": "Specialty Blends",
+        "id": 79,
+        "open_for_business": 1,
+        "tags": [
+            "Wineries"
+        ],
+        "website": "http://www.ilovemargaritas.com",
+        "longitude": -98.164758,
+        "latitude": 30.197316,
+        "address": "141 Dos Lagos",
+        "postal_code": "78620",
+        "city": "Dripping Springs",
+        "state": "TX",
+        "telephone": "(877) 245-6682",
+        "price": "",
+        "hours": {
+            "Mon": "Open 24 hours",
+            "Tue": "Open 24 hours",
+            "Wed": "Open 24 hours",
+            "Thu": "Open 24 hours",
+            "Fri": "Open 24 hours",
+            "Sat": "Open 24 hours",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Offers Delivery",
+            "Accepts Credit Cards"
+        ],
+        "unaccommodations": [
+            "No Takeout",
+            "Offers Catering",
+            "No Bike Parking",
+            "No Wi-Fi",
+            "No Happy Hour"
+        ],
+        "rating_value": "",
+        "review_count": ""
+    },
+    {
+        "name": "Total Wine and More",
+        "id": 489,
+        "open_for_business": 1,
+        "tags": [
+            "Beer, Wine & Spirits",
+            "Tobacco Shops"
+        ],
+        "website": "http://www.totalwine.com/store-info/texas-sunset-valley/509",
+        "longitude": -97.82098,
+        "latitude": 30.22544,
+        "address": "5601 Brodie LnSte 800",
+        "postal_code": "78745",
+        "city": "Sunset Valley",
+        "state": "TX",
+        "telephone": "(512) 892-8763",
+        "price": "Moderate",
+        "hours": {
+            "Mon": "10:00 AM - 9:00 PM",
+            "Tue": "10:00 AM - 9:00 PM",
+            "Wed": "10:00 AM - 9:00 PM",
+            "Thu": "10:00 AM - 9:00 PM",
+            "Fri": "10:00 AM - 9:00 PM",
+            "Sat": "10:00 AM - 9:00 PM",
+            "Sun": "Closed"
+        },
+        "accommodations": [
+            "Health Score",
+            "Offers Delivery",
+            "Masks required",
+            "Many Vegetarian Options",
+            "Accepts Credit Cards",
+            "Accepts Apple Pay",
+            "Private Lot Parking",
+            "Wheelchair Accessible"
+        ],
+        "unaccommodations": [
+            "Accepts Cryptocurrency",
+            "Offers Catering",
+            "No Bike Parking"
+        ],
+        "rating_value": "4",
+        "review_count": "75"
+    }
+]

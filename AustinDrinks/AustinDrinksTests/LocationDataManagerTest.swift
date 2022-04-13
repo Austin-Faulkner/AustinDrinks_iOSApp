@@ -36,43 +36,43 @@ class LocationDataManagerTest: XCTestCase {
         XCTAssertTrue(sut.locationItem(at: 0).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // Cedar Park, TX
-        XCTAssertTrue(sut.locationItem(at: 1).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 1).city != nil, "Expecting a city in Ceday Park or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 1).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // Dripping Springs, TX
-        XCTAssertTrue(sut.locationItem(at: 2).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 2).city != nil, "Expecting a city in Dripping Springs or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 2).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // Fredericksburg, TX
-        XCTAssertTrue(sut.locationItem(at: 3).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 3).city != nil, "Expecting a city in Fredericksburg or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 3).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // Georgetown, TX
-        XCTAssertTrue(sut.locationItem(at: 4).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 4).city != nil, "Expecting a city in Georgetown or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 4).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // Marble Falls, TX
-        XCTAssertTrue(sut.locationItem(at: 5).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 5).city != nil, "Expecting a city in Marble falls or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 5).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // New Braunfels, TX
-        XCTAssertTrue(sut.locationItem(at: 6).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 6).city != nil, "Expecting a city in New Braunfels or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 6).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // Round Rock, TX
-        XCTAssertTrue(sut.locationItem(at: 7).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 7).city != nil, "Expecting a city in Round Rock or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 7).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // San Antonio, TX
-        XCTAssertTrue(sut.locationItem(at: 8).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 8).city != nil, "Expecting a city in San Antonio or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 8).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // San Marcos, TX
-        XCTAssertTrue(sut.locationItem(at: 9).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 9).city != nil, "Expecting a city in San Marcos or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 9).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
         
         // Wimberley, TX
-        XCTAssertTrue(sut.locationItem(at: 10).city != nil, "Expecting a city in Austin or the surrounding area in the LocationItems dictionary.")
+        XCTAssertTrue(sut.locationItem(at: 10).city != nil, "Expecting a city in Wimberley or the surrounding area in the LocationItems dictionary.")
         XCTAssertTrue(sut.locationItem(at: 10).state != nil, "Expecting a state (TX) in the LocationItems dictionary.")
     }
 }

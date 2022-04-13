@@ -2,7 +2,7 @@
 //  MapViewController.swift
 //  AustinDrinks
 //
-//  Created by Austin Faulkner on 3/3/22.
+//  Created by Austin Faulkner on 4/3/22.
 //
 
 import UIKit
@@ -13,35 +13,6 @@ class MapViewController: UIViewController {
     @IBOutlet var mapView: MKMapView!
     private let manager = MapDataManager()
     var selectedEstablishment: EstablishmentItem?
-    
-    // ADDED:
-    //----
-//    @IBAction func locationSelected(_ sender: LocationViewController) {
-// //       var city = sender.selectedCity?.city
-//        if let city = sender.selectedCity?.city{
-//            // update the map here to go to this location.
-//            print("we made it! \(city)")
-//        }
-////        if let viewController = sender.source as? LocationViewController{
-////            selectedCity = viewController.selectedCity
-////            if let location = selectedCity?.city{
-////                // update the map here to go to this location.
-////                print("we made it! \(location)")
-////            }
-////        }
-//    }
-//
-//    @IBAction func locationSelected(segue: UIStoryboardSegue)
-//    {
-//        if let viewController = segue.source as? LocationViewController{
-//            selectedCity = viewController.selectedCity
-//            if let location = selectedCity?.city{
-//                // update the map here to go to this location.
-//                print("we made it! \(location)")
-//            }
-//        }
-//    }
-    //---- ------ADDED -^
     var selectedCity: LocationItem?
     
     override func viewDidLoad() {
