@@ -8,6 +8,8 @@ down one's search for the perfect craft-beverage experience!
 
 In short, this app is all about conveience, on-the-go, craft-beverage exploration and discovery. L'chaim!
 
+- ![#00FFFF](https://via.placeholder.com/15/1589F0/000000?text=+) `#00FFFF`
+
 Copyright © Austin Faulkner. All rights reserved.
 
 ## State Chart for AustinDrinks
