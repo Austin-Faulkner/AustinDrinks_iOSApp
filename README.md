@@ -7,10 +7,8 @@ wineries in Austin and its surrounding areas. Austin and its surrounding areas o
 down one's search for the perfect craft-beverage experience!
 
 In short, this app is all about conveience, on-the-go, craft-beverage exploration and discovery. L'chaim!
-<!-- 
-- ![#00FFFF](https://via.placeholder.com/15/1589F0/000000?text=+) `#00FFFF` -->
 
-<span style="color:blue">some *blue* text</span>
+- ![#00FFFF](https://via.placeholder.com/15/1589F0/000000?text="Copyright © Austin Faulkner. All rights reserved.) `#00FFFF` 
 
 Copyright © Austin Faulkner. All rights reserved.
 
