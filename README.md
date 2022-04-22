@@ -41,6 +41,6 @@ HOW TO READ: Read from left-to-right and from the topmost image to the bottommos
 
 [Acceptance Test Cases.pdf](https://github.com/Austin-Faulkner/AustinDrinks_iOSApp/files/8429499/Acceptance.Test.Cases.pdf)
 
- # See "Austin Drinks Full Demo.mov" for full demonstration of interactivity on the app.
+ # See "Austin Drinks Full Demo.mov" for a Full Demonstration of the Interactivity on the App.
  
  
