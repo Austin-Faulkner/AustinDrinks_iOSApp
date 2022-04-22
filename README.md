@@ -40,3 +40,7 @@ HOW TO READ: Read from left-to-right and from the topmost image to the bottommos
 6. THE WEBSITE PATH: Once on the ESTABLISHMENT DETAIL page, either having arrived there by way of the EXPLORE PATH or the MAP PATH, the user may select the "Website" button. Selecting this button will re-direct the user to the craft-beverage establishment's website where the user may explore more about the establishment's drink offerings. So, if for example, the user is on Still Austin Whiskey's ESTABLISHMENT DETAIL page, upon touching the Website button, the user will be re-directed to Still Austin Whiskey's website, where the user may further explore what Still Austin Whiskey has in the way of drink offerings, its history, and whatever the site happens to deliver.
 
 [Acceptance Test Cases.pdf](https://github.com/Austin-Faulkner/AustinDrinks_iOSApp/files/8429499/Acceptance.Test.Cases.pdf)
+
+ # See "Austin Drinks Full Demo.mov" for full demonstration of interactivity on the app.
+ 
+ 
