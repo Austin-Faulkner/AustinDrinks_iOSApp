@@ -42,7 +42,7 @@ HOW TO READ: Read from left-to-right and from the topmost image to the bottommos
 [Acceptance Test Cases.pdf](https://github.com/Austin-Faulkner/AustinDrinks_iOSApp/files/8429499/Acceptance.Test.Cases.pdf)
 
  # See "AustinDrinks Full Demo.mov" in the Repository
- The demo will provide a full demonstration of the various interactivity on the app. Note that the CoreData API allows the app to share all on-device Reviews and and shared experience Photos with other app users. 
+ The demo will provide a full demonstration of the various interactivity on the app. Note that the CoreData API allows the app to share all on-device Reviews and shared experience Photos with other app users. 
  
  
  
