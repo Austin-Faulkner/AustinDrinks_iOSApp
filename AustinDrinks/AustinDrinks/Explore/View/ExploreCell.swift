@@ -7,6 +7,7 @@
 
 import UIKit
 
+// More business logic about how the Explore panes will present in the Explore Path (see Acceptance Tests)
 class ExploreCell: UICollectionViewCell {
    
     @IBOutlet var exploreImageView: UIImageView!

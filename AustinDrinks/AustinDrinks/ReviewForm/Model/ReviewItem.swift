@@ -14,7 +14,7 @@ struct ReviewItem {
     var name: String?
     var customerReview: String?
     var establishmentID: Int64?
-    var uuid = UUID() 
+    var uuid = UUID()
 }
 
 extension ReviewItem {
@@ -25,7 +25,7 @@ extension ReviewItem {
         self.name = review.name
         self.customerReview = review.customerReview
         self.establishmentID = review.establishmentID
-        if let reviewUUID = review.uuid {
+        if let reviewUUID = review.uuid { // The API logic for attaching the unique 'establishmentID' to CoreData
             self.uuid = reviewUUID
         }
     }

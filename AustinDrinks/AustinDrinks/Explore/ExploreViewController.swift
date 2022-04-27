@@ -8,6 +8,10 @@
 import UIKit
 import MapKit
 
+
+// ExploreViewController is a UIViewController and a UICollectionViewDelegate,
+// since it both provides for a ViewController of the various types of craft-beverages and
+// it provides for a segue (a delegate) to the DrinkingEstablishmentCells
 class ExploreViewController: UIViewController, UICollectionViewDelegate {
 
     @IBOutlet weak var collectionView: UICollectionView!
@@ -36,6 +40,7 @@ class ExploreViewController: UIViewController, UICollectionViewDelegate {
         }
     }
     
+    // Segue check
     override func shouldPerformSegue(withIdentifier identifier: String, sender: Any?) -> Bool {
         if identifier == Segue.establishmentList.rawValue,
            selectedCity == nil {
@@ -53,6 +58,7 @@ private extension ExploreViewController {
         setupCollectionView()
     }
     
+    // "Beer", "Spirits", "Wine" display properties
     func setupCollectionView() {
         let flow = UICollectionViewFlowLayout()
         flow.sectionInset = UIEdgeInsets(top: 7, left: 7, bottom: 7, right: 7)
@@ -69,7 +75,7 @@ private extension ExploreViewController {
         viewController.selectedCity = selectedCity
     }
     
-    
+    // Establishments cities in the Austin and 10 surrounding areas take the form, e.g., "Fredericksburg, TX"
     func showEstablishmentList(segue: UIStoryboardSegue) {
         if let viewController = segue.destination as? DrinkingEstablishmentsListViewController,
            let city = selectedCity,
@@ -79,6 +85,7 @@ private extension ExploreViewController {
         }
     }
     
+    // Flag to ensure user selects a location first before selecting a craft-beverage type
     func showLocationRequiredAction() {
         let alertController = UIAlertController(title: "Location Needed", message: "Please select a location.", preferredStyle: .alert)
         let okAction = UIAlertAction(title: "Ok", style: .default, handler: nil)
@@ -99,6 +106,8 @@ private extension ExploreViewController {
     }
 }
 
+
+// View Control Delegate (segue) layaout for respective Apple devices
 extension ExploreViewController: UICollectionViewDelegateFlowLayout {
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
         var columns: CGFloat = 2

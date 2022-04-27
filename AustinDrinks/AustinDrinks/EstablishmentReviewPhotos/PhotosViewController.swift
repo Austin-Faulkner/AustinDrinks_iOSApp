@@ -7,10 +7,12 @@
 
 import UIKit
 
+// Establishes the ViewController properties of any one EstablishmentPhotoItem object
 class PhotosViewController: UIViewController {
 
     @IBOutlet var collectionView: UICollectionView!
     var selectedEstablishmentID: Int?
+    // 'establishementPhotos' is an array of EstablishmentPhotoItem objects
     var establishmentPhotos: [EstablishmentPhotoItem] = []
 
     override func viewDidLoad() {

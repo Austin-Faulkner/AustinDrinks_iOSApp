@@ -7,6 +7,7 @@
 
 import UIKit
 
+// This class is provided by the XCode set-up API
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 

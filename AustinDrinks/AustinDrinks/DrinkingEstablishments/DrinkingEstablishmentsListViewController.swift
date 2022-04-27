@@ -11,9 +11,11 @@ class DrinkingEstablishmentsListViewController: UIViewController, UICollectionVi
     
     private let manager = EstablishmentDataManager()
     
-    var selectedEstablishment: EstablishmentItem?
-    var selectedCity: LocationItem?
-    var selectedTags: String?
+    var selectedEstablishment: EstablishmentItem? // Allows for establishment selection on Drinking Establishments
+                                                  // List View page such that a delegate (a segue) can allow for a
+                                                  // transition from the Establishment List View to the Establishment Detail View.
+    var selectedCity: LocationItem? // City selected from Explore PATH
+    var selectedTags: String? // Type of craft-beverage selected on Explore Path
     
     @IBOutlet var collectionView: UICollectionView!
     
@@ -37,25 +39,8 @@ class DrinkingEstablishmentsListViewController: UIViewController, UICollectionVi
         initialize()
     }
 
-// TODO: implement a more general selectedEstablishment?.website Go button
-
+    // TODO: moded feature of the List View for establishments; 'GO' moved to Establishment Detail View, and is renamed 'Website'.
     @IBAction func goButton(_ sender: UIButton) {
-//        if let indexPath = collectionView.indexPathsForSelectedItems?.first {
-//            selectedEstablishment = manager.establishmentItem(at: indexPath.row)
-//            UIApplication.shared.open(URL(string: selectedEstablishment?.website)! as URL, options: [:], completionHandler: nil)
-//        }
-        
-        //ADDED:
-        // When GO is clicked, we want to get the name of this establishment, and make it selected
-        // pseudo code:
-        // sender->parent->parent->TitleLabel->GetLabel()
-        // where sender is the button that is clicked
-        
-        // use the name to get the URL from the JSON data
-        
-        // open the URL
-//        UIApplication.shared.open(URL(string: selectedEstablishment?.website ?? "https://www.hackerrank.com")! as URL, options: [:], completionHandler: nil)
-
         UIApplication.shared.open(URL(string: "https://www.hackerrank.com/")! as URL, options: [:], completionHandler: nil)
     }
 }
@@ -68,6 +53,7 @@ private extension DrinkingEstablishmentsListViewController {
         setupCollectionView()
     }
     
+    // List View Flow properties
     func setupCollectionView() {
         let flow = UICollectionViewFlowLayout()
         flow.sectionInset = UIEdgeInsets(top: 7, left: 7, bottom: 7, right: 7)
@@ -108,8 +94,6 @@ private extension DrinkingEstablishmentsListViewController {
         navigationController?.navigationBar.prefersLargeTitles = true
     }
 }
-
-// TODO: CORRECT THE POSITION OF THE BOTTOM DATA
 
 extension DrinkingEstablishmentsListViewController: UICollectionViewDelegateFlowLayout {
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {

@@ -114,7 +114,7 @@
                                                     <rect key="frame" x="26" y="212" width="323" height="35"/>
                                                     <state key="normal" title="Button"/>
                                                     <buttonConfiguration key="configuration" style="plain" title="Website">
-                                                        <fontDescription key="titleFontDescription" type="system" weight="semibold" pointSize="14"/>
+                                                        <fontDescription key="titleFontDescription" type="system" weight="heavy" pointSize="18"/>
                                                         <color key="baseForegroundColor" systemColor="systemTealColor"/>
                                                     </buttonConfiguration>
                                                     <connections>

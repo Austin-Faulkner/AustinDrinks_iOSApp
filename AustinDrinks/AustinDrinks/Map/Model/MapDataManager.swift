@@ -5,9 +5,10 @@
 //  Created by Austin Faulkner on 4/13/22.
 //
 
-import Foundation
+import Foundation // one of Apple's core frameworks. To read more about it visit https://developer.apple.com/documentation/foundation
 import MapKit
 
+// MapDataManager is a DataManager, thus it inherits from DataManager's plist interpretation
 class MapDataManager: DataManager {
     private var items: [EstablishmentItem] = []
     var annotations: [EstablishmentItem] {
@@ -30,7 +31,7 @@ class MapDataManager: DataManager {
         })
     }
     
-    // overloaded fetch method for testing: MapDataManager
+    // Overloaded fetch method for testing: MapDataManager
     func fetch() {
         let manager = EstablishmentDataManager()
         let city = "Austin"
@@ -40,17 +41,7 @@ class MapDataManager: DataManager {
         })
     }
     
-//    func initialRegion(latDelta: CLLocationDegrees, longDelta: CLLocationDegrees) -> MKCoordinateRegion {
-//        guard let item = items.first else {
-//            return MKCoordinateRegion()
-//        }
-//
-//        let span = MKCoordinateSpan(latitudeDelta: latDelta, longitudeDelta: longDelta)
-//        return MKCoordinateRegion(center: item.coordinate, span: span)
-//    }
-    
     func currentRegion(latDelta: CLLocationDegrees, longDelta: CLLocationDegrees) -> MKCoordinateRegion {
-        print(items.first?.name)
         guard let item = items.first else {
             return MKCoordinateRegion()
         }

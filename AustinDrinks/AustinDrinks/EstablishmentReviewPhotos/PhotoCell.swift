@@ -11,6 +11,7 @@ class PhotoCell: UICollectionViewCell {
     @IBOutlet var imageReview: UIImageView!
 }
 
+// Establishes PhotoCell properties of user-images of establishments
 extension PhotoCell {
     func set(image: UIImage) {
         imageReview.image = image

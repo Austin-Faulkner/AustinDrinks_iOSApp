@@ -8,6 +8,7 @@
 import UIKit
 import AVFoundation
 
+
 class PhotoFilterViewController: UIViewController {
 
     @IBOutlet var mainImageView: UIImageView!
@@ -32,6 +33,9 @@ private extension PhotoFilterViewController {
         checkSource()
     }
     
+    // The saving business logic for the photo the user chooses from 'Photos' or Albums' on her device
+    // Device can be an iPad, or iPhone all the back to version 7 of the iPhone, but the iOS needs to be
+    // updated to iOS 15.0 or greater.
     func saveSelectedPhoto() {
         if let mainImage = self.mainImageView.image {
             var estPhotoItem = EstablishmentPhotoItem()
