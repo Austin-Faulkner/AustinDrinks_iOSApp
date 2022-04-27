@@ -7,6 +7,8 @@
 
 import UIKit
 
+// FilterCell is a UICollectionViewCell just like ReviewCell and PhotoCell; this class establishees properties
+// of the FilterCell
 class FilterCell: UICollectionViewCell {
     
     @IBOutlet var nameLabel: UILabel!
@@ -17,6 +19,7 @@ class FilterCell: UICollectionViewCell {
         thumbnailImageView.layer.masksToBounds = true
     }
 }
+
 
 extension FilterCell: ImageFiltering {
     func set(filterItem: FilterItem, imageForThumbnail: UIImage) {

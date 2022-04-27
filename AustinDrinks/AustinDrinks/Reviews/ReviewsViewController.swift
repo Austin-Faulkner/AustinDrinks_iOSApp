@@ -8,6 +8,7 @@
 import UIKit
 import MapKit
 
+// ReviewsViewController is a UIViewController
 class ReviewsViewController: UIViewController {
 
     @IBOutlet var collectionView: UICollectionView!
@@ -36,12 +37,13 @@ private extension ReviewsViewController {
         setupCollectionView()
     }
     
-    // Flow design
+    // Similar to the PhotoViewController, we have here proportional properties for the Reviews Flow design
     func setupCollectionView() {
         let flow = UICollectionViewFlowLayout()
         flow.sectionInset = UIEdgeInsets(top: 7, left: 7, bottom: 7, right: 7)
         flow.minimumInteritemSpacing = 0
         flow.minimumLineSpacing = 7
+        // This property allows the flow layout to be scrolled left and right to view all reviews postings
         flow.scrollDirection = .horizontal
         collectionView.collectionViewLayout = flow
     }
@@ -55,7 +57,7 @@ private extension ReviewsViewController {
                 collectionView.backgroundView = nil
             } else {
                 let view = NoDataView(frame: CGRect(x: 0, y: 0, width: collectionView.frame.width, height: collectionView.frame.height))
-                view.set(title: "Reviews", desc: "There are currently no reviews.", accomm: "", rating: "", count: "") // TODO: Maybe I can change this method set(). See NoDataView.swift
+                view.set(title: "Reviews", desc: "There are currently no reviews.", accomm: "", rating: "", count: "") 
                 collectionView.backgroundView = view
             }
         }
@@ -69,7 +71,8 @@ extension ReviewsViewController: UICollectionViewDataSource {
         reviewItems.count
     }
     
-    // The collection view for reviews cell
+    // The collection view for reviews cell; provides for all the properties--e.g., the 'name' of the reviewer (should she wish to disclose her name)--relevant
+    // to the ReviewsView.
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "reviewCell", for: indexPath) as! ReviewCell
         let reviewItem = reviewItems[indexPath.item]

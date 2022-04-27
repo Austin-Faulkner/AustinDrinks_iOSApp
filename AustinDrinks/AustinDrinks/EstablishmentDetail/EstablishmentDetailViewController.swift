@@ -8,10 +8,12 @@
 import UIKit
 import MapKit
 
+// EstablishmentDetailViewController is a UITableViewContoller which in this case provides all
+// AustinDrinks application relevant data to a specific craft-beverage establishment
 class EstablishmentDetailViewController: UITableViewController {
     
-    // Nav Bar
-    @IBOutlet var heartButton: UIBarButtonItem! // TO IMPLEMENT OR NOT?!? TODO: Consider it later; probably not going to implement.
+    // Nav Bar Content
+    @IBOutlet var heartButton: UIBarButtonItem!
     @IBOutlet var nameLabel: UILabel!
     @IBOutlet var tagsLabel: UILabel!
     @IBOutlet var headerAddressLabel: UILabel!
@@ -98,6 +100,7 @@ private extension EstablishmentDetailViewController {
         }
     }
     
+    // Nav Bar content formatting for ViewController
     func setupLabels() {
         guard let establishment = selectedEstablishment else {
             return
@@ -119,6 +122,7 @@ private extension EstablishmentDetailViewController {
         unaccommodationsLabelDetail.text = establishment.unaccommodation_attributes
     }
     
+    // For miniature map of establishment at bottom of detail view page in the app
     func createMap() {
         guard let annotation = selectedEstablishment,
               let long = annotation.longitude,
@@ -129,6 +133,7 @@ private extension EstablishmentDetailViewController {
         takeSnapshot(with: location)
     }
     
+    // This finction allows the user to go from the Map Path in AustinDrinks to EstablishmentDetailView
     func takeSnapshot(with location: CLLocationCoordinate2D) {
         let mapSnapshotOptions = MKMapSnapshotter.Options()
         var loc = location

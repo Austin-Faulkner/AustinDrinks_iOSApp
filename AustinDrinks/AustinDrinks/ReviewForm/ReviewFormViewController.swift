@@ -14,9 +14,7 @@ class ReviewFormViewController: UITableViewController {
     @IBOutlet var ratingsView: RatingsView!
     @IBOutlet var titleTextField: UITextField!
     @IBOutlet var nameTextField: UITextField!
-    @IBOutlet var reviewTextView: UITextView!
-//    @IBOutlet var yelpReviewsTextView: UITextView!  // see if we can add a UIView to contain all Yelp reviews. TODO: evaluate whether or not to use this. Probably not.
-    
+    @IBOutlet var reviewTextView: UITextView!    
 
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -8,7 +8,7 @@
 import UIKit
 import CoreImage
 
-// Filtering business logic coming from the CoreImage API
+// Filtering business logic coming from the abstracted CoreImage API
 protocol ImageFiltering {
     func apply(filter: String, originalImage: UIImage) -> UIImage
 }

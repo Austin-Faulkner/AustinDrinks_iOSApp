@@ -8,6 +8,10 @@
 import Foundation
 import UIKit
 
+// Helper class in decoding the JSON structured in EstablishmentItem Model.
+// EstablishmentItem has all the attributes contained in each of the 11 JSON
+// files, in the right order, and the JSON file communicates with the JSON API Decodable (since
+// in AustinDrinsk only needs to decode prior-existing data-collected JSON files).
 class EstablishmentDataManager {
     
     private var establishmentItems: [EstablishmentItem] = []
@@ -31,7 +35,7 @@ class EstablishmentDataManager {
         completionHandler(establishmentItems)
     }
     
-    // overloaded fetch method for testing
+    // Overloaded fetch method for testing
     func fetch(location: String, selectedEthanol: String = "All") {
         if let file = Bundle.main.url(forResource: location, withExtension: "json") {
             do {
@@ -48,7 +52,6 @@ class EstablishmentDataManager {
                 print("There was an error \(error)")
             }
         }
-//        print("Number of drinking establishments in Austin and surrounding areas: ", numberOfEstablishmentItems())
     }
     
     func numberOfEstablishmentItems() -> Int {

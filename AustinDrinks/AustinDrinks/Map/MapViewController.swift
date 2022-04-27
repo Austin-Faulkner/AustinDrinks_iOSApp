@@ -2,7 +2,7 @@
 //  MapViewController.swift
 //  AustinDrinks
 //
-//  Created by Austin Faulkner on 4/3/22.
+//  Created by Austin Faulkner on 2/1/22 - 4/3/22.
 //
 
 import UIKit
@@ -81,39 +81,4 @@ extension MapViewController: MKMapViewDelegate {
         }
         return annotationView
     }
-    
-//    func View(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-//        let cell = tableView.dequeueReusableCell(withIdentifier: "locationCell", for: indexPath)
-//        let location = manager.locationItem(at: indexPath.row)
-//        cell.textLabel?.text = location.cityAndState
-//        setCheckmark(for: cell, location: location)
-//        return cell
-//    }
-    
 }
-
-//extension LocationViewController: UITableViewDataSource {
-    
-//    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-//        manager.numberOfLocationsItems()
-//    }
-    
-//    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-//        let cell = tableView.dequeueReusableCell(withIdentifier: "locationCell", for: indexPath)
-//        let location = manager.locationItem(at: indexPath.row)
-//        cell.textLabel?.text = location.cityAndState
-//        setCheckmark(for: cell, location: location)
-//        return cell
-//    }
-//}
-//
-//// MARK: UITableViewDelegate
-//extension LocationViewController: UITableViewDelegate {
-//    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-//        if let cell = tableView.cellForRow(at: indexPath) {
-//            cell.accessoryType = .checkmark
-//            selectedCity = manager.locationItem(at: indexPath.row)
-//            tableView.reloadData()
-//        }
-//    }
-//}

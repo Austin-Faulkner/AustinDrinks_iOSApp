@@ -5,11 +5,13 @@
 //  Created by Austin Faulkner on 2/17/22.
 //
 
-import Foundation
+import Foundation // one of Apple's core frameworks. To read more about it visit https://developer.apple.com/documentation/foundation
 
 class LocationDataManager {
     private var locations: [LocationItem] = []
     
+    // Interpretation of the PLIST ("property-list" in XCode)
+    // containing the software developer-crafted set of 11 cities.
     private func loadData() -> [[String: String]] {
         let decoder = PropertyListDecoder()
         if let path = Bundle.main.path(forResource: "Locations", ofType: "plist"),

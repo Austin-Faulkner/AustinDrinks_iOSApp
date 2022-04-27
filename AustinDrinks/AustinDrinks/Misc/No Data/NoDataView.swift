@@ -7,6 +7,8 @@
 
 import UIKit
 
+// Presents a screen alternative to DrinkingEstablishmentCell when one is not found for some
+// lack of data from the JSON data requested
 class NoDataView: UIView {
 
     
@@ -40,14 +42,12 @@ class NoDataView: UIView {
         view.autoresizingMask = [.flexibleWidth, .flexibleHeight]
         addSubview(view)
     }
-                                                          // formerly Double; formerly Int
+                                                          
     func set(title: String, desc: String, accomm: String, rating: String, count: String) {
-        titleLabel.text = title
-        descLabel.text = desc
-        accommLabel.text = accomm
-        ratingLabel.text = rating //.description  // Just need an Int versioned UILabel member;
-                                   // might have to change this to text along with argument Ints  -> String;
-                                   // this would require us to change rating_value -> String & rating_count -> String
+        titleLabel.text = title //.description
+        descLabel.text = desc //.description
+        accommLabel.text = accomm //.description
+        ratingLabel.text = rating //.description
         countLabel.text = count //.description
     }
 }

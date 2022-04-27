@@ -6,8 +6,8 @@
 //
 
 import UIKit
-//import MapKit
 
+// PRovides for the menu of 11 cities in the Austin, TX and surrounding areas in the Hill Country
 class LocationViewController: UIViewController {
 
     let manager = LocationDataManager()
@@ -20,7 +20,8 @@ class LocationViewController: UIViewController {
         initialize()
     }
     
-    //private
+    // Sets a Checkmark next to the chosen city such there there exist a 1-1 mapping between user choice
+    // and craft-beverage city options
     func setCheckmark(for cell: UITableViewCell, location: LocationItem) {
         if selectedCity == location {
             cell.accessoryType = .checkmark
@@ -65,25 +66,6 @@ extension LocationViewController: UITableViewDataSource {
 
 // MARK: UITableViewDelegate
 extension LocationViewController: UITableViewDelegate {
-
-    
-    //            let indexPath = IndexPath(indexes: 0...10)
-
-    
-//    func cityIndexSelector() -> Int {
-////        tableView(tableView, IndexPath) { () -> Int in {
-//        let indexPath = IndexPath(row: 3, section: 0)
-//            if let cell = tableView.cellForRow(at: indexPath) {
-//                cell.accessoryType = .checkmark
-//                selectedCity = manager.locationItem(at: indexPath.row)
-//                let index = Int((selectedCity?.city)!)
-//                return index!
-//            } else {
-//
-//                return 0
-//            }
-//    }
-  
                                                                                     
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         if let cell = tableView.cellForRow(at: indexPath) {

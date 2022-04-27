@@ -8,6 +8,7 @@
 import CoreData
 import Foundation
 
+// How the Reviews and Photos are saved to the user's device for sharing
 struct CoreDataManager {
     let container: NSPersistentContainer
     init() {
