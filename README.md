@@ -25,6 +25,8 @@ HOW TO READ: Read from left-to-right and from the topmost image to the bottommos
 ![01_2 AD UML](https://user-images.githubusercontent.com/7588505/161167684-ff75eb86-b14b-495e-8428-335b7ccf5fd6.png)
 ![01_3 AD UML](https://user-images.githubusercontent.com/7588505/161167700-6043fc7a-10c7-425a-9caf-21b56523f709.png)
 
+[Outlining the UML Structures & the Crucial Algorithms for AustinDrinks.pdf](https://github.com/Austin-Faulkner/AustinDrinks_iOSApp/files/8599798/Outlining.the.UML.Structures.the.Crucial.Algorithms.for.AustinDrinks.pdf)
+
 # Acceptance Test Cases
 
 1. THE EXPLORE HOME SCREEN: The app opens on the AustinDrinks logo screen, leading to the main screen which is the Explore screen (with the paper airplane icon highlighted at the bottom of the screen just above "Explore"). Now, one may choose one of two separate paths. On may choose to go through the MAP PATH by touching the map pin icon above "Maps" at the bottom of the screen, or one may choose to first select a city among 11 in the Austin and surrounding areas and continue to search establishments based upon a craft-beverage type selection. More on this below in the EXPLORE PATH section.
