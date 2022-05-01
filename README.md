@@ -16,7 +16,7 @@ Copyright © Austin Faulkner. All rights reserved.
 
 ## UML Diagram Generated with the Help of Marco Eidenger's SwiftPlantUML
 
-HOW TO READ: Read from left-to-right and from the topmost image to the bottommost image.
+HOW TO READ: Read from left-to-right and from the topmost image to the bottommost image. For more information, see the paper "Outlining the UML Structures & the Crucial Algorithms for AustinDrinks", attached as a PDF below these diagrams.
 
 ![03_1 AD UML](https://user-images.githubusercontent.com/7588505/161167281-d1ee06d4-c363-4165-9187-21a54accacd5.png)
 ![02_1 AD UML](https://user-images.githubusercontent.com/7588505/161167378-a478277a-ecfa-4b69-8965-c77e131f756d.png)
