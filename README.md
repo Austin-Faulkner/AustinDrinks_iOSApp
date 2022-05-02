@@ -44,7 +44,7 @@ HOW TO READ: Read from left-to-right and from the topmost image to the bottommos
 [Acceptance Test Cases.pdf](https://github.com/Austin-Faulkner/AustinDrinks_iOSApp/files/8429499/Acceptance.Test.Cases.pdf)
 
  # See "AustinDrinks Full Demo.mov" in the Repository
- The demo will provide a full demonstration of the various interactivity on the app. NOTICE: If the .mov or .mp4 files do not work for any reason when the repo is downloaded as a .zip file, simply download the one you want to review individually. Also, note that the CoreData API allows the app to share all on-device Reviews and shared experience Photos with other app users. 
+ The demo will provide a full demonstration of the various interactivity on the app. NOTICE: If the .mov or .mp4 files do not work for any reason when the repo is downloaded as a .zip file, simply download the one you want to review individually. Also, note that the CoreData API allows the app to share all on-device Reviews and shared experience Photos with other app users. Final remark: this app works on a host of Apple modile devices, from the iPhone 7 to the iPhone 13 pro and from any iPad device greater than iPad 8. Note however not all (minor) kinks are worked out for the iPad deployment. 
  
  
  
