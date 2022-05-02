@@ -6,7 +6,7 @@ AustinDrinks provides a one-stop-shop for a local, adult-craft-beverage experien
 wineries in Austin and its surrounding areas. Austin and its surrounding areas offer a rich variety of options, and, whether you're a local or a visitor, the goal of AustinDrinks is to help you narrow 
 down your search for the perfect craft-beverage experience!
 
-In short, this app is all about conveience, on-the-go, craft-beverage exploration and discovery. L'chaim! 
+In short, this app is all about easy, on-the-go craft-beverage exploration and discovery. L'chaim! 
 
 Copyright © Austin Faulkner. All rights reserved.
 
